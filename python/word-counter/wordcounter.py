@@ -6,20 +6,21 @@
 
 # Init
 theCount = 0
+cFlag = True
 
 #Functions
 def safeInput(msg):
     try:
         userInput = input(msg)    
-        return userInput
+        return (userInput, True)
     except EOFError:
-        return False  
+        return("", False)
     
 
-while True:
+while cFlag:
     # Ask for input from standard input
-    userInput = safeInput('Enter your word: ')
-    if (not safeInput):
+    [userInput, cFlag] = safeInput('Enter your word: ') # The function safeInput is called the "callsite"
+    if (not cFlag):
         break
     
     # Count Frequency, ignoring case
@@ -27,8 +28,8 @@ while True:
     if userInput == 'the':
         theCount = theCount + 1
         
-    willContinue = safeInput('Enter more Words? ')
-    if not willContinue or willContinue == 'n' or willContinue == 'no':
+    [willContinue, cFlag] = safeInput('Enter more Words? ')
+    if not cFlag or willContinue[0] == 'n':
         break
 
 print("""

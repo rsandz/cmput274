@@ -17,7 +17,7 @@ outcomes =[
 ]
 
 # generate the pseudo - random number
-number = randint (1 ,6)
+number = randint (1 ,len(outcomes))
 
 # display the number
 print("""
