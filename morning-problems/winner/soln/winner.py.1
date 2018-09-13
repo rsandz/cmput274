@@ -1,0 +1,45 @@
+import math
+
+# Read the input
+n = int(input())
+
+debug = True
+winner = False
+turns = 0
+
+while not winner:
+
+    if n % 2 == 0:
+        # If odd number of coin pairs
+        if (n / 2) % 2 == 1:
+            n = n - 2
+        
+        # If even
+        else:
+            n = n - 1
+    
+    else:
+        # If odd number of turns left
+        if ((n + 1) / 2) % 2 == 1:
+            n = n - 2
+        
+        else:
+            n = n -1
+
+    turns = turns + 1
+    if n <= 0:
+        winner = True
+        break
+    if debug:
+        print(n)
+    
+    
+
+
+# Alice if even, Bob if odd
+if (turns % 2 == 1):
+    print('Alice wins')
+else:
+    print('Bob wins')
+
+
