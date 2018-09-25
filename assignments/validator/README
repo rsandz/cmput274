@@ -1,0 +1,52 @@
+Name: Ryan Sandoval
+ID: 1529017
+Course: CMPUT 274, FALL 2018
+
+# Exercise 1: Password Validator and Generator #
+
+## Included Files: ##
+- validator.py
+    - Cotains the functions required by assignment
+
+
+## Accessories: ##
+    - None
+
+
+## Wiring Instructions: ## 
+    - None
+
+
+## Running Instructions: ##
+
+First import `validator.py` into a python script.
+
+To validate a password:
+    - Call `validate(pass)`, where pass is the password you want to validate.
+
+To generate a password:
+    - Call `generate(n)`, where n is the length of the password you would like to generate
+
+
+## Notes and Assumptions ##
+
+This Program uses the following modules:
+    - random -> Used in the generate password function
+    - re -> Used in validation
+    - string -> Used in generate Password function
+
+### Notes on the solution: ###
+
+A "MIN_LENGTH" constant was defined (Default: 8) as a global variable as to prevent hardcoding of the min password length
+
+Regex Patterns were used in determining the validity of the password.
+The reason for this is that it is more flexible and maintainable than using several `for in` loops. At the same
+time, it is also less complex.
+...Also, I wanted to play around with regular expressions!
+
+The generate function will raise an error if the "n" argument provided is less than the MIN_LENGTH Constant
+
+Happy Grading!
+
+
+
