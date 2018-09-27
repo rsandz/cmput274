@@ -1,0 +1,23 @@
+%pos-features outside weather freezing cloudy sunny snowing
+%pos-label #weather
+%
+#weather It's nice outside.
+#weather I wish it would stop raining.
+#weather Will it be sunny today?
+#weather It's snowing.
+#weather The weather outside is frightful.
+#weather Is the weather going to get better?
+#weather It's cold outside.
+#weather The weather is warming up.
+#weather Make sure to wear a jacket, it's freezing out there.
+#weather It's cloudy today.
+#not-weather I like football.
+#not-weather Did you see the new store?
+#not-weather My soup is hot.
+#not-weather What's happening outside?
+#not-weather When is the festival happening?
+#not-weather The ice is cold.
+#not-weather Does my jacket look good?
+#not-weather I'm going to buy some bread.
+#not-weather Let's go for a walk outside!
+#not-weather I feel sick.
