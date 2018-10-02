@@ -1,0 +1,4 @@
+huffman: 
+    Binary Tree Graph - Directic Acyclic
+        - Has root, leaf (endpoint) and interior nodes
+        - Building nodes, pick less depth
