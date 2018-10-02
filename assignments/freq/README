@@ -1,0 +1,51 @@
+Name: Ryan Sandoval
+ID: 1529017
+Course: CMPUT 274, FALL 2018
+
+# Exercise 3: Word Frequency #
+
+## Included Files: ##
+- freq.py
+    - Cotains the functionality required by assignment
+
+
+## Accessories: ##
+    - None
+
+
+## Wiring Instructions: ## 
+    - None
+
+
+## Running Instructions: ##
+
+To anaylze word frequency in a file:
+    In a command line enter:
+    `python3 freq.py <File-to-analyze>`
+
+
+## Notes and Assumptions ##
+
+This Program uses the following modules:
+    - sys -> Used to read cmd line arguments and to exit
+
+### Notes on the solution: ###
+
+The program will overwrite the contents of the following file:
+    `<File-to-analyze>.out`
+where <File-to-analyze> is the cmd line arg used when running the program
+
+When openning a file, I used the `with` keyword since it automatically closes
+the file upon leaving the `with` block. 
+Since there is not a try...except block when opening file:
+  - Program assumes input file exists. 
+
+An exit value of `1` is returned when program fails due to invalid amount of
+command line arguments.
+---------------------------------------
+
+"sudo ./have-fun-grading"
+
+
+
+
