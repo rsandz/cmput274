@@ -1,0 +1,56 @@
+Name: Ryan Sandoval
+ID: 1529017
+Course: CMPUT 274, FALL 2018
+
+# Exercise 4: Text Preprocessor #
+
+# Description #
+
+Preprocesses text into training data for machine learning.
+
+## Included Files: ##
+- preprocess.py
+    - Cotains the functionality required by assignment
+
+
+## Accessories: ##
+    - None
+
+
+## Wiring Instructions: ## 
+    - None
+
+
+## Running Instructions: ##
+
+To preprocess a text:
+    In a terminal, run:
+        `python3 preprocess.py <mode>`
+            - You will then be prompted to enter your text
+
+The following <mode> are valid (Only 1 at a time):
+    - "keep-digits" - Keeps digits
+    - "keep-stops" - Keep Stop words
+    - "keep-symbols" - Keep Non alphanumerics
+
+
+## Notes and Assumptions ##
+
+This Program uses the following modules:
+    - sys 
+    - re
+
+### Notes on the solution: ###
+
+Regex is used to find and replace invalid characters in words.
+It's less complex looking than using for loops and can be edited to
+match edge cases better.
+
+There's a debug flag, but it does not do anything.
+It's just there for future use.
+
+An exit value of `1` is returned when program fails due to invalid 
+command line arguments.
+---------------------------------------
+
+Happy Grading! ^_^
