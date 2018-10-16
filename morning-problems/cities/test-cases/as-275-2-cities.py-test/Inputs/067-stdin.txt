@@ -1,0 +1,147 @@
+72
+Bangkok---San Juan
+Luanda---Tripoli
+Nassau---Funafuti
+Praia---Conakry
+Addis Ababa---Stepanakert
+Victoria---Saipan
+Ljubljana---Bogotá
+Niamey---Accra
+Jerusalem---Stepanakert
+Athens---Berlin
+Belgrade---Jerusalem
+San Salvador---Tehran
+Flying Fish Cove---Nukuʻalofa
+Kigali---Bissau
+Doha---San Juan
+Suva---Amsterdam
+Guatemala City---Dhaka
+Bamako---Guatemala City
+Dhaka---Jerusalem
+Lusaka---Santiago
+Tashkent---Santiago
+Asunción---Beirut
+Antananarivo---Lusaka
+Podgorica---Guatemala City
+Maputo---San Juan
+Bogotá---Kigali
+Vienna---Avarua
+Conakry---Kuwait City
+Nukuʻalofa---Tehran
+Kingstown---Port Moresby
+Valletta---Sukhumi
+Sanaá---Belgrade
+Funafuti---Ljubljana
+Stepanakert---San Juan
+Bern---Praia
+Willemstad---Helsinki
+Apia---Kuwait City
+Mogadishu---Tehran
+Port Moresby---Stockholm
+Lilongwe---Niamey
+Avarua---Berlin
+Manama---Niamey
+La Paz---Muscat
+Tbilisi---Muscat
+Minsk---Lusaka
+Tokyo---Minsk
+Tunis---Mogadishu
+Sukhumi---Tripoli
+Oslo---Stockholm
+Douglas---Praia
+Stockholm---Funafuti
+Bissau---Pretoria
+Helsinki---Belgrade
+Juba---Ljubljana
+Naypyidaw---Willemstad
+San Juan---Sucre
+Amsterdam---Sucre
+Muscat---Bern
+Beirut---Athens
+Georgetown---Conakry
+Cardiff---Dhaka
+Saipan---Santiago
+Pretoria---Helsinki
+Tripoli---Vienna
+Tehran---Tripoli
+Moroni---San Salvador
+Berlin---Muscat
+Nouméa---Vienna
+Accra---Asunción
+Sucre---Edmonton
+Kuwait City---Minsk
+Santiago---Edmonton
+73
+Sucre
+Bangkok
+Luanda
+Conakry
+Oslo
+Nassau
+Victoria
+Stockholm
+Ljubljana
+Jerusalem
+Athens
+La Paz
+San Salvador
+Niamey
+Flying Fish Cove
+Lilongwe
+Kigali
+Doha
+Suva
+Dhaka
+Amsterdam
+Georgetown
+Tashkent
+Antananarivo
+Podgorica
+Nukuʻalofa
+Maputo
+Bogotá
+Lusaka
+Vienna
+Kingstown
+Valletta
+Addis Ababa
+Sanaá
+Stepanakert
+Bern
+Funafuti
+Port Moresby
+Avarua
+Bissau
+Manama
+Tbilisi
+Santiago
+Asunción
+Tokyo
+Praia
+Belgrade
+Tunis
+Minsk
+Bamako
+Douglas
+Apia
+Edmonton
+Juba
+Naypyidaw
+San Juan
+Mogadishu
+Muscat
+Sukhumi
+Beirut
+Cardiff
+Saipan
+Pretoria
+Tripoli
+Guatemala City
+Tehran
+Moroni
+Willemstad
+Berlin
+Nouméa
+Accra
+Helsinki
+Kuwait City

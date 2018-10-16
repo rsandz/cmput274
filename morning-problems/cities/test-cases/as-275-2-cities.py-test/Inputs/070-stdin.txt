@@ -1,0 +1,145 @@
+71
+Tripoli---Santiago
+Bucharest---Managua
+St. George's---Amsterdam
+Riga---Conakry
+Georgetown---N'Djamena
+Bishkek---Podgorica
+Suva---Tripoli
+Gibraltar---Tiraspol
+Luxembourg---Port Vila
+Pretoria---Conakry
+Baghdad---Pretoria
+Kinshasa---Edmonton
+Tiraspol---Monaco
+Santiago---Stepanakert
+Baku---Edmonton
+Canberra---Malé
+Helsinki---Jerusalem
+Dakar---Kiev
+Tunis---Baku
+Stanley---Conakry
+Vilnius---Nairobi
+San Juan---St. George's
+Paramaribo---Valletta
+Port Moresby---Kinshasa
+Managua---Belmopan
+Ashgabat---N'Djamena
+Muscat---Baku
+Conakry---Port Moresby
+Santo Domingo---Luxembourg
+Rabat---Bishkek
+Dublin---Avarua
+Valletta---Lima
+Luanda---N'Djamena
+Abu Dhabi---Valletta
+Prague---Lilongwe
+Lilongwe---Willemstad
+Banjul---Helsinki
+Port Vila---Pretoria
+Skopje---Stockholm
+Pyongyang---Bangkok
+Vatican City---Baku
+Belmopan---Athens
+Tirana---Banjul
+Jerusalem---Pyongyang
+Stepanakert---Baku
+Monaco---Valletta
+Podgorica---Skopje
+Phnom Penh---Nairobi
+Bangkok---Port of Spain
+Harare---Kiev
+Tashkent---Riga
+Charlotte Amalie---Paramaribo
+Beirut---Gibraltar
+Port of Spain---Port Vila
+Amsterdam---Baghdad
+Stockholm---Paramaribo
+Avarua---Tiraspol
+Riyadh---Conakry
+Malé---Vatican City
+St. Peter Port---Malé
+Kiev---Stepanakert
+Moscow---Phnom Penh
+Episkopi Cantonment---Santiago
+Nairobi---Tripoli
+Willemstad---Avarua
+Athens---Muscat
+Port Louis---Muscat
+N'Djamena---Malé
+Lima---Tirana
+Islamabad---Kinshasa
+Road Town---St. Peter Port
+72
+Tripoli
+Bucharest
+St. George's
+Riga
+Baghdad
+Bishkek
+Suva
+Gibraltar
+Georgetown
+Muscat
+Kinshasa
+Tiraspol
+Dakar
+Pretoria
+Port Moresby
+Santiago
+Baku
+Canberra
+Conakry
+Port Vila
+Nairobi
+Tunis
+Edmonton
+Vilnius
+San Juan
+Moscow
+Paramaribo
+Managua
+Ashgabat
+Amsterdam
+Santo Domingo
+Rabat
+Dublin
+Valletta
+Luanda
+Abu Dhabi
+Stanley
+Lilongwe
+Banjul
+Skopje
+Pyongyang
+Luxembourg
+Beirut
+Avarua
+Tirana
+Belmopan
+Stepanakert
+Willemstad
+N'Djamena
+Monaco
+Podgorica
+Jerusalem
+Phnom Penh
+Bangkok
+Prague
+Harare
+Tashkent
+Helsinki
+Charlotte Amalie
+Vatican City
+Port of Spain
+Stockholm
+Episkopi Cantonment
+Malé
+Riyadh
+St. Peter Port
+Kiev
+Athens
+Port Louis
+Lima
+Islamabad
+Road Town

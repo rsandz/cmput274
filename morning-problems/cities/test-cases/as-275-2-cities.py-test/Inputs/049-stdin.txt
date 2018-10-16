@@ -1,0 +1,101 @@
+49
+Castries---Doha
+Alofi---Tiraspol
+Montevideo---Sanaá
+Praia---Alofi
+Maseru---Zagreb
+Nukuʻalofa---Yamoussoukro
+Vatican City---Yamoussoukro
+Wellington---Edmonton
+Sanaá---Apia
+Rabat---Sofia
+Belmopan---Doha
+Ljubljana---Wellington
+Dakar---Doha
+Manama---Freetown
+Banjul---Tarawa
+Andorra la Vella---Castries
+Bissau---Maseru
+Nicosia---Bissau
+London---Sofia
+Juba---Edmonton
+Sofia---Wellington
+Funafuti---Kuwait City
+Tarawa---Castries
+Hanoi---Skopje
+Nuuk---Castries
+Valletta---Yamoussoukro
+Bangui---Hanoi
+San José---Dakar
+Yamoussoukro---Dakar
+Harare---Maseru
+Tiraspol---Nukuʻalofa
+Yaoundé---Sanaá
+Cockburn Town---Maseru
+Freetown---Montevideo
+Doha---Wellington
+Port Moresby---Belmopan
+N'Djamena---Apia
+Kuwait City---Stepanakert
+Canberra---N'Djamena
+Stepanakert---Hanoi
+Ulaanbaatar---Belmopan
+Niamey---N'Djamena
+Apia---Belmopan
+Taipei---Apia
+Skopje---Apia
+Jerusalem---Andorra la Vella
+Dodoma---Sofia
+Kingstown---Hanoi
+Zagreb---Hanoi
+50
+Castries
+Montevideo
+Nukuʻalofa
+Vatican City
+Sanaá
+Rabat
+Belmopan
+Ljubljana
+Yamoussoukro
+Dakar
+Freetown
+Manama
+Banjul
+Bangui
+Andorra la Vella
+Bissau
+Nicosia
+Wellington
+London
+Juba
+Sofia
+Funafuti
+Tarawa
+Hanoi
+Zagreb
+Nuuk
+San José
+Harare
+Tiraspol
+Canberra
+Yaoundé
+Cockburn Town
+Doha
+Port Moresby
+Kuwait City
+Apia
+Stepanakert
+Ulaanbaatar
+Niamey
+Valletta
+Alofi
+Taipei
+Skopje
+N'Djamena
+Maseru
+Edmonton
+Praia
+Jerusalem
+Dodoma
+Kingstown

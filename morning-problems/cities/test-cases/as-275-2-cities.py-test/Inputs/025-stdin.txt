@@ -1,0 +1,49 @@
+23
+St. John's---Tokyo
+Kuala Lumpur---The Valley
+Yamoussoukro---Porto-Novo
+The Valley---Beirut
+St. George's---Tokyo
+Malé---Beirut
+Amsterdam---Edmonton
+Manama---Chisinau
+Vatican City---Manama
+Chisinau---The Valley
+Kinshasa---Road Town
+Ankara---Hagåtña
+Belmopan---Guatemala City
+Hagåtña---Philipsburg
+Tokyo---Manama
+Philipsburg---The Valley
+Road Town---Bangui
+Porto-Novo---Manama
+Guatemala City---Ankara
+Lusaka---Hagåtña
+Douglas---Guatemala City
+Beirut---Edmonton
+Bangui---Yamoussoukro
+24
+Kuala Lumpur
+Malé
+Edmonton
+The Valley
+Vatican City
+Douglas
+Hagåtña
+Amsterdam
+Tokyo
+Philipsburg
+Guatemala City
+Beirut
+St. John's
+St. George's
+Manama
+Chisinau
+Kinshasa
+Ankara
+Yamoussoukro
+Road Town
+Porto-Novo
+Belmopan
+Lusaka
+Bangui

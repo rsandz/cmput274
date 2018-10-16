@@ -1,0 +1,91 @@
+44
+Port-au-Prince---Ngerulmud
+Guatemala City---Ngerulmud
+Helsinki---Bogotá
+Avarua---Port-au-Prince
+Mata-Utu---London
+Hanoi---Rome
+Nassau---Edmonton
+Sanaá---Gibraltar
+Skopje---Andorra la Vella
+Tunis---Edmonton
+Prague---Ngerulmud
+Ngerulmud---Tunis
+Manila---Mata-Utu
+Bern---Mata-Utu
+Islamabad---Adamstown
+Oslo---Doha
+Rome---Port-au-Prince
+Adamstown---Stanley
+George Town---San Salvador
+Stanley---Avarua
+Paramaribo---Hanoi
+Bratislava---Douglas
+New Delhi---Tunis
+Bogotá---Stanley
+Jerusalem---Paramaribo
+Berlin---Andorra la Vella
+Stockholm---Ngerulmud
+Gibraltar---Minsk
+Doha---Bratislava
+Hamilton---Doha
+Abuja---Hargeisa
+Algiers---London
+Nicosia---Skopje
+Paris---Bratislava
+Cardiff---Tunis
+Douglas---George Town
+Hargeisa---Adamstown
+Andorra la Vella---Hanoi
+Sukhumi---Algiers
+London---Cardiff
+St. Peter Port---New Delhi
+San Salvador---Ngerulmud
+Antananarivo---Rome
+Minsk---Manila
+45
+Port-au-Prince
+Guatemala City
+Helsinki
+Avarua
+Mata-Utu
+Hanoi
+Nassau
+Sanaá
+Skopje
+Tunis
+Prague
+Ngerulmud
+Manila
+Edmonton
+Bern
+Islamabad
+Oslo
+Rome
+Adamstown
+Stanley
+Paramaribo
+Bratislava
+New Delhi
+San Salvador
+Bogotá
+Jerusalem
+Berlin
+Gibraltar
+Stockholm
+Doha
+Hamilton
+Abuja
+Algiers
+Nicosia
+Paris
+Cardiff
+Douglas
+George Town
+Hargeisa
+Andorra la Vella
+Sukhumi
+London
+St. Peter Port
+Antananarivo
+Minsk

@@ -1,0 +1,69 @@
+33
+Pago Pago---Berlin
+Willemstad---Nassau
+Lilongwe---Edmonton
+Djibouti---Willemstad
+Dakar---N'Djamena
+Edinburgh of the Seven Seas---Edmonton
+Tbilisi---San Juan
+Bern---Lilongwe
+Yaoundé---Djibouti
+George Town---Lilongwe
+Kabul---Andorra la Vella
+Moscow---Djibouti
+Hanga Roa---Berlin
+Harare---Doha
+Damascus---Edmonton
+São Tomé---Stanley
+Andorra la Vella---Tokyo
+Monaco---Stanley
+Baghdad---Ouagadougou
+San Juan---Baghdad
+N'Djamena---Edinburgh of the Seven Seas
+Managua---Andorra la Vella
+Kinshasa---Moscow
+Stockholm---Berlin
+Berlin---Dakar
+Doha---Bern
+Nassau---Harare
+Ouagadougou---George Town
+Tripoli---Baghdad
+Stanley---Berlin
+Addis Ababa---Lilongwe
+Nuuk---Nassau
+Tokyo---Moscow
+34
+Willemstad
+Djibouti
+Tbilisi
+Bern
+Yaoundé
+George Town
+Doha
+Kabul
+Moscow
+Hanga Roa
+Harare
+Damascus
+São Tomé
+Edmonton
+Stockholm
+Monaco
+San Juan
+Managua
+Berlin
+Nassau
+Pago Pago
+Tripoli
+Addis Ababa
+Nuuk
+Stanley
+Edinburgh of the Seven Seas
+Lilongwe
+Dakar
+Tokyo
+Andorra la Vella
+Baghdad
+N'Djamena
+Kinshasa
+Ouagadougou

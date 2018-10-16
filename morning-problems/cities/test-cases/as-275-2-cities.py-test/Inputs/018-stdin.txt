@@ -1,0 +1,37 @@
+17
+Madrid---St. Peter Port
+St. Peter Port---Dodoma
+Kinshasa---Athens
+Gaborone---Tehran
+Dodoma---Ulaanbaatar
+Luxembourg---Brasília
+Tehran---Luxembourg
+Papeete---Ulaanbaatar
+Athens---Edmonton
+Manama---Madrid
+Ulaanbaatar---Luxembourg
+Ottawa---Luxembourg
+Montevideo---Brasília
+Naypyidaw---Papeete
+Porto-Novo---Tehran
+Accra---Ottawa
+Brasília---Edmonton
+18
+St. Peter Port
+Kinshasa
+Gaborone
+Dodoma
+Luxembourg
+Tehran
+Madrid
+Papeete
+Brasília
+Athens
+Manama
+Ulaanbaatar
+Ottawa
+Edmonton
+Montevideo
+Porto-Novo
+Accra
+Naypyidaw

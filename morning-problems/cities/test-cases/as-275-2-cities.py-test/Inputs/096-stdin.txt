@@ -1,0 +1,185 @@
+91
+St. John's---Montevideo
+Georgetown---Ulaanbaatar
+Kigali---Addis Ababa
+Port Vila---Tashkent
+Algiers---Hargeisa
+Bandar Seri Begawan---Quito
+Yamoussoukro---Ljubljana
+Tokyo---Warsaw
+Maseru---St. John's
+Sri Jayawardenapura Kotte---George Town
+Tórshavn---Riyadh
+Muscat---Brazzaville
+Jakarta---Thimphu
+Hargeisa---Mexico City
+Praia---Palikir
+Managua---Kingstown
+Lilongwe---Georgetown
+Brussels---Luxembourg
+Ulaanbaatar---Lisbon
+Saipan---Grytviken
+Riyadh---Tirana
+Ljubljana---Astana
+Paramaribo---Georgetown
+Damascus---Jakarta
+Belmopan---Lisbon
+Malé---Quito
+Thimphu---Tallinn
+Tunis---Tarawa
+Valletta---Lilongwe
+Sukhumi---Episkopi Cantonment
+Avarua---Addis Ababa
+Pretoria---Tegucigalpa
+Havana---St. Peter Port
+Tegucigalpa---St. John's
+Jerusalem---Riyadh
+Addis Ababa---Tiraspol
+Podgorica---Honiara
+Hamilton---Marigot
+Astana---Addis Ababa
+Vaduz---Yamoussoukro
+Panama City---Jakarta
+Castries---Libreville
+Luanda---Astana
+Luxembourg---Kingston
+Quito---Damascus
+Nouakchott---Jakarta
+Tallinn---Edmonton
+Oslo---Malé
+Grytviken---Praia
+Budapest---Dublin
+Lusaka---Malé
+Tirana---Kigali
+Majuro---Tashkent
+Libreville---George Town
+Port-au-Prince---Majuro
+Yerevan---Tallinn
+Vilnius---Praia
+El Aaiún---Palikir
+Tiraspol---Port Vila
+Marigot---Paramaribo
+Dodoma---Lusaka
+Warsaw---Luxembourg
+Stanley---El Aaiún
+Tarawa---Yerevan
+Palikir---Addis Ababa
+Kingston---Brazzaville
+Brazzaville---Copenhagen
+St. Helier---Lisbon
+Tashkent---Tarawa
+Lisbon---Hargeisa
+Mexico City---Kigali
+Berlin---Bandar Seri Begawan
+Copenhagen---Oslo
+Edinburgh---Brussels
+Hanga Roa---Tiraspol
+Honiara---Beijing
+Sanaá---Kingston
+Alofi---Libreville
+Episkopi Cantonment---Tórshavn
+George Town---Riyadh
+Gaborone---Luanda
+St. Peter Port---Libreville
+Beijing---St. George's
+St. George's---Mexico City
+Ottawa---Copenhagen
+Manama---Beijing
+Asmara---Gaborone
+Montevideo---Palikir
+Maputo---Brazzaville
+Kingstown---Sukhumi
+Dublin---Thimphu
+92
+St. John's
+Georgetown
+Port Vila
+Bandar Seri Begawan
+Yamoussoukro
+Tokyo
+Tórshavn
+Jakarta
+Managua
+Brussels
+Riyadh
+Ljubljana
+Gaborone
+Damascus
+Belmopan
+Honiara
+Malé
+Thimphu
+Sukhumi
+Paramaribo
+Astana
+Panama City
+Castries
+Luxembourg
+Quito
+Nouakchott
+Tallinn
+Lusaka
+Libreville
+Port-au-Prince
+El Aaiún
+Dodoma
+Warsaw
+Stanley
+Tarawa
+Palikir
+Addis Ababa
+Lisbon
+Mexico City
+Copenhagen
+Edinburgh
+Hanga Roa
+Sanaá
+Episkopi Cantonment
+George Town
+Kingstown
+Ottawa
+Budapest
+Manama
+Montevideo
+Dublin
+Algiers
+Kigali
+Pretoria
+Maseru
+Muscat
+Hargeisa
+Maputo
+Praia
+Lilongwe
+Saipan
+Valletta
+Avarua
+Sri Jayawardenapura Kotte
+Havana
+Tirana
+Hamilton
+Vilnius
+Luanda
+Oslo
+Grytviken
+Podgorica
+Majuro
+Edmonton
+Yerevan
+Tiraspol
+Marigot
+Vaduz
+Ulaanbaatar
+Kingston
+Brazzaville
+St. Helier
+Tashkent
+Berlin
+Alofi
+St. Peter Port
+Tunis
+Beijing
+St. George's
+Asmara
+Jerusalem
+Tegucigalpa

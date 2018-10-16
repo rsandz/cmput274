@@ -1,0 +1,89 @@
+43
+Prague---Kabul
+Apia---Bissau
+Djibouti---Edmonton
+Nouméa---Ankara
+Stanley---San Juan
+Port Moresby---Kabul
+Bissau---Helsinki
+Dodoma---Bangui
+Conakry---Wellington
+Addis Ababa---Port Moresby
+Ankara---New Delhi
+Damascus---Ankara
+Wellington---Addis Ababa
+El Aaiún---Dodoma
+Pretoria---Addis Ababa
+Paramaribo---Port-au-Prince
+Roseau---Windhoek
+St. Peter Port---Ljubljana
+Vaduz---Wellington
+Stockholm---Zagreb
+Warsaw---Vaduz
+Baghdad---Tarawa
+Helsinki---Roseau
+Windhoek---Bangui
+Lusaka---Vaduz
+Zagreb---Palikir
+Bangui---Addis Ababa
+Port-au-Prince---Vaduz
+Kabul---Edmonton
+Port Vila---Lusaka
+Kuala Lumpur---Conakry
+Palikir---Conakry
+São Tomé---Edmonton
+Tarawa---Warsaw
+Gibraltar---Ankara
+Castries---Stockholm
+San Juan---Tarawa
+Papeete---Tarawa
+Juba---Prague
+Yamoussoukro---Port-au-Prince
+New Delhi---Ljubljana
+Ljubljana---Port Moresby
+Luxembourg---Lusaka
+44
+Conakry
+Pretoria
+Roseau
+St. Peter Port
+Vaduz
+Wellington
+Baghdad
+Lusaka
+Port-au-Prince
+Kabul
+Port Vila
+Kuala Lumpur
+Edmonton
+São Tomé
+Papeete
+Juba
+Palikir
+New Delhi
+Ljubljana
+Apia
+Prague
+Djibouti
+Stanley
+Port Moresby
+Bissau
+Paramaribo
+Addis Ababa
+Damascus
+Warsaw
+Helsinki
+Dodoma
+Windhoek
+El Aaiún
+Bangui
+Zagreb
+Ankara
+Gibraltar
+Tarawa
+Luxembourg
+Stockholm
+San Juan
+Castries
+Yamoussoukro
+Nouméa

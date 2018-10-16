@@ -1,0 +1,139 @@
+68
+London---Damascus
+Castries---Reykjavík
+Santiago---Port Louis
+Gaborone---Tarawa
+St. Helier---Riga
+Stepanakert---Kigali
+Adamstown---Prague
+St. Pierre---Pristina
+Hagåtña---Dublin
+San Salvador---Sucre
+Port-au-Prince---Sanaá
+Harare---St. Peter Port
+Riyadh---Stockholm
+St. Peter Port---Antananarivo
+Lisbon---Andorra la Vella
+Dublin---Moroni
+Sanaá---Lisbon
+Mbabane---Khartoum
+Victoria---Roseau
+Porto-Novo---Abuja
+Addis Ababa---Panama City
+Cardiff---Porto-Novo
+Baghdad---Riyadh
+Hargeisa---Riga
+Prague---Hagåtña
+San José---Buenos Aires
+Bratislava---Honiara
+Port Louis---Honiara
+Pyongyang---Muscat
+Pristina---Sanaá
+Ankara---Windhoek
+Vienna---Malabo
+Monaco---Lima
+San Marino---St. Pierre
+Kigali---Edmonton
+Avarua---Vienna
+Muscat---Edmonton
+Antananarivo---Ankara
+Amsterdam---Edmonton
+Andorra la Vella---Port Louis
+Paris---Hagåtña
+Road Town---Beijing
+Honiara---Paris
+Buenos Aires---Gaborone
+Beijing---Harare
+Stockholm---Prague
+Riga---Antananarivo
+Vientiane---Addis Ababa
+Jakarta---Stockholm
+Ashgabat---Hagåtña
+Reykjavík---Bangkok
+St. George's---Port-au-Prince
+Nouakchott---Road Town
+Athens---Moroni
+Khartoum---Beijing
+Malabo---Stockholm
+Windhoek---Adamstown
+Panama City---Hagåtña
+Roseau---Sucre
+Moroni---Muscat
+Bangkok---Mbabane
+Oranjestad---Adamstown
+Tarawa---Ankara
+Lima---Victoria
+Damascus---St. Peter Port
+Abuja---Pristina
+Sucre---Stockholm
+Rome---Dublin
+69
+Santiago
+Gaborone
+San Salvador
+St. Helier
+Bratislava
+Stepanakert
+London
+San José
+Adamstown
+Hagåtña
+Port-au-Prince
+St. Peter Port
+Lisbon
+Dublin
+Sanaá
+Mbabane
+Victoria
+Porto-Novo
+Addis Ababa
+Damascus
+Baghdad
+St. Pierre
+Avarua
+Hargeisa
+Beijing
+Prague
+Port Louis
+Pyongyang
+Pristina
+Road Town
+Ankara
+Vienna
+Monaco
+Kigali
+Castries
+Antananarivo
+Muscat
+Andorra la Vella
+Edmonton
+Khartoum
+Paris
+Amsterdam
+Honiara
+Vientiane
+Abuja
+Buenos Aires
+Stockholm
+Rome
+Riga
+Jakarta
+Riyadh
+Ashgabat
+San Marino
+Reykjavík
+St. George's
+Nouakchott
+Athens
+Malabo
+Windhoek
+Sucre
+Harare
+Oranjestad
+Roseau
+Moroni
+Bangkok
+Tarawa
+Lima
+Cardiff
+Panama City

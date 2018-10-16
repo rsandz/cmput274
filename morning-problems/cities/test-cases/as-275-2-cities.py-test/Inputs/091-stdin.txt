@@ -1,0 +1,181 @@
+89
+Jerusalem---Kigali
+Madrid---Oslo
+Ashgabat---Andorra la Vella
+Addis Ababa---Ashgabat
+Monaco---Caracas
+Andorra la Vella---Adamstown
+Flying Fish Cove---Skopje
+Montevideo---São Tomé
+Windhoek---Washington, D.C.
+Palikir---Conakry
+Tashkent---Yerevan
+Mata-Utu---Amman
+Nouakchott---Praia
+Lilongwe---Oslo
+Castries---Asmara
+Funafuti---Adamstown
+Asmara---Adamstown
+Islamabad---Caracas
+Skopje---Belmopan
+Zagreb---San Juan
+Prague---Tallinn
+Bissau---Kampala
+San Juan---Accra
+Washington, D.C.---Port Vila
+Harare---Reykjavík
+Yerevan---Tallinn
+St. George's---Washington, D.C.
+Caracas---Ulaanbaatar
+Kuwait City---Athens
+Praia---Gaborone
+Bangkok---Kigali
+Brasília---London
+Baghdad---Vatican City
+Conakry---Kigali
+Accra---Amsterdam
+Bangui---Chisinau
+Vatican City---St. George's
+Kuala Lumpur---Yerevan
+Sukhumi---Ngerulmud
+Kampala---St. George's
+Victoria---Bangui
+Ulaanbaatar---Amsterdam
+St. Pierre---Moscow
+Bratislava---San Juan
+Gaborone---Luanda
+Ankara---Asmara
+Havana---St. Pierre
+Oslo---Gibraltar
+Athens---Washington, D.C.
+London---Singapore
+Tallinn---Montevideo
+Luanda---Guatemala City
+São Tomé---San Salvador
+Bogotá---St. George's
+Singapore---Havana
+San Salvador---Bratislava
+Paramaribo---Havana
+Port Vila---Flying Fish Cove
+Cayenne---Tbilisi
+Guatemala City---Khartoum
+Tirana---Tbilisi
+Dili---Tbilisi
+Maseru---Castries
+Libreville---San Salvador
+Nouméa---Brasília
+Moscow---Tskhinvali
+Tskhinvali---Port Vila
+Ljubljana---Kuala Lumpur
+Belmopan---Monaco
+Adamstown---Hanoi
+Nicosia---Minsk
+Chisinau---Accra
+Ngerulmud---Kampala
+Dakar---St. Pierre
+Amman---Brasília
+Tbilisi---Castries
+Sofia---Washington, D.C.
+Amsterdam---Gibraltar
+Basseterre---Palikir
+Stanley---Paramaribo
+Kigali---Amsterdam
+Khartoum---Moscow
+Gibraltar---Edmonton
+Saipan---Sofia
+St. John's---Amsterdam
+Manama---Chisinau
+Minsk---Guatemala City
+Reykjavík---Baghdad
+Hanoi---Conakry
+90
+Jerusalem
+Nouakchott
+Madrid
+Monaco
+Andorra la Vella
+Montevideo
+Dakar
+Tashkent
+Mata-Utu
+Funafuti
+Asmara
+Bissau
+San Juan
+Washington, D.C.
+Kuwait City
+Praia
+Kampala
+Ulaanbaatar
+Bratislava
+Gaborone
+Luanda
+Singapore
+Cayenne
+Maseru
+Nouméa
+Moscow
+Belmopan
+Bangkok
+Ngerulmud
+Ashgabat
+Castries
+Kigali
+Saipan
+Basseterre
+São Tomé
+St. John's
+Manama
+Reykjavík
+Addis Ababa
+Havana
+Flying Fish Cove
+Palikir
+Lilongwe
+Skopje
+Zagreb
+Baghdad
+Vatican City
+Harare
+Yerevan
+St. George's
+Caracas
+Ankara
+Conakry
+Bangui
+Kuala Lumpur
+Accra
+Athens
+Sukhumi
+Victoria
+St. Pierre
+Minsk
+Oslo
+London
+Tallinn
+Brasília
+Bogotá
+San Salvador
+Paramaribo
+Port Vila
+Guatemala City
+Dili
+Prague
+Libreville
+Tskhinvali
+Ljubljana
+Adamstown
+Nicosia
+Chisinau
+Amman
+Islamabad
+Stanley
+Tbilisi
+Sofia
+Windhoek
+Amsterdam
+Khartoum
+Edmonton
+Gibraltar
+Tirana
+Hanoi

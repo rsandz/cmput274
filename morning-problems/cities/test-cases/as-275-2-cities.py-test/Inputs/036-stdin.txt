@@ -1,0 +1,77 @@
+37
+Havana---Caracas
+Bratislava---Port Louis
+Dodoma---Thimphu
+Santiago---Tegucigalpa
+Moscow---Port Louis
+El Aaiún---Apia
+Bern---Lima
+Sofia---Havana
+St. Peter Port---Castries
+Caracas---Buenos Aires
+Stanley---El Aaiún
+Ljubljana---Port Louis
+Budapest---Port Louis
+Antananarivo---West Island
+Cockburn Town---Libreville
+Bujumbura---Havana
+Sarajevo---Thimphu
+Vienna---Bratislava
+Apia---Tegucigalpa
+Tegucigalpa---Thimphu
+Abu Dhabi---Budapest
+Minsk---Ljubljana
+Juba---Vatican City
+Libreville---Lima
+Lima---Antananarivo
+Port Louis---Santiago
+Plymouth---Minsk
+Kabul---Lima
+Castries---Apia
+Vatican City---Cockburn Town
+Thimphu---Havana
+West Island---Tegucigalpa
+Kampala---Port Louis
+Mogadishu---El Aaiún
+Nouméa---Vienna
+Buenos Aires---Edmonton
+Prague---Vienna
+38
+Edmonton
+Bern
+St. Peter Port
+Caracas
+Mogadishu
+Stanley
+Budapest
+Antananarivo
+Apia
+Libreville
+Tegucigalpa
+Port Louis
+Lima
+El Aaiún
+Kampala
+Buenos Aires
+Prague
+Bratislava
+Dodoma
+Santiago
+Moscow
+Sofia
+Ljubljana
+Bujumbura
+Sarajevo
+Havana
+Vienna
+Abu Dhabi
+Minsk
+Vatican City
+Cockburn Town
+Plymouth
+Castries
+West Island
+Juba
+Kabul
+Thimphu
+Nouméa

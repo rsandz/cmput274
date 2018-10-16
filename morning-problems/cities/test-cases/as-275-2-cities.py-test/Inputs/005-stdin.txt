@@ -1,0 +1,9 @@
+3
+Juba---Edmonton
+Pago Pago---Edinburgh of the Seven Seas
+Edinburgh of the Seven Seas---Juba
+4
+Juba
+Pago Pago
+Edinburgh of the Seven Seas
+Edmonton

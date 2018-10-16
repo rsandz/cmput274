@@ -1,0 +1,135 @@
+66
+Willemstad---Maseru
+Khartoum---Port Louis
+Riyadh---Jamestown
+Libreville---Flying Fish Cove
+Prague---Astana
+Ljubljana---Jakarta
+Lomé---Kuala Lumpur
+Doha---Kuala Lumpur
+Port Louis---Porto-Novo
+Kingston---Nicosia
+Kuwait City---Asunción
+Pretoria---Prague
+Flying Fish Cove---Dakar
+Helsinki---Gustavia
+Gustavia---Kuwait City
+Damascus---Lomé
+Bamako---Paris
+San José---Oslo
+Tbilisi---Panama City
+Kampala---Dakar
+Manama---Tórshavn
+Porto-Novo---Quito
+Ouagadougou---Flying Fish Cove
+Adamstown---Porto-Novo
+Algiers---Prague
+Conakry---Quito
+Sukhumi---Charlotte Amalie
+Bissau---Charlotte Amalie
+Honiara---Kampala
+St. Pierre---Ljubljana
+Ashgabat---Helsinki
+Tórshavn---Ouagadougou
+Cockburn Town---Budapest
+Oslo---Beijing
+Charlotte Amalie---Freetown
+Dakar---Cayenne
+Baghdad---Charlotte Amalie
+Dhaka---Dakar
+Berlin---Honiara
+Astana---Willemstad
+Paris---San Salvador
+Cayenne---West Island
+Maseru---Basseterre
+Kuala Lumpur---Managua
+Asunción---Managua
+Santo Domingo---Vaduz
+Jakarta---Cayenne
+Panama City---Santo Domingo
+Quito---Budapest
+West Island---Edmonton
+Sarajevo---Asunción
+Nukuʻalofa---Beijing
+Basseterre---Honiara
+Edinburgh---Asunción
+Mexico City---Quito
+Beijing---Conakry
+Budapest---Flying Fish Cove
+Nicosia---Edinburgh
+Bridgetown---Sarajevo
+London---Santo Domingo
+Jamestown---Freetown
+Managua---San José
+San Salvador---Khartoum
+Beirut---Charlotte Amalie
+Vaduz---Jakarta
+Freetown---Algiers
+67
+Willemstad
+Khartoum
+Riyadh
+Libreville
+Prague
+Ljubljana
+Lomé
+Doha
+Port Louis
+Kingston
+Kuwait City
+Paris
+Budapest
+Flying Fish Cove
+Helsinki
+Gustavia
+Santo Domingo
+Damascus
+Bamako
+Porto-Novo
+San José
+Tbilisi
+Kampala
+Manama
+Jakarta
+Ouagadougou
+Adamstown
+Algiers
+Basseterre
+Conakry
+Bissau
+Honiara
+Ashgabat
+Tórshavn
+Sukhumi
+Edmonton
+Cockburn Town
+Dhaka
+Nicosia
+Dakar
+San Salvador
+London
+Oslo
+Baghdad
+Berlin
+Charlotte Amalie
+Astana
+Cayenne
+Maseru
+Kuala Lumpur
+Asunción
+Pretoria
+Panama City
+Quito
+West Island
+Sarajevo
+Bridgetown
+St. Pierre
+Nukuʻalofa
+Edinburgh
+Mexico City
+Beijing
+Jamestown
+Managua
+Beirut
+Vaduz
+Freetown

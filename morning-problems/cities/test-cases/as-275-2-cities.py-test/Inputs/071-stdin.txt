@@ -1,0 +1,137 @@
+67
+Cockburn Town---Djibouti
+Conakry---Washington, D.C.
+Belfast---Oranjestad
+Vienna---Niamey
+Taipei---Montevideo
+Lilongwe---Jamestown
+Belgrade---Buenos Aires
+Tegucigalpa---Doha
+Oranjestad---Nukuʻalofa
+Bujumbura---Malé
+Malabo---Charlotte Amalie
+The Valley---N'Djamena
+Madrid---Nukuʻalofa
+Valletta---Havana
+Andorra la Vella---Belgrade
+Rabat---Addis Ababa
+Nukuʻalofa---Roseau
+Damascus---Grytviken
+Washington, D.C.---San José
+Suva---Doha
+Tbilisi---Pyongyang
+Sarajevo---Prague
+Malé---Ngerulmud
+Brazzaville---Damascus
+Ankara---Charlotte Amalie
+Stanley---Buenos Aires
+Dili---Edmonton
+Ngerulmud---Belfast
+El Aaiún---Pyongyang
+Montevideo---Madrid
+London---N'Djamena
+Mexico City---San José
+Niamey---Ngerulmud
+Bogotá---Belgrade
+Charlotte Amalie---Kuala Lumpur
+Belmopan---Cockburn Town
+Baghdad---Lomé
+Baku---The Valley
+Havana---Harare
+Yaoundé---Tiraspol
+Lomé---Washington, D.C.
+San José---Tbilisi
+Port of Spain---Edmonton
+Kuala Lumpur---Bujumbura
+Roseau---Tiraspol
+Ljubljana---Buenos Aires
+Djibouti---Luxembourg
+Pyongyang---Doha
+Nicosia---London
+Pago Pago---Malé
+Juba---Damascus
+Jamestown---Tegucigalpa
+Flying Fish Cove---Juba
+Bishkek---Kuala Lumpur
+Nouakchott---N'Djamena
+Nouméa---Djibouti
+Harare---San José
+Tiraspol---Dili
+St. Pierre---Djibouti
+Cayenne---Grytviken
+N'Djamena---Jamestown
+Addis Ababa---Grytviken
+Luxembourg---Oranjestad
+Grytviken---London
+Doha---Charlotte Amalie
+Prague---Bogotá
+Buenos Aires---Nicosia
+68
+Cockburn Town
+Conakry
+Belfast
+Vienna
+Damascus
+Taipei
+Lilongwe
+Edmonton
+Belgrade
+Tegucigalpa
+Oranjestad
+Bujumbura
+Stanley
+Dili
+The Valley
+Madrid
+Valletta
+Andorra la Vella
+Ankara
+Rabat
+Nukuʻalofa
+Washington, D.C.
+Tbilisi
+Sarajevo
+Malé
+Brazzaville
+Bishkek
+Ngerulmud
+Mexico City
+Montevideo
+London
+Niamey
+Bogotá
+Charlotte Amalie
+Belmopan
+Baku
+Havana
+Suva
+Lomé
+Baghdad
+San José
+Port of Spain
+Kuala Lumpur
+Roseau
+Ljubljana
+Djibouti
+Yaoundé
+Nicosia
+Pyongyang
+Juba
+Jamestown
+El Aaiún
+Pago Pago
+Flying Fish Cove
+Nouakchott
+Malabo
+Harare
+Tiraspol
+St. Pierre
+Nouméa
+Cayenne
+N'Djamena
+Addis Ababa
+Luxembourg
+Grytviken
+Doha
+Prague
+Buenos Aires

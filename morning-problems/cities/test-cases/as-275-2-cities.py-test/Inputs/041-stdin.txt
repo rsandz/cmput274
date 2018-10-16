@@ -1,0 +1,79 @@
+38
+Amsterdam---Islamabad
+Nouakchott---San Juan
+George Town---Phnom Penh
+Canberra---Vienna
+Pago Pago---Episkopi Cantonment
+Dakar---Vienna
+Edinburgh---Tórshavn
+Gaborone---Sucre
+Ottawa---Amsterdam
+Damascus---Gustavia
+Nassau---Singapore
+Sucre---San Juan
+Vienna---Vatican City
+Nukuʻalofa---Nouakchott
+Asunción---Edmonton
+Phnom Penh---Doha
+Islamabad---George Town
+Georgetown---Vatican City
+Yaoundé---Nukuʻalofa
+Vilnius---Vatican City
+Doha---Tórshavn
+Cardiff---George Town
+Plymouth---Georgetown
+Yaren---Nukuʻalofa
+Tórshavn---Yaoundé
+Bridgetown---Palikir
+San Juan---Plymouth
+Hanoi---Plymouth
+St. Pierre---Nassau
+Gustavia---Edmonton
+St. Helier---Gaborone
+St. George's---Nouakchott
+Vatican City---Palikir
+Episkopi Cantonment---Canberra
+Asmara---Nassau
+Palikir---Damascus
+Singapore---Gaborone
+Baku---Gaborone
+39
+Nouakchott
+Georgetown
+Yaoundé
+Canberra
+George Town
+Sucre
+Vienna
+Edmonton
+Phnom Penh
+Doha
+Cardiff
+Plymouth
+Tórshavn
+San Juan
+Hanoi
+St. Pierre
+Asmara
+Gustavia
+Bridgetown
+St. George's
+Palikir
+Vatican City
+Ottawa
+Yaren
+Baku
+Dakar
+Gaborone
+Amsterdam
+Damascus
+Nassau
+Nukuʻalofa
+Asunción
+Islamabad
+Vilnius
+Edinburgh
+St. Helier
+Episkopi Cantonment
+Singapore
+Pago Pago

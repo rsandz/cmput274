@@ -1,0 +1,143 @@
+70
+Hamilton---Harare
+Jerusalem---Juba
+Abuja---Bern
+Ottawa---Flying Fish Cove
+Yamoussoukro---Lisbon
+Edinburgh of the Seven Seas---Nassau
+Helsinki---Tbilisi
+Alofi---Lusaka
+Kiev---Philipsburg
+Buenos Aires---Nassau
+Nassau---Brasília
+Pago Pago---Tskhinvali
+Lisbon---Edmonton
+Philipsburg---Conakry
+Nairobi---Rome
+Quito---Hamilton
+Baghdad---Kiev
+Kuwait City---Hanoi
+Washington, D.C.---Athens
+N'Djamena---Marigot
+Guatemala City---Washington, D.C.
+Suva---Beijing
+Oranjestad---Pago Pago
+Praia---Philipsburg
+Stanley---Port Moresby
+Vientiane---Alofi
+Maseru---Lisbon
+Caracas---Quito
+Juba---Bern
+Marigot---Mogadishu
+Seoul---Alofi
+Mogadishu---Tunis
+St. Pierre---Yamoussoukro
+Paris---Bern
+Port Moresby---Conakry
+West Island---Nairobi
+Tskhinvali---Ottawa
+Lusaka---Bandar Seri Begawan
+Damascus---Edinburgh of the Seven Seas
+Majuro---Baghdad
+Hanoi---Lusaka
+Bandar Seri Begawan---Adamstown
+Papeete---Abuja
+Nuuk---Beirut
+Belgrade---Edinburgh of the Seven Seas
+St. Peter Port---Port Moresby
+Adamstown---Bogotá
+Athens---Marigot
+Malabo---Buenos Aires
+Beijing---Port Moresby
+Ouagadougou---Alofi
+Tbilisi---Bandar Seri Begawan
+Flying Fish Cove---Bandar Seri Begawan
+Vaduz---Mbabane
+Accra---Beirut
+Bishkek---Beirut
+Bern---Pago Pago
+Harare---Brasília
+Montevideo---Ottawa
+Nukuʻalofa---Kuwait City
+Mbabane---Ouagadougou
+Rome---Lusaka
+Panama City---St. Peter Port
+Cockburn Town---Buenos Aires
+Freetown---Bishkek
+Beirut---Maseru
+Tunis---Nairobi
+Brasília---Beirut
+Conakry---Lisbon
+Bogotá---Majuro
+71
+Jerusalem
+Abuja
+Vientiane
+Washington, D.C.
+Edinburgh of the Seven Seas
+Yamoussoukro
+Helsinki
+Alofi
+Kiev
+Buenos Aires
+St. Peter Port
+Nassau
+Ottawa
+Paris
+Pago Pago
+Lisbon
+Philipsburg
+Nairobi
+Baghdad
+Freetown
+Kuwait City
+N'Djamena
+Guatemala City
+Oranjestad
+Praia
+Stanley
+Maseru
+Mogadishu
+Juba
+Marigot
+St. Pierre
+Port Moresby
+Hamilton
+Caracas
+West Island
+Damascus
+Majuro
+Quito
+Hanoi
+Bandar Seri Begawan
+Suva
+Lusaka
+Panama City
+Papeete
+Seoul
+Edmonton
+Nuuk
+Belgrade
+Adamstown
+Athens
+Tskhinvali
+Malabo
+Tbilisi
+Ouagadougou
+Bishkek
+Flying Fish Cove
+Bogotá
+Accra
+Vaduz
+Cockburn Town
+Bern
+Harare
+Montevideo
+Nukuʻalofa
+Mbabane
+Rome
+Beirut
+Beijing
+Brasília
+Conakry
+Tunis

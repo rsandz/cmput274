@@ -1,0 +1,125 @@
+61
+Abuja---Port Vila
+Yamoussoukro---Sanaá
+Managua---St. Helier
+N'Djamena---Port of Spain
+Thimphu---Ottawa
+Tripoli---Maputo
+Cairo---Maputo
+Mata-Utu---Edmonton
+St. John's---Road Town
+Adamstown---St. John's
+Tegucigalpa---St. Peter Port
+Copenhagen---Mata-Utu
+Harare---Pyongyang
+Baku---Gaborone
+Ulaanbaatar---Cairo
+Praia---Sanaá
+St. Peter Port---Praia
+Ljubljana---Canberra
+Jamestown---St. Helier
+Charlotte Amalie---Tripoli
+Berlin---Sanaá
+Stockholm---Port of Spain
+Canberra---Podgorica
+Podgorica---Edinburgh of the Seven Seas
+Bissau---Monaco
+Yerevan---N'Djamena
+Tashkent---Port of Spain
+Stepanakert---Thimphu
+Cayenne---San Salvador
+Prague---Tunis
+Edinburgh of the Seven Seas---Jamestown
+Ottawa---Tunis
+Kuwait City---Yerevan
+Castries---Sanaá
+San Salvador---Baku
+Monaco---Cayenne
+Maputo---Port of Spain
+St. Helier---Stepanakert
+Vienna---Adamstown
+West Island---Sanaá
+Nouméa---Maputo
+Gaborone---Djibouti
+Accra---Mata-Utu
+Tunis---Stockholm
+Port-au-Prince---Copenhagen
+Lima---Tallinn
+Road Town---Rome
+Banjul---Yerevan
+Port of Spain---Accra
+Tallinn---Port of Spain
+Pyongyang---Ljubljana
+Riga---Cairo
+Buenos Aires---Vienna
+Hanga Roa---Ottawa
+Sanaá---Adamstown
+Philipsburg---Tashkent
+Naypyidaw---Abuja
+Djibouti---Stepanakert
+Rome---Podgorica
+Port Vila---Jamestown
+Khartoum---Djibouti
+62
+Yamoussoukro
+Managua
+N'Djamena
+Thimphu
+Tripoli
+Cairo
+Mata-Utu
+St. John's
+Adamstown
+Copenhagen
+Harare
+Ulaanbaatar
+Praia
+St. Peter Port
+Ljubljana
+Jamestown
+Charlotte Amalie
+Berlin
+Stockholm
+Canberra
+Podgorica
+Bissau
+Tashkent
+Stepanakert
+Abuja
+Cayenne
+Prague
+Baku
+Ottawa
+Edinburgh of the Seven Seas
+Kuwait City
+San Salvador
+Vienna
+Monaco
+Maputo
+Lima
+St. Helier
+Edmonton
+West Island
+Nouméa
+Gaborone
+Accra
+Tunis
+Yerevan
+Port-au-Prince
+Road Town
+Banjul
+Port Vila
+Tallinn
+Castries
+Pyongyang
+Buenos Aires
+Riga
+Port of Spain
+Tegucigalpa
+Hanga Roa
+Sanaá
+Philipsburg
+Naypyidaw
+Djibouti
+Rome
+Khartoum

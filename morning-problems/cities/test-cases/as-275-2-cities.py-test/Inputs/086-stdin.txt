@@ -1,0 +1,167 @@
+82
+Dushanbe---Naypyidaw
+Tunis---Ljubljana
+Ouagadougou---Ulaanbaatar
+Port of Spain---Sarajevo
+Yerevan---Sarajevo
+Brazzaville---Basseterre
+Yaoundé---Kingston
+Nukuʻalofa---Moscow
+Vienna---Funafuti
+Damascus---Port Louis
+Dhaka---Cockburn Town
+Naypyidaw---Pyongyang
+Bandar Seri Begawan---Taipei
+Santo Domingo---Avarua
+Tokyo---Douglas
+The Valley---George Town
+Tashkent---Edinburgh of the Seven Seas
+Amman---Antananarivo
+St. Pierre---Adamstown
+Hanoi---Yaren
+Kuwait City---Cockburn Town
+Cockburn Town---Ouagadougou
+Port-au-Prince---Belmopan
+Libreville---Port of Spain
+Port Louis---Tokyo
+Beijing---Taipei
+La Paz---Astana
+Dublin---Antananarivo
+Sarajevo---Edmonton
+Pyongyang---Adamstown
+London---George Town
+Abuja---Yaoundé
+Grytviken---Adamstown
+Nuuk---Dhaka
+Antananarivo---Naypyidaw
+Gibraltar---Naypyidaw
+Basseterre---Vatican City
+Addis Ababa---Taipei
+Funafuti---Avarua
+Monaco---Gustavia
+Belmopan---Tirana
+Prague---Kingston
+Astana---Algiers
+Moscow---Yaoundé
+Lima---Suva
+Tirana---Singapore
+Baghdad---Ouagadougou
+Yaren---Khartoum
+Oslo---Singapore
+Moroni---Addis Ababa
+Roseau---Funafuti
+Georgetown---Bandar Seri Begawan
+Apia---Avarua
+Ngerulmud---Vienna
+Algiers---Moscow
+Ulaanbaatar---Algiers
+Dili---Bamako
+Suva---Apia
+Bamako---Avarua
+Kingston---Libreville
+Khartoum---Amman
+Bogotá---Edmonton
+Taipei---Grytviken
+Gustavia---Ngerulmud
+Philipsburg---Adamstown
+Vatican City---Georgetown
+Adamstown---Astana
+Amsterdam---Prague
+Ljubljana---Avarua
+Bridgetown---Antananarivo
+St. John's---Bamako
+Buenos Aires---Ouagadougou
+George Town---Baghdad
+Avarua---Bandar Seri Begawan
+Tskhinvali---Lima
+Singapore---Philipsburg
+Andorra la Vella---Lima
+Stanley---Yaren
+Douglas---Apia
+Manama---Monaco
+Managua---Port of Spain
+Edinburgh of the Seven Seas---George Town
+83
+Dushanbe
+Ouagadougou
+Port of Spain
+Yerevan
+Yaoundé
+Nukuʻalofa
+Amman
+Port-au-Prince
+Damascus
+Dhaka
+Naypyidaw
+Gustavia
+Bandar Seri Begawan
+Santo Domingo
+Vienna
+St. Pierre
+Hanoi
+Cockburn Town
+Avarua
+Libreville
+Port Louis
+Amsterdam
+La Paz
+Dublin
+Sarajevo
+Tunis
+Pyongyang
+Beijing
+Abuja
+Grytviken
+Nuuk
+Yaren
+Antananarivo
+Basseterre
+Addis Ababa
+Funafuti
+Gibraltar
+Belmopan
+Prague
+Douglas
+Astana
+Bridgetown
+Moscow
+Lima
+Tirana
+Baghdad
+Oslo
+Moroni
+Roseau
+Georgetown
+Apia
+Ngerulmud
+Algiers
+Ulaanbaatar
+Tashkent
+Tokyo
+Suva
+Bamako
+Kingston
+Khartoum
+Bogotá
+Edmonton
+Taipei
+Stanley
+Philipsburg
+Vatican City
+Singapore
+Adamstown
+Manama
+Ljubljana
+Monaco
+Kuwait City
+Buenos Aires
+St. John's
+London
+Brazzaville
+George Town
+Tskhinvali
+Dili
+Andorra la Vella
+The Valley
+Managua
+Edinburgh of the Seven Seas

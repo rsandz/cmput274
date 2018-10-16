@@ -1,0 +1,15 @@
+6
+Lilongwe---Victoria
+Tashkent---Sanaá
+Nukuʻalofa---Sanaá
+Sanaá---Edmonton
+Port of Spain---Edmonton
+Victoria---Sanaá
+7
+Lilongwe
+Tashkent
+Edmonton
+Port of Spain
+Nukuʻalofa
+Sanaá
+Victoria

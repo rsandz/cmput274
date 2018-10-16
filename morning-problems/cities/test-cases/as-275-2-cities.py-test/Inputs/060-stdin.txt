@@ -1,0 +1,127 @@
+62
+Podgorica---Sofia
+Manila---Rome
+Stockholm---Washington, D.C.
+Bogotá---Hargeisa
+St. Pierre---Madrid
+Budapest---Quito
+Oranjestad---Bishkek
+Ashgabat---Episkopi Cantonment
+Astana---Sucre
+Bangui---Minsk
+Sanaá---Maseru
+Madrid---Vaduz
+Abu Dhabi---Willemstad
+Thimphu---Vienna
+Hargeisa---Tripoli
+St. Helier---Edmonton
+Tarawa---Manila
+Quito---Bogotá
+Juba---Vienna
+Avarua---Juba
+Maputo---Episkopi Cantonment
+Windhoek---Bishkek
+Yaoundé---Abuja
+Episkopi Cantonment---Havana
+Tirana---Monaco
+Tegucigalpa---Minsk
+Vienna---Astana
+Vaduz---Kuala Lumpur
+Yamoussoukro---Hargeisa
+Bishkek---Bogotá
+Kuala Lumpur---Santiago
+Minsk---Rome
+Berlin---Podgorica
+West Island---Hargeisa
+Tripoli---St. Helier
+San Salvador---Tarawa
+Sucre---Georgetown
+Dili---Caracas
+Baku---Yaoundé
+Algiers---Caracas
+Kingston---Maseru
+Tokyo---Bangui
+Georgetown---Yaoundé
+Caracas---Bissau
+Manama---Episkopi Cantonment
+Harare---Kingston
+Sofia---San Salvador
+Monaco---Minsk
+Maseru---Dili
+Willemstad---Tirana
+Alofi---Thimphu
+Bissau---Phnom Penh
+Port of Spain---Bogotá
+Rome---Budapest
+Banjul---Brazzaville
+Brazzaville---Berlin
+Havana---Vaduz
+Phnom Penh---St. Helier
+Santiago---Manila
+Washington, D.C.---Astana
+Djibouti---Avarua
+Abuja---Banjul
+63
+Podgorica
+Manila
+Budapest
+Stockholm
+Bogotá
+St. Pierre
+Oranjestad
+Port of Spain
+Astana
+Madrid
+Santiago
+Bangui
+Sanaá
+Abu Dhabi
+Thimphu
+Hargeisa
+Washington, D.C.
+Ashgabat
+St. Helier
+Quito
+Caracas
+Avarua
+Juba
+Maputo
+Windhoek
+Tarawa
+Yaoundé
+Episkopi Cantonment
+Vienna
+Tirana
+Tegucigalpa
+West Island
+Maseru
+Vaduz
+Yamoussoukro
+Bishkek
+Kuala Lumpur
+Minsk
+Berlin
+Tripoli
+Dili
+San Salvador
+Tokyo
+Sucre
+Algiers
+Georgetown
+Manama
+Harare
+Edmonton
+Sofia
+Monaco
+Willemstad
+Alofi
+Baku
+Bissau
+Kingston
+Rome
+Banjul
+Brazzaville
+Havana
+Phnom Penh
+Djibouti
+Abuja

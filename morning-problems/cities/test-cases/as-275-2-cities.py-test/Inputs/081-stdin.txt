@@ -1,0 +1,165 @@
+81
+Lima---Yerevan
+Paris---Cairo
+Kuala Lumpur---Berlin
+Abuja---Flying Fish Cove
+Chisinau---Praia
+Harare---Yaren
+San Marino---Vatican City
+St. George's---Mbabane
+Mbabane---Vatican City
+Stanley---Sukhumi
+Hanga Roa---Copenhagen
+Baku---Plymouth
+Tripoli---Santiago
+Brasília---Chisinau
+Tirana---Muscat
+Jakarta---Havana
+Berlin---Guatemala City
+Copenhagen---Abu Dhabi
+Kathmandu---Honiara
+Nassau---Abuja
+Riga---Mbabane
+Praia---Baku
+Saipan---Jakarta
+Santiago---Plymouth
+Lilongwe---Plymouth
+Flying Fish Cove---The Valley
+Castries---Nuuk
+Abu Dhabi---Port Moresby
+Khartoum---Nassau
+Maseru---Tripoli
+Ulaanbaatar---Edmonton
+Freetown---Abu Dhabi
+Kinshasa---Copenhagen
+Road Town---San José
+New Delhi---Belfast
+Baghdad---Nuuk
+Lusaka---Cairo
+Honiara---Vienna
+Rabat---Freetown
+Seoul---Kinshasa
+Monrovia---San José
+Nuuk---Road Town
+Panama City---Freetown
+Oslo---Vienna
+Plymouth---Reykjavík
+Islamabad---Port Moresby
+Ouagadougou---Gibraltar
+Victoria---Reykjavík
+San José---Praia
+The Valley---West Island
+Gustavia---Muscat
+Adamstown---Luxembourg
+Belfast---Santiago
+Sukhumi---Seoul
+Vienna---Kinshasa
+Alofi---Mbabane
+Stockholm---Abuja
+Yaren---Abuja
+Havana---Riga
+Kabul---San Juan
+Bogotá---Plymouth
+Guatemala City---Lilongwe
+Yerevan---San Juan
+Port Moresby---Tripoli
+Amman---Paris
+Luxembourg---Ulaanbaatar
+Roseau---Baghdad
+Washington, D.C.---Castries
+Hargeisa---Kuala Lumpur
+Cairo---Praia
+San Salvador---Mbabane
+San Juan---Vatican City
+Port of Spain---Jakarta
+Kampala---Reykjavík
+Budapest---San José
+Gibraltar---Guatemala City
+Reykjavík---The Valley
+Riyadh---Vienna
+West Island---Luxembourg
+Muscat---Oslo
+Vatican City---Sukhumi
+82
+Paris
+Abuja
+Kathmandu
+Harare
+Lusaka
+Islamabad
+Mbabane
+Stanley
+St. George's
+San Marino
+Hanga Roa
+Baku
+New Delhi
+Ulaanbaatar
+Tripoli
+Tirana
+Edmonton
+Jakarta
+Berlin
+Abu Dhabi
+Saipan
+West Island
+Nassau
+Riga
+Praia
+Washington, D.C.
+Budapest
+Santiago
+Brasília
+Lilongwe
+Flying Fish Cove
+Castries
+Riyadh
+Guatemala City
+Stockholm
+Luxembourg
+Khartoum
+Freetown
+Kinshasa
+Road Town
+Baghdad
+Honiara
+Rabat
+Ouagadougou
+Seoul
+Monrovia
+Nuuk
+Panama City
+Oslo
+Plymouth
+Victoria
+The Valley
+Adamstown
+Belfast
+Sukhumi
+San José
+Alofi
+Vienna
+Copenhagen
+Yaren
+Lima
+Port of Spain
+Havana
+Kabul
+Kuala Lumpur
+Bogotá
+Yerevan
+Port Moresby
+Amman
+Gustavia
+Kampala
+San Salvador
+Chisinau
+Cairo
+Roseau
+Hargeisa
+San Juan
+Gibraltar
+Reykjavík
+Maseru
+Muscat
+Vatican City

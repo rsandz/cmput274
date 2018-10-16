@@ -1,0 +1,21 @@
+9
+Algiers---Praia
+Caracas---Praia
+West Island---Tarawa
+Tarawa---Edmonton
+Flying Fish Cove---Tarawa
+Ngerulmud---Flying Fish Cove
+Maputo---Ngerulmud
+Praia---Edmonton
+Budapest---West Island
+10
+Edmonton
+Tarawa
+Ngerulmud
+Maputo
+Praia
+Caracas
+West Island
+Algiers
+Flying Fish Cove
+Budapest

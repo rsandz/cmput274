@@ -1,0 +1,75 @@
+36
+Montevideo---Warsaw
+Ljubljana---Funafuti
+Windhoek---Nassau
+Freetown---Edinburgh
+Caracas---Pyongyang
+Canberra---Oranjestad
+Cockburn Town---Edmonton
+Oranjestad---Edmonton
+Pyongyang---Accra
+Vatican City---Warsaw
+Accra---Islamabad
+Baghdad---Edmonton
+Bratislava---Cockburn Town
+Belmopan---Reykjavík
+Banjul---San José
+Islamabad---Vatican City
+Tirana---San José
+Edinburgh---Yamoussoukro
+Hanga Roa---Tallinn
+San José---Oranjestad
+Nouméa---Reykjavík
+Funafuti---Cockburn Town
+La Paz---Funafuti
+London---Freetown
+Jamestown---Nassau
+Warsaw---Tegucigalpa
+Lomé---Yamoussoukro
+Luxembourg---Banjul
+Prague---Pyongyang
+Beirut---Montevideo
+Tegucigalpa---Ljubljana
+Sucre---Funafuti
+Tallinn---Edinburgh
+Yamoussoukro---Pyongyang
+Nassau---Reykjavík
+Reykjavík---Funafuti
+37
+Montevideo
+Freetown
+Canberra
+Oranjestad
+Pyongyang
+Bratislava
+Banjul
+Islamabad
+Edinburgh
+San José
+Nouméa
+La Paz
+Vatican City
+Warsaw
+Tegucigalpa
+Sucre
+Ljubljana
+Windhoek
+Yamoussoukro
+Cockburn Town
+Belmopan
+Accra
+Jamestown
+Hanga Roa
+Lomé
+Reykjavík
+Funafuti
+London
+Caracas
+Edmonton
+Luxembourg
+Prague
+Baghdad
+Beirut
+Tallinn
+Nassau
+Tirana

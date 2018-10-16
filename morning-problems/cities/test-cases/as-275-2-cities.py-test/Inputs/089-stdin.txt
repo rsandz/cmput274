@@ -1,0 +1,173 @@
+85
+Baku---Tegucigalpa
+Douglas---Antananarivo
+Athens---Sukhumi
+Antananarivo---Bangkok
+Lusaka---Antananarivo
+Tegucigalpa---San Salvador
+Windhoek---Chisinau
+Yaren---Lilongwe
+Valletta---Edinburgh of the Seven Seas
+Monaco---Adamstown
+Pago Pago---Edinburgh of the Seven Seas
+Kuala Lumpur---Majuro
+Sukhumi---Kiev
+Port Vila---Tegucigalpa
+San Juan---Zagreb
+Ljubljana---Santiago
+Kathmandu---Bridgetown
+Muscat---Bangkok
+Taipei---Kampala
+Ashgabat---St. John's
+Nairobi---Santiago
+Bangkok---Belmopan
+St. John's---Banjul
+Jerusalem---Kuala Lumpur
+Beirut---Funafuti
+Tehran---Antananarivo
+Abu Dhabi---Ottawa
+Jamestown---Yaoundé
+Prague---St. John's
+Tirana---George Town
+Paris---Banjul
+Tórshavn---Banjul
+Harare---Edmonton
+Santiago---Adamstown
+Kiev---St. Helier
+Brasília---Yaoundé
+Tunis---Chisinau
+Podgorica---Ouagadougou
+Copenhagen---Bridgetown
+Vienna---Bandar Seri Begawan
+Yaoundé---Port Vila
+Road Town---Funafuti
+Lisbon---Podgorica
+Port of Spain---Jerusalem
+Chisinau---Yerevan
+Astana---Jerusalem
+San Salvador---Vienna
+Belmopan---Kuala Lumpur
+Belfast---Paris
+Dili---Tehran
+San José---Valletta
+George Town---San Salvador
+Edinburgh of the Seven Seas---Lusaka
+Monrovia---Paris
+Tiraspol---Sukhumi
+Saipan---Jamestown
+Sanaá---Gaborone
+Ottawa---London
+Asunción---Banjul
+Funafuti---Belfast
+Banjul---Harare
+St. Helier---St. John's
+Lilongwe---Edmonton
+Adamstown---Hamilton
+Ouagadougou---Riga
+Bridgetown---San Salvador
+Nicosia---Santiago
+Grytviken---Lilongwe
+Zagreb---Lilongwe
+Moscow---Jerusalem
+Buenos Aires---Prague
+Riga---Monaco
+Yerevan---Gaborone
+Castries---Zagreb
+Tokyo---Vienna
+Hamilton---Grytviken
+Majuro---Nairobi
+Sri Jayawardenapura Kotte---Adamstown
+Kampala---Buenos Aires
+Cardiff---Saipan
+Doha---St. John's
+Bandar Seri Begawan---Doha
+Gaborone---Belfast
+London---Tokyo
+Canberra---Ottawa
+86
+Lusaka
+Kuala Lumpur
+Canberra
+Port Vila
+Sukhumi
+Taipei
+Tokyo
+Santiago
+Vienna
+Monrovia
+Ouagadougou
+Nicosia
+Yerevan
+Riga
+Hamilton
+Asunción
+George Town
+Baku
+Douglas
+Pago Pago
+Edinburgh of the Seven Seas
+San José
+Kathmandu
+Bangkok
+Tehran
+Abu Dhabi
+Paris
+Prague
+Harare
+Yaoundé
+Road Town
+Belfast
+Copenhagen
+Lisbon
+Astana
+Ottawa
+Banjul
+Grytviken
+Doha
+Bandar Seri Begawan
+Antananarivo
+San Juan
+Yaren
+Bridgetown
+Tegucigalpa
+Ashgabat
+Nairobi
+St. John's
+Jamestown
+Monaco
+San Salvador
+Edmonton
+Belmopan
+Valletta
+Tiraspol
+Sanaá
+Brasília
+Funafuti
+Buenos Aires
+St. Helier
+Adamstown
+Castries
+Tirana
+Sri Jayawardenapura Kotte
+London
+Windhoek
+Athens
+Ljubljana
+Muscat
+Jerusalem
+Port of Spain
+Kampala
+Beirut
+Kiev
+Tunis
+Chisinau
+Tórshavn
+Dili
+Saipan
+Lilongwe
+Zagreb
+Majuro
+Podgorica
+Cardiff
+Moscow
+Gaborone

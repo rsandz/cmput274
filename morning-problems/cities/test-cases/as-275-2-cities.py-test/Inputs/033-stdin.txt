@@ -1,0 +1,65 @@
+31
+Cayenne---Sarajevo
+Singapore---Cairo
+Belfast---Sarajevo
+Abuja---Oranjestad
+Quito---Cairo
+New Delhi---Kingstown
+Moscow---Belfast
+Bamako---Porto-Novo
+Sofia---Sarajevo
+Khartoum---Flying Fish Cove
+Vaduz---Oranjestad
+Porto-Novo---Cairo
+Dublin---Belfast
+Berlin---Oranjestad
+Damascus---Oranjestad
+Flying Fish Cove---Quito
+Kingstown---Brasília
+Yamoussoukro---Damascus
+Tbilisi---Dublin
+Oranjestad---Bamako
+San Juan---Caracas
+Brasília---Cairo
+Sarajevo---Flying Fish Cove
+Bandar Seri Begawan---Berlin
+Hanga Roa---Moscow
+Riyadh---Tallinn
+Stanley---Belfast
+Cairo---Edmonton
+Tallinn---Stanley
+São Tomé---New Delhi
+Caracas---Flying Fish Cove
+32
+Cayenne
+Quito
+Khartoum
+Vaduz
+Singapore
+Dublin
+Sarajevo
+Flying Fish Cove
+Yamoussoukro
+Oranjestad
+San Juan
+Brasília
+Riyadh
+Cairo
+Tallinn
+São Tomé
+Berlin
+Belfast
+Bandar Seri Begawan
+New Delhi
+Sofia
+Moscow
+Bamako
+Porto-Novo
+Damascus
+Edmonton
+Kingstown
+Abuja
+Tbilisi
+Hanga Roa
+Stanley
+Caracas

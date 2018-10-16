@@ -1,0 +1,187 @@
+92
+Maseru---Brazzaville
+St. Helier---Nassau
+San Juan---Podgorica
+São Tomé---Maseru
+Avarua---Nassau
+Stanley---Freetown
+Castries---Harare
+Yerevan---London
+Yaoundé---Gibraltar
+Pago Pago---Harare
+Honiara---Freetown
+Guatemala City---Berlin
+Khartoum---Sofia
+Mogadishu---Paris
+Pyongyang---Tirana
+Tirana---St. Helier
+Port of Spain---Edinburgh
+Malabo---Tirana
+Edinburgh---Port Louis
+Cayenne---St. Helier
+Minsk---Sukhumi
+Basseterre---Nassau
+Antananarivo---Warsaw
+Nassau---Edmonton
+Georgetown---Funafuti
+Tunis---Hargeisa
+Helsinki---St. Pierre
+Funafuti---Tirana
+Berlin---San Juan
+Belgrade---Gibraltar
+Sofia---Addis Ababa
+Freetown---Ottawa
+Thimphu---N'Djamena
+Washington, D.C.---Helsinki
+San José---Alofi
+Ottawa---Georgetown
+Edinburgh of the Seven Seas---Mexico City
+Moscow---Port Louis
+Yaren---Yerevan
+Warsaw---Mbabane
+Islamabad---Algiers
+St. John's---Paris
+Tehran---Cairo
+Pristina---Thimphu
+Hanoi---Funafuti
+Hargeisa---Castries
+Ljubljana---Belgrade
+Santo Domingo---Washington, D.C.
+Bucharest---Minsk
+Rome---Basseterre
+Reykjavík---Georgetown
+Oranjestad---Moscow
+Lima---Tehran
+Kingston---Tirana
+San Salvador---Malabo
+Tarawa---Lima
+Paris---Kingstown
+La Paz---Harare
+Kingstown---Tirana
+Sanaá---Lima
+Malé---Khartoum
+Road Town---Pago Pago
+Harare---N'Djamena
+Mexico City---Honiara
+Bissau---St. John's
+St. Pierre---Bucharest
+Luxembourg---Santo Domingo
+Dili---Cairo
+Athens---Moscow
+N'Djamena---Khartoum
+London---Oranjestad
+Andorra la Vella---Sukhumi
+Gibraltar---N'Djamena
+Ngerulmud---Mexico City
+Podgorica---Georgetown
+Mata-Utu---Sanaá
+Praia---Andorra la Vella
+Asunción---La Paz
+Addis Ababa---Kingston
+Dodoma---Basseterre
+Alofi---Yerevan
+Bridgetown---San Juan
+Port Louis---Bucharest
+Mbabane---Dodoma
+Ashgabat---Sukhumi
+Algiers---Asunción
+Sukhumi---Ottawa
+Wellington---Rome
+Cairo---Praia
+Suva---Rome
+Brazzaville---Freetown
+Hanga Roa---St. John's
+93
+St. Helier
+Yerevan
+Yaoundé
+Pago Pago
+Khartoum
+Mogadishu
+Tirana
+Reykjavík
+Basseterre
+Nassau
+Thimphu
+San José
+Washington, D.C.
+Edinburgh of the Seven Seas
+Moscow
+Yaren
+Islamabad
+Guatemala City
+Pristina
+Hargeisa
+Georgetown
+Santo Domingo
+Lima
+Kingston
+San Salvador
+Sanaá
+Dodoma
+Malé
+Bissau
+Luxembourg
+Dili
+Gibraltar
+Ngerulmud
+Praia
+Addis Ababa
+Alofi
+Bridgetown
+Ashgabat
+Tarawa
+Algiers
+Maseru
+San Juan
+São Tomé
+Avarua
+Stanley
+Honiara
+Castries
+Athens
+Pyongyang
+Edmonton
+Port of Spain
+Malabo
+Edinburgh
+Cayenne
+Minsk
+Antananarivo
+Tunis
+Helsinki
+Funafuti
+Berlin
+Belgrade
+Sofia
+Freetown
+Hanoi
+Bucharest
+Oranjestad
+Ottawa
+Warsaw
+St. John's
+Tehran
+Ljubljana
+Rome
+Paris
+La Paz
+Kingstown
+Road Town
+Harare
+Mexico City
+St. Pierre
+N'Djamena
+London
+Andorra la Vella
+Hanga Roa
+Podgorica
+Cairo
+Mata-Utu
+Asunción
+Port Louis
+Mbabane
+Sukhumi
+Wellington
+Suva
+Brazzaville

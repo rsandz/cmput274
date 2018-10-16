@@ -1,0 +1,95 @@
+46
+St. Peter Port---Singapore
+Willemstad---Monaco
+Vienna---Edmonton
+Podgorica---Khartoum
+Dakar---Kiev
+Rabat---Kuala Lumpur
+St. George's---Tiraspol
+Freetown---St. Helier
+Monaco---St. Helier
+Brazzaville---Tiraspol
+Amman---Belfast
+Tórshavn---Amman
+Wellington---Podgorica
+Dili---Port Moresby
+Amsterdam---Singapore
+Suva---Belfast
+Kiev---Sanaá
+Yerevan---Tiraspol
+Papeete---Amsterdam
+Belgrade---El Aaiún
+Dhaka---Lisbon
+Tiraspol---Manila
+Skopje---Palikir
+St. Helier---Edmonton
+Kuala Lumpur---Suva
+Singapore---Belfast
+Oranjestad---Madrid
+Ulaanbaatar---Vienna
+Valletta---Wellington
+Khartoum---Palikir
+Port Moresby---St. Helier
+Apia---Belgrade
+Lisbon---Tórshavn
+Sanaá---Vienna
+Palikir---Kiev
+Vatican City---Port Vila
+Belfast---El Aaiún
+Port Vila---Ulaanbaatar
+Prague---Valletta
+Madrid---Dili
+Riyadh---Vatican City
+Berlin---Riyadh
+George Town---El Aaiún
+El Aaiún---Vatican City
+Manila---Sanaá
+Seoul---Berlin
+47
+St. Peter Port
+Willemstad
+Vienna
+Wellington
+Dakar
+Rabat
+St. George's
+Podgorica
+Freetown
+Monaco
+Brazzaville
+Amman
+Tórshavn
+Manila
+Dili
+Suva
+Kiev
+Edmonton
+Sanaá
+Yerevan
+Papeete
+Belgrade
+Dhaka
+Skopje
+St. Helier
+Amsterdam
+Kuala Lumpur
+Oranjestad
+Singapore
+Ulaanbaatar
+Valletta
+Seoul
+Khartoum
+Port Moresby
+Apia
+Tiraspol
+Lisbon
+Palikir
+Vatican City
+Belfast
+Port Vila
+Prague
+Madrid
+Riyadh
+Berlin
+George Town
+El Aaiún

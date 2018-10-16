@@ -1,0 +1,53 @@
+25
+Tarawa---Ankara
+Damascus---Kinshasa
+Bissau---Madrid
+Muscat---Tirana
+Port Moresby---Bissau
+Pristina---Kathmandu
+Warsaw---Plymouth
+Helsinki---Kinshasa
+Singapore---Edmonton
+Valletta---Madrid
+Tunis---Warsaw
+Kabul---Valletta
+Roseau---Buenos Aires
+Basseterre---Ankara
+Kinshasa---Port Moresby
+Port-au-Prince---Kinshasa
+Madrid---Edmonton
+Brasília---Ankara
+Niamey---Muscat
+Plymouth---Singapore
+Ankara---Damascus
+Amman---Kinshasa
+Kathmandu---Brasília
+Tirana---Bissau
+Buenos Aires---Helsinki
+26
+Helsinki
+Singapore
+Roseau
+Basseterre
+Kinshasa
+Tirana
+Buenos Aires
+Tarawa
+Pristina
+Damascus
+Bissau
+Muscat
+Edmonton
+Warsaw
+Port Moresby
+Tunis
+Kabul
+Valletta
+Port-au-Prince
+Madrid
+Brasília
+Niamey
+Plymouth
+Ankara
+Amman
+Kathmandu

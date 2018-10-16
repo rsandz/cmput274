@@ -1,0 +1,119 @@
+58
+Dublin---Baku
+Paramaribo---St. Pierre
+Kingston---Jakarta
+Singapore---Ljubljana
+Antananarivo---Riga
+Sarajevo---Maputo
+Sucre---Ngerulmud
+San Salvador---Dublin
+Dushanbe---Edmonton
+Tashkent---San Salvador
+Harare---Moroni
+Majuro---Bangui
+Hagåtña---Ngerulmud
+Pago Pago---Majuro
+Praia---Dublin
+Jakarta---Dushanbe
+Gibraltar---Bishkek
+Bishkek---Lilongwe
+Bangui---Baku
+Lilongwe---London
+Bridgetown---Bishkek
+Ngerulmud---Antananarivo
+Ljubljana---Helsinki
+Ashgabat---Tiraspol
+St. Pierre---Asmara
+Kigali---Baku
+Tskhinvali---Ulaanbaatar
+Baku---Addis Ababa
+Baghdad---Singapore
+Paris---Kingston
+Lomé---Episkopi Cantonment
+Ulaanbaatar---Ljubljana
+Helsinki---San Salvador
+Moroni---Tiraspol
+Edinburgh---Dublin
+London---Kingston
+Maputo---Jakarta
+Tiraspol---Helsinki
+Tirana---Sarajevo
+Kinshasa---Baghdad
+Episkopi Cantonment---Dakar
+Addis Ababa---Edmonton
+Tripoli---Baghdad
+Zagreb---Tripoli
+Belgrade---Ottawa
+Dakar---Tirana
+Dodoma---Dushanbe
+Marigot---Ottawa
+Ottawa---Addis Ababa
+Riga---Edmonton
+Gaborone---Bangui
+Alofi---Bangui
+Nouakchott---Dakar
+Funafuti---London
+Road Town---San Salvador
+Caracas---Paris
+Hamilton---Moroni
+Asmara---Kigali
+59
+Dublin
+Kingston
+Singapore
+Antananarivo
+Sarajevo
+Sucre
+San Salvador
+Edmonton
+Majuro
+Dushanbe
+Harare
+Hagåtña
+Pago Pago
+Marigot
+Praia
+Jakarta
+Gibraltar
+Asmara
+Bishkek
+Bangui
+London
+Bridgetown
+Ngerulmud
+Tirana
+Ljubljana
+Ashgabat
+St. Pierre
+Kigali
+Gaborone
+Baku
+Baghdad
+Paris
+Paramaribo
+Ulaanbaatar
+Helsinki
+Moroni
+Edinburgh
+Maputo
+Tiraspol
+Tskhinvali
+Episkopi Cantonment
+Tripoli
+Kinshasa
+Lomé
+Zagreb
+Dakar
+Dodoma
+Ottawa
+Addis Ababa
+Belgrade
+Lilongwe
+Riga
+Alofi
+Nouakchott
+Funafuti
+Road Town
+Caracas
+Hamilton
+Tashkent

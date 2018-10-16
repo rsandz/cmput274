@@ -1,0 +1,149 @@
+73
+Oslo---Pago Pago
+Port-au-Prince---Bissau
+Mexico City---Podgorica
+Madrid---Libreville
+La Paz---Bangkok
+Road Town---Port-au-Prince
+West Island---Pristina
+Ouagadougou---Kathmandu
+Kuwait City---Brasília
+Asmara---Montevideo
+Podgorica---Bandar Seri Begawan
+Kabul---Doha
+St. Peter Port---Asmara
+Sofia---Naypyidaw
+Libreville---Thimphu
+Ljubljana---Vilnius
+Dodoma---Pago Pago
+Ottawa---Singapore
+Canberra---Quito
+Warsaw---Plymouth
+Edinburgh---Bangkok
+Bangkok---Gibraltar
+Windhoek---Ulaanbaatar
+Singapore---Budapest
+Gibraltar---Madrid
+Naypyidaw---Nuuk
+Athens---Addis Ababa
+Dili---Kingstown
+Seoul---Kabul
+Bissau---Windhoek
+Cardiff---West Island
+Bandar Seri Begawan---Asmara
+Addis Ababa---Podgorica
+Vilnius---Brasília
+Astana---Luxembourg
+Nouakchott---Palikir
+Vienna---Bishkek
+Ankara---Addis Ababa
+Bishkek---Montevideo
+Thimphu---Palikir
+Kingstown---Pristina
+Doha---Astana
+Caracas---San José
+Quito---Addis Ababa
+Pago Pago---Podgorica
+Luxembourg---Dodoma
+Bamako---San José
+Port of Spain---Juba
+Bangui---Dodoma
+Budapest---San José
+Kiev---Bishkek
+Yaren---Tallinn
+Grytviken---Seoul
+Stepanakert---Vienna
+Porto-Novo---Canberra
+Palikir---Bangui
+Montevideo---Edmonton
+San José---Libreville
+Ulaanbaatar---Sofia
+Hargeisa---St. George's
+Juba---Grytviken
+St. George's---Addis Ababa
+Baku---Caracas
+Riga---Port-au-Prince
+Zagreb---Seoul
+George Town---Kingstown
+Tallinn---Pristina
+Nuuk---Gibraltar
+Plymouth---Kingstown
+Kathmandu---Libreville
+Pristina---Oslo
+Brasília---Ouagadougou
+Adamstown---St. George's
+74
+Oslo
+Port-au-Prince
+Mexico City
+Bandar Seri Begawan
+Madrid
+Seoul
+La Paz
+Road Town
+Ouagadougou
+Kuwait City
+Asmara
+Podgorica
+Kabul
+St. Peter Port
+Sofia
+Libreville
+Vilnius
+Dodoma
+Ljubljana
+Ottawa
+Canberra
+Porto-Novo
+Edinburgh
+Bangkok
+Windhoek
+George Town
+Gibraltar
+Warsaw
+Naypyidaw
+Athens
+Port of Spain
+Dili
+Edmonton
+Bissau
+Addis Ababa
+Riga
+San José
+Cardiff
+Astana
+Baku
+Ankara
+Bishkek
+Thimphu
+Kingstown
+Doha
+Budapest
+Caracas
+Luxembourg
+Quito
+Bangui
+Pago Pago
+Bamako
+West Island
+Kiev
+Yaren
+Singapore
+Grytviken
+Nouakchott
+Vienna
+Stepanakert
+Montevideo
+Palikir
+Ulaanbaatar
+Hargeisa
+Juba
+St. George's
+Zagreb
+Tallinn
+Nuuk
+Plymouth
+Kathmandu
+Pristina
+Brasília
+Adamstown

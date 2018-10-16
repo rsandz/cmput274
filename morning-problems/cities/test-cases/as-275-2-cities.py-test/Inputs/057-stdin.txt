@@ -1,0 +1,115 @@
+56
+Lima---Hagåtña
+Monrovia---Bogotá
+Helsinki---Rome
+Pristina---Islamabad
+Phnom Penh---Bern
+Kingston---Helsinki
+Montevideo---Malabo
+Ankara---Montevideo
+Bujumbura---Hagåtña
+Mexico City---Accra
+Abu Dhabi---Beirut
+Tehran---Islamabad
+Kuala Lumpur---Juba
+Washington, D.C.---Montevideo
+Valletta---Luxembourg
+Juba---Ankara
+Hagåtña---Plymouth
+Dhaka---Riga
+Canberra---Windhoek
+Accra---Brasília
+Cayenne---Bogotá
+Islamabad---Helsinki
+Edinburgh of the Seven Seas---Edinburgh
+Lomé---Canberra
+Luxembourg---Windhoek
+Dili---Nouméa
+Copenhagen---Addis Ababa
+Funafuti---Windhoek
+Caracas---Sri Jayawardenapura Kotte
+Bogotá---Moroni
+Vaduz---Malabo
+La Paz---Mexico City
+Asmara---Algiers
+Wellington---Kathmandu
+Port Moresby---Monrovia
+Brasília---Luxembourg
+Plymouth---Malabo
+Kathmandu---Nouméa
+Riga---Brasília
+Alofi---Bern
+Rome---Valletta
+Nicosia---Wellington
+Malabo---Luxembourg
+Sri Jayawardenapura Kotte---Islamabad
+Nouméa---Edinburgh of the Seven Seas
+Dakar---Rome
+Moroni---Phnom Penh
+Addis Ababa---Hagåtña
+Edinburgh---Cayenne
+Bern---Windhoek
+Algiers---Luxembourg
+Windhoek---Edmonton
+Havana---Rome
+Mogadishu---Islamabad
+Beirut---Dakar
+Apia---Kingston
+57
+Lima
+Monrovia
+Helsinki
+Pristina
+Phnom Penh
+Kingston
+Montevideo
+Ankara
+Bujumbura
+Mexico City
+Edmonton
+Abu Dhabi
+Tehran
+Kuala Lumpur
+Washington, D.C.
+Riga
+Valletta
+Juba
+Hagåtña
+Dhaka
+Canberra
+Accra
+Islamabad
+Cayenne
+Lomé
+Luxembourg
+Bern
+Copenhagen
+Kathmandu
+Caracas
+Vaduz
+Dili
+La Paz
+Algiers
+Wellington
+Port Moresby
+Brasília
+Plymouth
+Alofi
+Rome
+Nicosia
+Malabo
+Sri Jayawardenapura Kotte
+Funafuti
+Bogotá
+Asmara
+Dakar
+Nouméa
+Moroni
+Addis Ababa
+Edinburgh
+Edinburgh of the Seven Seas
+Windhoek
+Havana
+Mogadishu
+Beirut
+Apia

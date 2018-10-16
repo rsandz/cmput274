@@ -1,0 +1,199 @@
+98
+Jerusalem---Washington, D.C.
+The Valley---Edinburgh
+La Paz---Lima
+Sri Jayawardenapura Kotte---Lusaka
+Brussels---Bamako
+Road Town---Banjul
+Bujumbura---Tripoli
+San Salvador---Hanoi
+Bratislava---Mbabane
+Honiara---Luxembourg
+Luanda---Apia
+Tripoli---Beijing
+Caracas---New Delhi
+Minsk---Nouméa
+Riyadh---Quito
+Lusaka---Buenos Aires
+Managua---Jamestown
+Majuro---Honiara
+Douglas---Yaoundé
+Rome---Edinburgh
+Nouméa---San Juan
+San Marino---Moroni
+St. George's---Funafuti
+Lima---Minsk
+Episkopi Cantonment---Islamabad
+Luxembourg---Pago Pago
+Mata-Utu---Mbabane
+Beijing---Windhoek
+Sanaá---Accra
+Accra---Majuro
+Vientiane---Roseau
+Yaoundé---Vienna
+Apia---Tripoli
+Dhaka---Flying Fish Cove
+Kuwait City---Douglas
+Pago Pago---Nouméa
+Vienna---Hanga Roa
+Stepanakert---Jamestown
+Saipan---Buenos Aires
+Kingstown---Sri Jayawardenapura Kotte
+Manama---Quito
+Gaborone---Kinshasa
+Wellington---Jerusalem
+Cairo---Nairobi
+Baghdad---Flying Fish Cove
+Yerevan---Majuro
+Skopje---Luxembourg
+St. Helier---Abuja
+San Juan---Funafuti
+Flying Fish Cove---Ottawa
+Avarua---Mbabane
+Oslo---Yaoundé
+Bamako---Malé
+Port of Spain---San Juan
+El Aaiún---Havana
+Abuja---San Juan
+Islamabad---Papeete
+Kathmandu---Dili
+Edinburgh---Havana
+Havana---Luxembourg
+Jamestown---Bamako
+Jakarta---St. George's
+Moroni---St. Peter Port
+Ottawa---Minsk
+St. Peter Port---Bujumbura
+St. John's---Charlotte Amalie
+Charlotte Amalie---Moscow
+New Delhi---Nouméa
+Roseau---Hanoi
+Hanga Roa---Roseau
+Kinshasa---Caracas
+Guatemala City---Seoul
+Port Vila---Moscow
+Windhoek---Dili
+Kiev---Beijing
+Mbabane---Roseau
+Malé---Havana
+Papeete---Banjul
+Bogotá---Kinshasa
+Quito---Apia
+Beirut---Windhoek
+São Tomé---Havana
+Seoul---Luxembourg
+Praia---Minsk
+Hanoi---Cairo
+Bangkok---Kinshasa
+Sukhumi---St. George's
+Kigali---St. George's
+Dili---Episkopi Cantonment
+Buenos Aires---Riyadh
+Monaco---Oslo
+Washington, D.C.---Ottawa
+Moscow---Edmonton
+Banjul---Malé
+Nairobi---St. Peter Port
+Khartoum---Yaoundé
+Funafuti---Edmonton
+Zagreb---Saipan
+99
+Jerusalem
+La Paz
+Accra
+Lima
+Sri Jayawardenapura Kotte
+Bujumbura
+Bratislava
+Honiara
+Caracas
+Lusaka
+Managua
+Episkopi Cantonment
+Rome
+Nouméa
+Zagreb
+Baghdad
+St. George's
+Sanaá
+Dhaka
+Kuwait City
+Yaoundé
+Yerevan
+Manama
+Gaborone
+St. Helier
+El Aaiún
+Jamestown
+Ottawa
+St. John's
+Charlotte Amalie
+Edmonton
+Hanga Roa
+Kinshasa
+Port Vila
+Luanda
+Kiev
+Mbabane
+Malé
+Bogotá
+Papeete
+Quito
+Beirut
+São Tomé
+Seoul
+Bangkok
+Tripoli
+Kigali
+Buenos Aires
+Avarua
+Khartoum
+Brussels
+The Valley
+Kathmandu
+Road Town
+San Salvador
+Minsk
+Riyadh
+Majuro
+Douglas
+Luxembourg
+Mata-Utu
+Beijing
+Vientiane
+Apia
+Pago Pago
+Vienna
+Stepanakert
+Saipan
+Kingstown
+Hanoi
+Wellington
+Cairo
+Skopje
+Flying Fish Cove
+Port of Spain
+Abuja
+Edinburgh
+Bamako
+Islamabad
+Havana
+Jakarta
+Moroni
+St. Peter Port
+New Delhi
+Roseau
+San Marino
+Guatemala City
+Windhoek
+San Juan
+Praia
+Sukhumi
+Dili
+Monaco
+Washington, D.C.
+Oslo
+Moscow
+Banjul
+Nairobi
+Funafuti

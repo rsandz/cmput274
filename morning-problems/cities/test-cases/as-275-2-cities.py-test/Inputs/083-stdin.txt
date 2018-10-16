@@ -1,0 +1,171 @@
+84
+Canberra---Nassau
+Manama---Copenhagen
+Managua---Jerusalem
+Yerevan---Panama City
+Vienna---Prague
+Bishkek---St. Peter Port
+Harare---Panama City
+Ankara---Taipei
+Kingstown---St. Helier
+Funafuti---N'Djamena
+Bandar Seri Begawan---Bujumbura
+Tirana---Honiara
+Freetown---Nukuʻalofa
+Skopje---Asmara
+San Salvador---N'Djamena
+Gibraltar---Monaco
+St. John's---Gibraltar
+Conakry---Jerusalem
+Bamako---Cairo
+Tokyo---Cairo
+Mexico City---Bishkek
+Santo Domingo---Hanoi
+Apia---Bishkek
+Jerusalem---Taipei
+Beijing---Tirana
+Santiago---Antananarivo
+Lima---Port-au-Prince
+Charlotte Amalie---Port Louis
+Stanley---Palikir
+N'Djamena---Bujumbura
+St. Peter Port---Gibraltar
+Hargeisa---Apia
+Bern---Mexico City
+Bujumbura---Edmonton
+Nukuʻalofa---Jerusalem
+Monaco---Freetown
+Belmopan---Skopje
+Marigot---Bogotá
+Accra---Bogotá
+Sofia---Nukuʻalofa
+Port Vila---New Delhi
+Cockburn Town---Edmonton
+Taipei---The Valley
+Zagreb---Monaco
+Bogotá---Conakry
+St. Helier---Conakry
+Asmara---Bissau
+Tripoli---Bissau
+Willemstad---Conakry
+Tbilisi---Accra
+Ashgabat---Tbilisi
+Nassau---Sanaá
+Copenhagen---Ankara
+Paramaribo---Accra
+Baghdad---Belmopan
+Cardiff---Panama City
+Port-au-Prince---Edmonton
+Bissau---Antananarivo
+Prague---Zagreb
+Cairo---Majuro
+New Delhi---Hamilton
+Sarajevo---Port Vila
+West Island---Willemstad
+Dushanbe---Beijing
+Dublin---Monaco
+Roseau---Panama City
+Addis Ababa---Hamilton
+Kuala Lumpur---Port Louis
+Port Louis---Skopje
+Windhoek---New Delhi
+Hamilton---Panama City
+Sanaá---Hamilton
+Singapore---Bandar Seri Begawan
+Majuro---Manama
+Hagåtña---Port Louis
+Antananarivo---West Island
+Palikir---Zagreb
+Tskhinvali---Baghdad
+Honiara---Tripoli
+Hanoi---Honiara
+Panama City---Apia
+The Valley---Bujumbura
+Oranjestad---Freetown
+Hanga Roa---Bishkek
+85
+Canberra
+Bujumbura
+Managua
+Yerevan
+Manama
+Vienna
+Hanoi
+Santiago
+Harare
+Ankara
+Kingstown
+Funafuti
+Copenhagen
+Bandar Seri Begawan
+Singapore
+Skopje
+Freetown
+Gibraltar
+St. John's
+Conakry
+Bamako
+Hanga Roa
+Tokyo
+Port Vila
+Kuala Lumpur
+Mexico City
+Apia
+Jerusalem
+Beijing
+Santo Domingo
+Lima
+Charlotte Amalie
+Stanley
+N'Djamena
+Bissau
+St. Peter Port
+Hargeisa
+Honiara
+Oranjestad
+Nukuʻalofa
+Monaco
+Baghdad
+Sofia
+Accra
+Cockburn Town
+Taipei
+Zagreb
+Tirana
+Majuro
+St. Helier
+Port-au-Prince
+Bogotá
+Bern
+Willemstad
+Ashgabat
+Tbilisi
+Asmara
+San Salvador
+Nassau
+Dublin
+Paramaribo
+Cardiff
+Prague
+Cairo
+New Delhi
+West Island
+Dushanbe
+Bishkek
+Marigot
+Roseau
+Addis Ababa
+Tripoli
+Edmonton
+Port Louis
+Windhoek
+Belmopan
+Sanaá
+Hamilton
+Hagåtña
+Tskhinvali
+Antananarivo
+Palikir
+Sarajevo
+Panama City
+The Valley

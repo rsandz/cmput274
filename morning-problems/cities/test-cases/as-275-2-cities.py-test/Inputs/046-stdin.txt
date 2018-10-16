@@ -1,0 +1,87 @@
+42
+Beirut---El Aaiún
+Port Vila---George Town
+George Town---Honiara
+Andorra la Vella---Damascus
+Bishkek---Edmonton
+Tokyo---West Island
+Basseterre---Port Vila
+St. John's---West Island
+Honiara---Andorra la Vella
+Luxembourg---Honiara
+Edinburgh---Gaborone
+Algiers---Andorra la Vella
+Port Moresby---Gaborone
+St. George's---Libreville
+Gaborone---Malabo
+Santo Domingo---Honiara
+Belmopan---Kabul
+Sarajevo---El Aaiún
+Lomé---Malabo
+Nicosia---Kabul
+Singapore---Basseterre
+Vienna---Lomé
+Jerusalem---Gaborone
+Damascus---El Aaiún
+Nuuk---Edinburgh
+Kabul---Tokyo
+Libreville---Sarajevo
+Kingstown---Canberra
+Bangkok---St. George's
+Vientiane---São Tomé
+Malabo---Algiers
+Juba---Nicosia
+Lima---George Town
+Tashkent---Vienna
+Jakarta---Tokyo
+São Tomé---Port Vila
+West Island---Bishkek
+Santiago---West Island
+Bridgetown---Port Vila
+Canberra---Tashkent
+Buenos Aires---Basseterre
+El Aaiún---Juba
+43
+Tokyo
+St. John's
+Honiara
+West Island
+Gaborone
+Nicosia
+Singapore
+Jerusalem
+Damascus
+São Tomé
+Juba
+Kabul
+Edinburgh
+Santiago
+Sarajevo
+El Aaiún
+Edmonton
+Beirut
+Santo Domingo
+Andorra la Vella
+Bishkek
+George Town
+Buenos Aires
+Basseterre
+Luxembourg
+Algiers
+Port Moresby
+Lomé
+Jakarta
+Belmopan
+Vienna
+St. George's
+Nuuk
+Libreville
+Kingstown
+Bangkok
+Vientiane
+Malabo
+Port Vila
+Lima
+Tashkent
+Bridgetown
+Canberra

@@ -1,0 +1,189 @@
+93
+Charlotte Amalie---Kiev
+Lusaka---Sarajevo
+Adamstown---Moscow
+Tórshavn---San José
+Ouagadougou---Lusaka
+London---Beijing
+Addis Ababa---Dili
+Tokyo---Adamstown
+Nicosia---Antananarivo
+Vienna---San Marino
+Belmopan---Brazzaville
+Riyadh---Islamabad
+Port of Spain---Maseru
+Sarajevo---Taipei
+Nassau---Moroni
+George Town---Edinburgh
+Hanga Roa---Nassau
+Mogadishu---Sarajevo
+Kuwait City---Rabat
+Antananarivo---Kathmandu
+Hargeisa---Grytviken
+Bishkek---Dakar
+Belgrade---Amman
+Muscat---Rabat
+Mexico City---Kabul
+Caracas---Belmopan
+São Tomé---Brazzaville
+Kiev---Kingston
+Brazzaville---Nassau
+Philipsburg---Adamstown
+Ljubljana---Nassau
+Amman---Madrid
+Rabat---Nassau
+Douglas---Belmopan
+Stepanakert---Tarawa
+Freetown---Kiev
+Tbilisi---Tórshavn
+Moscow---Kuwait City
+Tallinn---Moscow
+Khartoum---Libreville
+San Marino---Kingstown
+Bujumbura---Stepanakert
+Beijing---Kingston
+Jakarta---Bishkek
+Dakar---Belmopan
+Kigali---George Town
+Dodoma---St. George's
+Asunción---St. George's
+Athens---Jakarta
+Dili---Bangui
+Paramaribo---Philipsburg
+Maseru---Kuala Lumpur
+Madrid---Rabat
+Kabul---St. George's
+Jamestown---Stepanakert
+Thimphu---Tórshavn
+Abu Dhabi---Philipsburg
+Nouakchott---Rabat
+Skopje---Grytviken
+Kuala Lumpur---St. Helier
+Kingston---Tallinn
+Tunis---Nouakchott
+Tegucigalpa---Dakar
+Cardiff---Tbilisi
+San José---Moscow
+Managua---Tbilisi
+Nukuʻalofa---Dakar
+Road Town---London
+Vientiane---Ashgabat
+Taipei---Managua
+Moroni---Edmonton
+Sanaá---Cardiff
+Djibouti---Vienna
+Ottawa---Brazzaville
+Tarawa---Philipsburg
+Ashgabat---Sofia
+Zagreb---Bujumbura
+Islamabad---Douglas
+Kingstown---Edinburgh
+Kathmandu---Edinburgh
+San Juan---San Marino
+St. George's---Bishkek
+Edinburgh---Taipei
+Libreville---São Tomé
+Santo Domingo---Jakarta
+Beirut---Tbilisi
+St. Helier---Santo Domingo
+Niamey---Lusaka
+Sucre---Kingston
+Tripoli---Kabul
+Sofia---San José
+Grytviken---Kuala Lumpur
+Bangui---Jamestown
+94
+Charlotte Amalie
+Lusaka
+Port of Spain
+Ouagadougou
+London
+Sarajevo
+George Town
+Kuwait City
+Antananarivo
+Bishkek
+Mexico City
+Brazzaville
+Amman
+Stepanakert
+Douglas
+Freetown
+Moroni
+Beijing
+Jakarta
+Santo Domingo
+Dakar
+Dodoma
+Madrid
+Jamestown
+Rabat
+Thimphu
+Abu Dhabi
+Skopje
+Kingston
+Tunis
+San Marino
+Kathmandu
+Nukuʻalofa
+Vientiane
+Sanaá
+Djibouti
+Ottawa
+Tarawa
+Managua
+Zagreb
+Islamabad
+San Juan
+St. George's
+Vienna
+Libreville
+St. Helier
+Niamey
+Tripoli
+Kuala Lumpur
+Adamstown
+Tórshavn
+Addis Ababa
+Tegucigalpa
+Nicosia
+Tokyo
+Belmopan
+Maseru
+Riyadh
+Nassau
+Hanga Roa
+Mogadishu
+Hargeisa
+Edmonton
+Belgrade
+Caracas
+São Tomé
+Philipsburg
+Ljubljana
+Tbilisi
+Kiev
+Moscow
+Tallinn
+Khartoum
+Bujumbura
+Kigali
+Asunción
+Athens
+Dili
+Paramaribo
+Muscat
+Kabul
+Nouakchott
+Cardiff
+San José
+Road Town
+Taipei
+Ashgabat
+Kingstown
+Edinburgh
+Beirut
+Sucre
+Sofia
+Grytviken
+Bangui

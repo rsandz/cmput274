@@ -1,0 +1,13 @@
+5
+Pristina---Nouakchott
+Jamestown---Edmonton
+Lima---Jamestown
+Nouakchott---Jamestown
+San Marino---Edmonton
+6
+Lima
+Nouakchott
+Edmonton
+San Marino
+Pristina
+Jamestown

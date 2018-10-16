@@ -1,0 +1,151 @@
+74
+San José---San Juan
+Adamstown---Edmonton
+Madrid---Sanaá
+Monaco---Port Moresby
+Astana---Willemstad
+Pristina---Conakry
+Beijing---Lomé
+Port Vila---Willemstad
+Castries---Dili
+Tunis---Montevideo
+Banjul---San José
+Djibouti---Marigot
+Moroni---Vienna
+Vienna---Adamstown
+Manama---Dodoma
+Sucre---Douglas
+Manila---Ashgabat
+Kuwait City---Moroni
+Port Moresby---Dodoma
+Khartoum---Nairobi
+Belfast---Harare
+Kiev---Harare
+Marigot---San Salvador
+Plymouth---Algiers
+George Town---Jamestown
+Jamestown---Jakarta
+Tashkent---Beijing
+Nairobi---Athens
+Quito---Manama
+Dodoma---Gustavia
+Montevideo---Tashkent
+Jakarta---Ashgabat
+Port of Spain---Monaco
+Lomé---Cockburn Town
+Cairo---Baku
+Cockburn Town---Muscat
+Lima---Monaco
+Bern---Banjul
+Baku---Sanaá
+Willemstad---Douglas
+Victoria---Adamstown
+Flying Fish Cove---Nouakchott
+Athens---Conakry
+Conakry---Hanoi
+Reykjavík---Muscat
+Hanoi---Plymouth
+Tirana---Ashgabat
+Mexico City---Conakry
+Malé---Alofi
+Muscat---Madrid
+Berlin---Hargeisa
+Pyongyang---Kuwait City
+West Island---Berlin
+Nukuʻalofa---Victoria
+Helsinki---Bandar Seri Begawan
+San Salvador---Edmonton
+Sanaá---Adamstown
+Port Louis---Willemstad
+Douglas---Djibouti
+Tórshavn---Astana
+San Juan---Cockburn Town
+Gustavia---Mexico City
+Ashgabat---Kuwait City
+Lisbon---Monaco
+Harare---Hargeisa
+Dili---Ottawa
+San Marino---Kuwait City
+Hargeisa---George Town
+Algiers---Kiev
+Bandar Seri Begawan---Alofi
+Nouakchott---Banjul
+Alofi---Berlin
+Ottawa---Moroni
+Mogadishu---Hanoi
+75
+San José
+Adamstown
+Monaco
+Astana
+Flying Fish Cove
+Pristina
+Beijing
+Castries
+Tunis
+Djibouti
+Moroni
+Vienna
+Manama
+Sucre
+Manila
+Kuwait City
+Port Moresby
+Khartoum
+Tórshavn
+Kiev
+Marigot
+Plymouth
+Port Vila
+Jamestown
+George Town
+Nairobi
+Quito
+Dodoma
+Belfast
+Reykjavík
+Malé
+Jakarta
+Montevideo
+Lomé
+Tashkent
+Ashgabat
+Lima
+San Juan
+Cockburn Town
+Port of Spain
+Baku
+Willemstad
+Algiers
+Victoria
+Helsinki
+Athens
+Conakry
+Banjul
+Nukuʻalofa
+Hanoi
+Tirana
+Mexico City
+Bern
+Mogadishu
+Berlin
+West Island
+San Salvador
+Cairo
+Sanaá
+Edmonton
+Port Louis
+Douglas
+Muscat
+Lisbon
+Gustavia
+Madrid
+Pyongyang
+Harare
+Dili
+San Marino
+Hargeisa
+Bandar Seri Begawan
+Nouakchott
+Alofi
+Ottawa

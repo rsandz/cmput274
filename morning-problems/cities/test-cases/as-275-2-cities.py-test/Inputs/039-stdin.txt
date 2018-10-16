@@ -1,0 +1,71 @@
+34
+Vilnius---Edmonton
+Mogadishu---Kinshasa
+Tirana---Mata-Utu
+Helsinki---San Salvador
+Bamako---Edmonton
+Ulaanbaatar---Funafuti
+Zagreb---Mata-Utu
+Kingstown---Funafuti
+Doha---Pristina
+Budapest---Kinshasa
+Edinburgh of the Seven Seas---Tirana
+Philipsburg---Bratislava
+Quito---Addis Ababa
+Victoria---Freetown
+Moscow---Funafuti
+Kinshasa---Mexico City
+Avarua---Edmonton
+Freetown---Guatemala City
+Washington, D.C.---Kingstown
+Willemstad---Helsinki
+Mata-Utu---Avarua
+Funafuti---Guatemala City
+Mexico City---San José
+Naypyidaw---Stockholm
+Bissau---Addis Ababa
+Santo Domingo---Budapest
+Brasília---Avarua
+Addis Ababa---Budapest
+San Salvador---Doha
+Bratislava---Doha
+Guatemala City---Kinshasa
+Stockholm---Freetown
+Pristina---Guatemala City
+San José---Edinburgh of the Seven Seas
+35
+Vilnius
+Mogadishu
+Edinburgh of the Seven Seas
+Edmonton
+Mata-Utu
+Victoria
+Washington, D.C.
+Funafuti
+Mexico City
+Bissau
+Santo Domingo
+Brasília
+Addis Ababa
+San Salvador
+Zagreb
+Bratislava
+Pristina
+San José
+Helsinki
+Bamako
+Ulaanbaatar
+Stockholm
+Kingstown
+Budapest
+Philipsburg
+Quito
+Moscow
+Kinshasa
+Avarua
+Tirana
+Doha
+Freetown
+Naypyidaw
+Willemstad
+Guatemala City

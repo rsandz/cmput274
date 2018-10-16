@@ -1,0 +1,43 @@
+20
+Valletta---Nukuʻalofa
+Prague---Edmonton
+Willemstad---Nukuʻalofa
+Havana---Djibouti
+Mexico City---Nuuk
+Kabul---Nuuk
+Lusaka---Nukuʻalofa
+Zagreb---Kiev
+Bogotá---Valletta
+Djibouti---Valletta
+Kampala---Nukuʻalofa
+Hanga Roa---Kabul
+Nuuk---Edmonton
+Nukuʻalofa---Mexico City
+San Marino---Kiev
+Oslo---Djibouti
+Kiev---Oslo
+N'Djamena---Willemstad
+Road Town---Prague
+Tokyo---Edmonton
+21
+Valletta
+Prague
+Nukuʻalofa
+Willemstad
+Havana
+Edmonton
+San Marino
+Road Town
+Mexico City
+Kabul
+Lusaka
+Bogotá
+Djibouti
+Kampala
+Hanga Roa
+Nuuk
+Zagreb
+Tokyo
+Oslo
+Kiev
+N'Djamena

@@ -1,0 +1,153 @@
+75
+St. Peter Port---Bucharest
+Kiev---Brussels
+Kingston---Cardiff
+Algiers---Cayenne
+Libreville---Caracas
+Cardiff---Belmopan
+Sukhumi---Panama City
+Pago Pago---Ouagadougou
+Bridgetown---Phnom Penh
+Caracas---Panama City
+Dakar---Sanaá
+Lilongwe---Plymouth
+Guatemala City---Kingstown
+San Juan---Ouagadougou
+Saipan---Baku
+Conakry---London
+Hargeisa---Baku
+Khartoum---Lisbon
+Harare---Praia
+San Salvador---Conakry
+Lisbon---Kingstown
+Sanaá---Pristina
+Cayenne---Guatemala City
+Addis Ababa---Lisbon
+Warsaw---Ljubljana
+Bogotá---Paramaribo
+Hagåtña---Kingston
+Prague---Saipan
+Basseterre---Palikir
+Cockburn Town---Prague
+Pristina---Maputo
+Praia---Islamabad
+Belmopan---Panama City
+Panama City---Kiev
+Valletta---Majuro
+Palikir---Guatemala City
+Tbilisi---Vaduz
+Bujumbura---Hargeisa
+Nassau---Bangui
+Bucharest---Sanaá
+Ashgabat---Lisbon
+Montevideo---Nassau
+Rome---Ouagadougou
+Luxembourg---St. John's
+Ljubljana---Islamabad
+Kingstown---Bridgetown
+Tirana---Hagåtña
+Dhaka---Hamilton
+London---Cockburn Town
+Paramaribo---Hagåtña
+Ouagadougou---Taipei
+Vaduz---Hargeisa
+Plymouth---Stockholm
+St. John's---Santo Domingo
+Buenos Aires---Kingstown
+Copenhagen---Conakry
+Majuro---Sukhumi
+Brussels---La Paz
+Taipei---Kigali
+Maputo---Brussels
+Islamabad---Sukhumi
+Pretoria---Asunción
+La Paz---Edmonton
+Mbabane---Algiers
+Santo Domingo---Caracas
+Beirut---Kingston
+Stockholm---Bridgetown
+Hamilton---Tirana
+Kigali---Dhaka
+Baku---Bridgetown
+Phnom Penh---Ljubljana
+Asunción---Stockholm
+Abuja---Paramaribo
+Kuwait City---Hamilton
+Bangui---Bridgetown
+76
+St. Peter Port
+Kingston
+Algiers
+Libreville
+Cardiff
+Bridgetown
+Luxembourg
+Sukhumi
+Pago Pago
+Caracas
+Abuja
+Dakar
+Edmonton
+Guatemala City
+Addis Ababa
+San Juan
+Saipan
+Conakry
+Hargeisa
+Bucharest
+Harare
+San Salvador
+Lisbon
+Lilongwe
+Cayenne
+Sanaá
+Stockholm
+Bogotá
+Hagåtña
+Pristina
+Praia
+Belmopan
+Kiev
+Ashgabat
+Panama City
+Tbilisi
+Bangui
+Valletta
+Basseterre
+Rome
+Palikir
+Ljubljana
+Buenos Aires
+Bujumbura
+Tirana
+Kingstown
+Dhaka
+London
+Paramaribo
+Ouagadougou
+Vaduz
+Montevideo
+Cockburn Town
+Plymouth
+Copenhagen
+Brussels
+Taipei
+Maputo
+Islamabad
+Pretoria
+Hamilton
+La Paz
+Mbabane
+Khartoum
+Beirut
+Santo Domingo
+Warsaw
+Prague
+Majuro
+Baku
+Nassau
+Phnom Penh
+Kigali
+Asunción
+St. John's
+Kuwait City

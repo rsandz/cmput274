@@ -1,0 +1,17 @@
+7
+Luanda---Chisinau
+Abuja---Luanda
+Kuala Lumpur---Abuja
+Reykjavík---Luanda
+Chisinau---Edmonton
+Adamstown---Reykjavík
+Philipsburg---Abuja
+8
+Luanda
+Kuala Lumpur
+Reykjavík
+Philipsburg
+Abuja
+Adamstown
+Edmonton
+Chisinau

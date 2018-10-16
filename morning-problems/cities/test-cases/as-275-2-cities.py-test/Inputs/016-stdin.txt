@@ -1,0 +1,35 @@
+16
+Sucre---Mexico City
+Tallinn---Edmonton
+Banjul---Lima
+Hargeisa---Dodoma
+Cockburn Town---Belfast
+Tunis---Belfast
+Avarua---Dodoma
+Pristina---Cockburn Town
+Lima---Tallinn
+Yaren---Belfast
+Accra---Belfast
+Dodoma---Edmonton
+Dakar---Yaren
+Dublin---Belfast
+Belfast---Dodoma
+Mexico City---Accra
+17
+Sucre
+Banjul
+Avarua
+Hargeisa
+Mexico City
+Cockburn Town
+Accra
+Lima
+Dodoma
+Tunis
+Tallinn
+Dakar
+Edmonton
+Yaren
+Pristina
+Dublin
+Belfast

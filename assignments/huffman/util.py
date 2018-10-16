@@ -14,7 +14,18 @@ def read_tree(tree_stream):
     Returns:
       A Huffman tree root constructed according to the given description.
     '''
-    pass
+    # Get the entire tree's binary representation
+    tree_byte_array = bytearray()
+    while True:
+        try:
+            tree_byte_array += tree_stream.readbits(tree_stream)
+        except EOFError:
+            break
+
+    # Unserialize and return the node
+    tree_root = pickle.loads(tree_byte_array)
+    return tree_root
+
 
 def decode_byte(tree, bitreader):
     """
@@ -29,7 +40,22 @@ def decode_byte(tree, bitreader):
     Returns:
       Next byte of the compressed bit stream.
     """
-    pass
+    # Read from bitreader until done
+    currentNode = tree.root
+    while True:
+        bit = bitreader.readbit()
+        if bit == 0:
+            currentNode = currentNode.left
+        elif bit == 1:
+            currentNode = currentNode.right
+        else:
+            raise TypeError("Bitreader returned non-binary")
+
+        # Check if done
+        if isinstance(currentNode, huffman.TreeLeaf):
+            return currentNode.value
+    
+    # TODO: Check for if byte not in tree
 
 
 def decompress(compressed, uncompressed):
@@ -43,7 +69,8 @@ def decompress(compressed, uncompressed):
       uncompressed: A writable file stream to which the uncompressed
           output is written.
     '''
-    pass
+    
+
 
 def write_tree(tree, tree_stream):
     '''Write the specified Huffman tree to the given tree_stream
@@ -55,6 +82,7 @@ def write_tree(tree, tree_stream):
     '''
     pass
 
+
 def compress(tree, uncompressed, compressed):
     '''First write the given tree to the stream 'tree_stream' using the
     write_tree function. Then use the same tree to encode the data
@@ -65,7 +93,7 @@ def compress(tree, uncompressed, compressed):
     Flush the bitwriter after writing the entire compressed file.
 
     Args:
-      tree: A Huffman tree.
+      @param tree: A Huffman tree.
       uncompressed: A file stream from which you can read the input.
       compressed: A file stream that will receive the tree description
           and the coded input data.

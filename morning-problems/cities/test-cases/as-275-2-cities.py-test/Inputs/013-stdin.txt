@@ -1,0 +1,31 @@
+14
+Algiers---Canberra
+Mbabane---Edmonton
+Mexico City---Tórshavn
+Banjul---Accra
+Dhaka---Algiers
+Nairobi---Accra
+Charlotte Amalie---The Valley
+Praia---Willemstad
+Accra---Willemstad
+Willemstad---Edmonton
+Tórshavn---Mbabane
+The Valley---Nairobi
+Canberra---Praia
+Maseru---Banjul
+15
+Algiers
+Mbabane
+Mexico City
+Banjul
+Dhaka
+Nairobi
+Charlotte Amalie
+Praia
+Tórshavn
+Edmonton
+Accra
+Willemstad
+The Valley
+Canberra
+Maseru

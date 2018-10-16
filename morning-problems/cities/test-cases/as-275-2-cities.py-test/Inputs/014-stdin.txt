@@ -1,0 +1,29 @@
+13
+Ngerulmud---Bratislava
+Marigot---Chisinau
+Phnom Penh---Ngerulmud
+Brasília---Edmonton
+Bangui---Brasília
+Bratislava---Bangui
+Chisinau---Cayenne
+Asunción---Marigot
+Hanga Roa---Cayenne
+Tashkent---Ngerulmud
+Cayenne---Bangui
+Bandar Seri Begawan---Hanga Roa
+Malé---Brasília
+14
+Ngerulmud
+Edmonton
+Marigot
+Phnom Penh
+Brasília
+Malé
+Bratislava
+Bangui
+Chisinau
+Asunción
+Hanga Roa
+Cayenne
+Tashkent
+Bandar Seri Begawan

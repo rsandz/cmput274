@@ -1,0 +1,111 @@
+54
+Khartoum---Asunción
+Port Moresby---St. Pierre
+Beijing---Banjul
+Victoria---Kuwait City
+Kiev---Yaoundé
+Stepanakert---Victoria
+Stanley---Yaren
+Yaoundé---Sri Jayawardenapura Kotte
+Port of Spain---Belfast
+Muscat---Manila
+Vientiane---Maseru
+Cardiff---Canberra
+Baghdad---Algiers
+Episkopi Cantonment---Belfast
+Astana---Canberra
+La Paz---Castries
+Douglas---London
+Maseru---La Paz
+Yaren---Canberra
+Sri Jayawardenapura Kotte---Edmonton
+Lomé---Episkopi Cantonment
+Canberra---Thimphu
+Bogotá---Zagreb
+Ouagadougou---Brussels
+Kuwait City---Tbilisi
+Thimphu---Yaoundé
+Castries---Cardiff
+Freetown---Avarua
+Port Louis---Muscat
+St. Pierre---Douglas
+Belfast---Harare
+Mexico City---Stepanakert
+Asunción---Manila
+Brasília---Valletta
+Manila---Port Moresby
+Tirana---Ouagadougou
+Lisbon---Kiev
+Majuro---Yaoundé
+Brussels---Belfast
+Honiara---Port Moresby
+Guatemala City---Bogotá
+Valletta---Bissau
+Prague---Helsinki
+Banjul---Port of Spain
+Helsinki---Kuwait City
+Harare---Douglas
+Tbilisi---Freetown
+Windhoek---Port Louis
+Cayenne---Algiers
+Bissau---Algiers
+Avarua---Castries
+London---Mexico City
+Algiers---Vientiane
+Zagreb---Douglas
+55
+Khartoum
+Port Moresby
+Beijing
+Stanley
+Cardiff
+Victoria
+Kiev
+Port of Spain
+Yaoundé
+Muscat
+Vientiane
+Episkopi Cantonment
+Astana
+Stepanakert
+La Paz
+Cayenne
+Bissau
+Yaren
+Douglas
+Maseru
+Baghdad
+Sri Jayawardenapura Kotte
+Lomé
+Canberra
+Bogotá
+Ouagadougou
+Thimphu
+Castries
+Valletta
+Freetown
+St. Pierre
+Belfast
+Mexico City
+Port Louis
+Asunción
+Manila
+Tirana
+Lisbon
+Majuro
+Brussels
+Brasília
+Honiara
+Guatemala City
+Prague
+Banjul
+Helsinki
+Harare
+Tbilisi
+Kuwait City
+Windhoek
+Edmonton
+Avarua
+London
+Algiers
+Zagreb

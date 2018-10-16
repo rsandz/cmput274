@@ -1,0 +1,105 @@
+51
+Guatemala City---Rabat
+Taipei---Malabo
+Lomé---Yerevan
+Adamstown---Chisinau
+Ouagadougou---Vilnius
+Damascus---Mogadishu
+Kingstown---Athens
+Monaco---Road Town
+Cockburn Town---Kingstown
+Vaduz---Tórshavn
+San José---Addis Ababa
+Tórshavn---Cockburn Town
+Baku---Sukhumi
+Hanoi---Mogadishu
+Sucre---Ouagadougou
+Luanda---La Paz
+Rabat---Adamstown
+Willemstad---Copenhagen
+La Paz---Yerevan
+Ashgabat---Edmonton
+Victoria---St. Helier
+Kingston---Luanda
+Malabo---Copenhagen
+Praia---Jerusalem
+Berlin---Abuja
+Mogadishu---Guatemala City
+Dhaka---Adamstown
+Tiraspol---Guatemala City
+Addis Ababa---Rabat
+Yerevan---Addis Ababa
+Kuwait City---Lomé
+St. George's---Ouagadougou
+Copenhagen---Kingston
+Khartoum---Kampala
+Windhoek---Praia
+Reykjavík---Luanda
+Athens---Luanda
+Abuja---Praia
+St. Helier---Kampala
+Abu Dhabi---Abuja
+Canberra---Vaduz
+Muscat---Hanoi
+Pyongyang---Praia
+Jerusalem---Monaco
+Chisinau---Ashgabat
+Nicosia---St. Helier
+Road Town---St. Helier
+Dili---Athens
+Kampala---Muscat
+Vilnius---Cockburn Town
+Sukhumi---Victoria
+52
+Guatemala City
+Taipei
+Lomé
+Kingstown
+Adamstown
+Ouagadougou
+Edmonton
+Damascus
+Monaco
+Vaduz
+San José
+Tórshavn
+Baku
+Malabo
+Hanoi
+Sucre
+Luanda
+Rabat
+Vilnius
+Willemstad
+La Paz
+Ashgabat
+Victoria
+Kingston
+Praia
+Berlin
+Mogadishu
+Dhaka
+Tiraspol
+Addis Ababa
+Dili
+Kuwait City
+St. George's
+Copenhagen
+Khartoum
+Windhoek
+Chisinau
+Cockburn Town
+Reykjavík
+Athens
+Abuja
+St. Helier
+Abu Dhabi
+Canberra
+Muscat
+Road Town
+Pyongyang
+Jerusalem
+Nicosia
+Yerevan
+Kampala
+Sukhumi

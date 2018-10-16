@@ -1,0 +1,23 @@
+10
+Lusaka---Budapest
+St. Helier---Budapest
+Islamabad---Baku
+Baku---Bamako
+New Delhi---St. Helier
+Bamako---Oranjestad
+Vilnius---Bamako
+Oranjestad---Edmonton
+Budapest---Vilnius
+Sofia---Lusaka
+11
+Edmonton
+Baku
+New Delhi
+Bamako
+St. Helier
+Lusaka
+Islamabad
+Vilnius
+Oranjestad
+Budapest
+Sofia

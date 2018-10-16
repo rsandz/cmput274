@@ -1,0 +1,195 @@
+96
+St. John's---Sanaá
+Paris---Malabo
+Oranjestad---Malabo
+Cayenne---Manama
+Ouagadougou---Kigali
+Oslo---George Town
+Yaoundé---Bridgetown
+Lomé---Caracas
+Baku---Palikir
+Kigali---Baghdad
+Malé---Buenos Aires
+Honiara---George Town
+Asmara---Oslo
+Minsk---Hanga Roa
+Malabo---Suva
+Jakarta---Kuala Lumpur
+Bridgetown---Suva
+Libreville---Oranjestad
+Madrid---Belfast
+Astana---Manama
+Grytviken---Kigali
+Papeete---Palikir
+Santiago---Hanga Roa
+Tallinn---Singapore
+Alofi---Manama
+Moscow---Caracas
+Zagreb---Sarajevo
+Singapore---Malé
+Tokyo---Valletta
+Suva---Moscow
+Lima---Baghdad
+Andorra la Vella---Alofi
+Roseau---Bangui
+Kampala---Baghdad
+Stepanakert---Conakry
+Cardiff---Moscow
+Adamstown---Conakry
+Vienna---Dodoma
+Ottawa---Minsk
+St. George's---Jamestown
+Port Vila---Lilongwe
+St. Peter Port---Edmonton
+Pago Pago---Willemstad
+Praia---Lomé
+Bratislava---Oslo
+Skopje---Thimphu
+Gustavia---Valletta
+Valletta---Thimphu
+Cairo---Singapore
+Seoul---Dodoma
+Dodoma---Andorra la Vella
+Episkopi Cantonment---St. George's
+Palikir---Baghdad
+Djibouti---Minsk
+Manama---Nouméa
+Nouméa---Hagåtña
+Beirut---Oranjestad
+Majuro---Warsaw
+Vilnius---Tiraspol
+Brasília---Dodoma
+Belfast---Grytviken
+Kabul---Paramaribo
+Kingston---Lilongwe
+Freetown---Port Moresby
+Baghdad---St. John's
+Stanley---Lomé
+Bangui---Brasília
+Conakry---Majuro
+Gibraltar---Astana
+Port Moresby---Roseau
+Tskhinvali---Cairo
+Castries---Nouméa
+Warsaw---Beirut
+San Salvador---Honiara
+Pristina---Bridgetown
+Hanga Roa---Stanley
+Sanaá---George Town
+Jamestown---Valletta
+Flying Fish Cove---Majuro
+Havana---Vientiane
+George Town---Edmonton
+Thimphu---Gibraltar
+Panama City---Suva
+Hagåtña---St. Peter Port
+Pretoria---Oranjestad
+Tiraspol---Kabul
+Willemstad---Manama
+Ulaanbaatar---Paris
+Vientiane---Kuala Lumpur
+Buenos Aires---Hagåtña
+Caracas---Andorra la Vella
+Kuala Lumpur---Manama
+Lilongwe---Willemstad
+Paramaribo---Episkopi Cantonment
+N'Djamena---San Salvador
+Sarajevo---Gustavia
+97
+Cayenne
+Oslo
+Yaoundé
+Baku
+Kigali
+Honiara
+Bridgetown
+Madrid
+Astana
+Grytviken
+Tallinn
+Alofi
+Moscow
+Lilongwe
+Libreville
+Praia
+Singapore
+Suva
+Hagåtña
+Lima
+Andorra la Vella
+Paramaribo
+Cardiff
+Adamstown
+Vienna
+Port Vila
+St. Peter Port
+Pago Pago
+Seoul
+Bratislava
+Gustavia
+San Salvador
+Kampala
+Edmonton
+Palikir
+Djibouti
+Pristina
+Skopje
+Nouméa
+Vilnius
+Kabul
+Kingston
+Freetown
+Stanley
+Bangui
+Ottawa
+Malabo
+Papeete
+Gibraltar
+Port Moresby
+Tskhinvali
+Castries
+Warsaw
+Hanga Roa
+Flying Fish Cove
+George Town
+Pretoria
+Buenos Aires
+Caracas
+N'Djamena
+St. John's
+Paris
+Oranjestad
+Ouagadougou
+Lomé
+Malé
+Asmara
+Minsk
+Jakarta
+Zagreb
+Tokyo
+Tiraspol
+Roseau
+Stepanakert
+St. George's
+Valletta
+Cairo
+Dodoma
+Santiago
+Episkopi Cantonment
+Manama
+Beirut
+Majuro
+Brasília
+Belfast
+Kuala Lumpur
+Baghdad
+Conakry
+Sanaá
+Jamestown
+Vientiane
+Havana
+Thimphu
+Panama City
+Willemstad
+Ulaanbaatar
+Sarajevo

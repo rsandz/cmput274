@@ -1,0 +1,47 @@
+22
+Cardiff---Andorra la Vella
+Tripoli---Avarua
+Adamstown---Bangui
+Islamabad---La Paz
+Lomé---Naypyidaw
+Antananarivo---Adamstown
+Santiago---Avarua
+Naypyidaw---Islamabad
+San Marino---Santiago
+Kuala Lumpur---Cardiff
+Gustavia---Kuala Lumpur
+Singapore---Santiago
+Doha---Naypyidaw
+Nairobi---Cardiff
+Yaren---Naypyidaw
+Kampala---San Marino
+La Paz---Cardiff
+Bangui---Khartoum
+Avarua---Edmonton
+Lisbon---Singapore
+Khartoum---Santiago
+Andorra la Vella---Avarua
+23
+Cardiff
+Islamabad
+Antananarivo
+Naypyidaw
+Kuala Lumpur
+Gustavia
+Singapore
+Doha
+La Paz
+Tripoli
+Adamstown
+Andorra la Vella
+Lomé
+Edmonton
+Santiago
+San Marino
+Nairobi
+Yaren
+Kampala
+Bangui
+Avarua
+Lisbon
+Khartoum

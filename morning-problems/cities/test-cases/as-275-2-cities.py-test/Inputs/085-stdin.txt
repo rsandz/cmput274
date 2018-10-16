@@ -1,0 +1,169 @@
+83
+Yamoussoukro---Thimphu
+St. George's---Vilnius
+Bandar Seri Begawan---Edmonton
+Cardiff---Jerusalem
+Mbabane---Willemstad
+Mogadishu---Port Moresby
+Honiara---Berlin
+Kigali---Stepanakert
+Papeete---Nicosia
+Maputo---Havana
+Baghdad---Addis Ababa
+Riga---Tórshavn
+Budapest---The Valley
+Ulaanbaatar---Lusaka
+Belfast---Philipsburg
+Banjul---Djibouti
+Castries---St. Helier
+Djibouti---Mogadishu
+St. Helier---N'Djamena
+Freetown---San Marino
+Quito---Washington, D.C.
+Basseterre---Juba
+Minsk---Phnom Penh
+Nassau---Bishkek
+Singapore---Washington, D.C.
+Mata-Utu---Thimphu
+Dublin---Mogadishu
+Paramaribo---Freetown
+Washington, D.C.---Mogadishu
+Tórshavn---Hamilton
+Havana---Dublin
+Port Moresby---Marigot
+Palikir---Phnom Penh
+Phnom Penh---Maputo
+St. Peter Port---Baku
+The Valley---San Marino
+Tunis---Bangui
+Charlotte Amalie---Juba
+Cairo---Ashgabat
+Conakry---Lusaka
+Vilnius---Palikir
+Willemstad---Nuuk
+Hamilton---N'Djamena
+Port Vila---Minsk
+Monrovia---Quito
+Kinshasa---Charlotte Amalie
+Hanga Roa---Phnom Penh
+N'Djamena---St. George's
+Andorra la Vella---Havana
+Marigot---Paramaribo
+Lusaka---Minsk
+Ashgabat---Riga
+Juba---San Marino
+Bishkek---Taipei
+Thimphu---Gaborone
+Pristina---Belfast
+Ottawa---Mata-Utu
+Bratislava---Kinshasa
+Accra---Yamoussoukro
+Luxembourg---Honiara
+Nouméa---Washington, D.C.
+Lilongwe---Phnom Penh
+Addis Ababa---Accra
+San Marino---Edmonton
+Asmara---Lusaka
+Stepanakert---Budapest
+Bangui---Charlotte Amalie
+Belgrade---Nicosia
+Doha---Palikir
+Guatemala City---Prague
+Prague---Addis Ababa
+Tripoli---Asmara
+Gaborone---Edmonton
+Baku---Havana
+Jakarta---N'Djamena
+Nicosia---Ashgabat
+Nuuk---Ashgabat
+Jerusalem---Philipsburg
+Berlin---Djibouti
+Philipsburg---Bratislava
+Windhoek---Papeete
+Taipei---Bandar Seri Begawan
+San José---Addis Ababa
+84
+Yamoussoukro
+St. George's
+Kigali
+Bandar Seri Begawan
+San José
+Ulaanbaatar
+Mogadishu
+Honiara
+Mbabane
+Nassau
+Papeete
+Hanga Roa
+Paramaribo
+Riga
+Andorra la Vella
+Tripoli
+Belfast
+Banjul
+Maputo
+Baghdad
+Djibouti
+Nouméa
+Freetown
+St. Helier
+Minsk
+Quito
+Basseterre
+Singapore
+Mata-Utu
+Dublin
+Washington, D.C.
+Tórshavn
+Havana
+Port Moresby
+Windhoek
+Palikir
+Tunis
+Phnom Penh
+St. Peter Port
+The Valley
+Castries
+Charlotte Amalie
+Jakarta
+Cairo
+Conakry
+Vilnius
+Luxembourg
+Hamilton
+Pristina
+Budapest
+Willemstad
+Kinshasa
+Port Vila
+N'Djamena
+Guatemala City
+Lusaka
+Ashgabat
+Marigot
+Nicosia
+Bishkek
+Thimphu
+Juba
+Ottawa
+Bratislava
+Accra
+Edmonton
+Addis Ababa
+San Marino
+Asmara
+Monrovia
+Stepanakert
+Bangui
+Belgrade
+Doha
+Prague
+Gaborone
+Cardiff
+Baku
+Jerusalem
+Berlin
+Philipsburg
+Lilongwe
+Taipei
+Nuuk

@@ -1,0 +1,81 @@
+39
+Freetown---Oslo
+Nukuʻalofa---Seoul
+Oslo---Maputo
+Quito---Maputo
+Amman---N'Djamena
+Maseru---Berlin
+Majuro---Buenos Aires
+St. George's---Maseru
+Athens---Hamilton
+Chisinau---Edmonton
+Budapest---Quito
+Philipsburg---Monrovia
+Ulaanbaatar---Monrovia
+Yamoussoukro---Malé
+Asunción---Berlin
+Guatemala City---Dublin
+Montevideo---St. George's
+Asmara---Baku
+Algiers---Oslo
+Maputo---Monaco
+Berlin---Yamoussoukro
+Monrovia---Maputo
+Edinburgh of the Seven Seas---N'Djamena
+Buenos Aires---Guatemala City
+Baku---Dublin
+Seoul---Malé
+Juba---Addis Ababa
+Malé---Majuro
+Episkopi Cantonment---Conakry
+Monaco---Chisinau
+Addis Ababa---Malé
+Dublin---Quito
+Nairobi---Quito
+N'Djamena---Nairobi
+Conakry---N'Djamena
+Hamilton---Buenos Aires
+Brussels---Quito
+Lomé---N'Djamena
+Paris---Hamilton
+40
+Nukuʻalofa
+Quito
+Amman
+Maseru
+Majuro
+St. George's
+Athens
+Paris
+Berlin
+Chisinau
+Monrovia
+Edinburgh of the Seven Seas
+Asmara
+Baku
+Monaco
+Algiers
+Nairobi
+N'Djamena
+Hamilton
+Brussels
+Freetown
+Philipsburg
+Lomé
+Juba
+Edmonton
+Oslo
+Budapest
+Yamoussoukro
+Asunción
+Guatemala City
+Montevideo
+Maputo
+Dublin
+Buenos Aires
+Seoul
+Ulaanbaatar
+Episkopi Cantonment
+Malé
+Addis Ababa
+Conakry

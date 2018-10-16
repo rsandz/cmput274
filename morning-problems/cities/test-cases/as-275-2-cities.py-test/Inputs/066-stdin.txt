@@ -1,0 +1,131 @@
+64
+El Aaiún---Copenhagen
+The Valley---San Marino
+Oranjestad---Tarawa
+Beijing---St. Helier
+Tehran---Copenhagen
+Luxembourg---Rome
+Roseau---Tegucigalpa
+San José---The Valley
+Rabat---Mogadishu
+San Salvador---Pyongyang
+Tegucigalpa---Moscow
+Bishkek---Tarawa
+Ulaanbaatar---Mata-Utu
+N'Djamena---Gaborone
+Gaborone---Doha
+Basseterre---San Marino
+Cairo---Santo Domingo
+Georgetown---Philipsburg
+Jerusalem---Marigot
+Moscow---Sarajevo
+Adamstown---St. Pierre
+Paris---Mogadishu
+Port Vila---Edmonton
+Reykjavík---Sucre
+Marigot---Havana
+Bangkok---St. Peter Port
+Pyongyang---Mexico City
+Baku---Athens
+Andorra la Vella---Baku
+Damascus---Mata-Utu
+Wellington---Philipsburg
+Mexico City---San Marino
+Philipsburg---Ulaanbaatar
+St. Peter Port---Gibraltar
+Ljubljana---St. Peter Port
+Gibraltar---Prague
+Doha---The Valley
+Tarawa---Edmonton
+Sucre---Ulaanbaatar
+Djibouti---Zagreb
+Copenhagen---Abu Dhabi
+Santo Domingo---Pyongyang
+Kampala---The Valley
+Niamey---Pyongyang
+Havana---Santo Domingo
+Tirana---San Salvador
+St. Helier---Bangkok
+Athens---Rome
+Sarajevo---Djibouti
+Mata-Utu---Port Vila
+Zagreb---San Salvador
+San Marino---St. Pierre
+Yerevan---Sucre
+Mogadishu---San José
+George Town---Kingstown
+Abu Dhabi---Beirut
+Kigali---Ljubljana
+Brasília---Basseterre
+Rome---St. Helier
+Malé---Moscow
+Prague---Reykjavík
+Kingstown---Kampala
+Beirut---Gaborone
+St. Pierre---Port Vila
+65
+El Aaiún
+The Valley
+Cairo
+Beijing
+San Salvador
+Tehran
+Luxembourg
+San José
+Rabat
+N'Djamena
+Gaborone
+Jerusalem
+Moscow
+Kigali
+Adamstown
+Roseau
+Paris
+Baku
+Marigot
+Reykjavík
+Bangkok
+Pyongyang
+Oranjestad
+Andorra la Vella
+St. Helier
+Wellington
+Ulaanbaatar
+Damascus
+Mexico City
+Edmonton
+Philipsburg
+St. Peter Port
+Ljubljana
+George Town
+Basseterre
+Gibraltar
+Doha
+Niamey
+Tarawa
+Sucre
+Djibouti
+Mogadishu
+Copenhagen
+Santo Domingo
+Kampala
+Prague
+Havana
+Tirana
+Athens
+Sarajevo
+Mata-Utu
+Zagreb
+San Marino
+Yerevan
+Tegucigalpa
+Abu Dhabi
+Bishkek
+Georgetown
+Rome
+Malé
+Brasília
+Port Vila
+Kingstown
+Beirut
+St. Pierre

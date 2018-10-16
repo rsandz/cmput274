@@ -1,0 +1,103 @@
+50
+Bissau---Sri Jayawardenapura Kotte
+St. George's---Bern
+San Salvador---Antananarivo
+São Tomé---Saipan
+Washington, D.C.---Madrid
+Tokyo---Taipei
+Antananarivo---Kampala
+Castries---Rabat
+Tbilisi---N'Djamena
+Vatican City---Tehran
+Beijing---Managua
+Tiraspol---Tbilisi
+Panama City---Tehran
+Santo Domingo---Jakarta
+Saipan---Vatican City
+Madrid---Adamstown
+Mbabane---Manama
+Bern---Edmonton
+Tirana---Kampala
+Sri Jayawardenapura Kotte---Ulaanbaatar
+Mexico City---Monaco
+Kampala---Tokyo
+Tehran---Amsterdam
+N'Djamena---Panama City
+Monaco---Taipei
+Manama---Vilnius
+Bujumbura---Santiago
+Banjul---Edmonton
+Phnom Penh---Adamstown
+Santiago---Antananarivo
+Djibouti---Beijing
+Lisbon---Bern
+Managua---Ulaanbaatar
+Adamstown---San Salvador
+Doha---Managua
+Rabat---Tirana
+Jakarta---Santiago
+Taipei---Dublin
+Episkopi Cantonment---Beijing
+Nicosia---Jakarta
+Ulaanbaatar---Jakarta
+Amsterdam---Roseau
+Dublin---Tiraspol
+Papeete---Gustavia
+Road Town---Tirana
+Bratislava---Road Town
+Gustavia---Djibouti
+Vilnius---Phnom Penh
+Moroni---Madrid
+Roseau---Banjul
+51
+Bissau
+St. George's
+San Salvador
+São Tomé
+Washington, D.C.
+Phnom Penh
+Tokyo
+Antananarivo
+Castries
+Tbilisi
+Vatican City
+Beijing
+Tiraspol
+Lisbon
+Panama City
+Saipan
+Bratislava
+Madrid
+Mbabane
+Bern
+Santo Domingo
+Tirana
+Sri Jayawardenapura Kotte
+Mexico City
+Kampala
+Tehran
+N'Djamena
+Monaco
+Manama
+Bujumbura
+Banjul
+Taipei
+Santiago
+Djibouti
+Managua
+Adamstown
+Doha
+Rabat
+Jakarta
+Episkopi Cantonment
+Ulaanbaatar
+Amsterdam
+Dublin
+Vilnius
+Nicosia
+Road Town
+Papeete
+Gustavia
+Moroni
+Roseau
+Edmonton

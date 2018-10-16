@@ -1,0 +1,113 @@
+55
+Gibraltar---Zagreb
+Chisinau---Edinburgh of the Seven Seas
+Tiraspol---Baghdad
+Stanley---Suva
+Ashgabat---Jerusalem
+Washington, D.C.---El Aaiún
+Praia---Mbabane
+Sri Jayawardenapura Kotte---Stanley
+Berlin---Jakarta
+Islamabad---Edmonton
+Edinburgh of the Seven Seas---Mogadishu
+Yamoussoukro---Berlin
+Jerusalem---Ulaanbaatar
+Beijing---Praia
+Singapore---Bogotá
+Djibouti---Praia
+Athens---Yamoussoukro
+Hagåtña---Ashgabat
+Brazzaville---Bissau
+Stockholm---Edinburgh of the Seven Seas
+Ulaanbaatar---Seoul
+Vienna---Vatican City
+Kuwait City---Beijing
+Seoul---Praia
+Mbabane---Bissau
+Nouakchott---Ulaanbaatar
+Baghdad---El Aaiún
+Bissau---Chisinau
+Jakarta---Seoul
+Kabul---Gibraltar
+Astana---Hagåtña
+Vatican City---Port Moresby
+Suva---Hagåtña
+Yerevan---Gaborone
+Cardiff---Ankara
+Gaborone---Vatican City
+Riga---Baghdad
+Funafuti---Cardiff
+El Aaiún---Mogadishu
+Podgorica---Vienna
+Lima---Yamoussoukro
+Taipei---Edmonton
+Ankara---Bissau
+Valletta---Berlin
+Bridgetown---Mbabane
+Dili---Lima
+Bogotá---Islamabad
+Juba---Djibouti
+Zagreb---Yamoussoukro
+Damascus---Bogotá
+Helsinki---Yamoussoukro
+Monaco---Suva
+Port Moresby---Mogadishu
+Mogadishu---Baku
+Baku---Islamabad
+56
+Gibraltar
+Chisinau
+Juba
+Tiraspol
+Stanley
+Ashgabat
+Washington, D.C.
+Baghdad
+Praia
+Sri Jayawardenapura Kotte
+Berlin
+Yamoussoukro
+Jerusalem
+Beijing
+Singapore
+Hagåtña
+Brazzaville
+Port Moresby
+Nouakchott
+Stockholm
+Ulaanbaatar
+Vienna
+Kuwait City
+Seoul
+Mbabane
+Gaborone
+Djibouti
+Kabul
+Bissau
+Jakarta
+Edinburgh of the Seven Seas
+Astana
+Vatican City
+Suva
+Mogadishu
+Yerevan
+Cardiff
+Riga
+Funafuti
+El Aaiún
+Islamabad
+Podgorica
+Athens
+Lima
+Ankara
+Taipei
+Valletta
+Bridgetown
+Dili
+Bogotá
+Zagreb
+Edmonton
+Helsinki
+Monaco
+Damascus
+Baku

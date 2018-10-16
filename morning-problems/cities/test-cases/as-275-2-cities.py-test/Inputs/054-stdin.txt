@@ -1,0 +1,107 @@
+52
+San Salvador---Bandar Seri Begawan
+Papeete---Bissau
+Addis Ababa---New Delhi
+Astana---Bogotá
+St. Peter Port---Prague
+Pristina---Amman
+Nicosia---Wellington
+Copenhagen---Djibouti
+Harare---Marigot
+Roseau---San Marino
+Prague---Zagreb
+San Marino---Pristina
+Freetown---Algiers
+Georgetown---San Juan
+Phnom Penh---Yamoussoukro
+Athens---Edmonton
+Luxembourg---Pristina
+Lomé---Algiers
+Zagreb---San Juan
+New Delhi---Amman
+Belgrade---Astana
+Djibouti---Algiers
+Wellington---St. Peter Port
+Kingston---Douglas
+Beijing---Yamoussoukro
+Marigot---Addis Ababa
+Suva---San Salvador
+Douglas---Zagreb
+Stockholm---Algiers
+Jamestown---Nicosia
+West Island---Marigot
+Asunción---Stockholm
+Flying Fish Cove---St. Peter Port
+San Juan---Edmonton
+Bangui---St. Peter Port
+Majuro---Georgetown
+Panama City---Jamestown
+Moscow---Athens
+Santo Domingo---Asmara
+Asmara---Freetown
+Bissau---Stockholm
+Brussels---Amman
+Tirana---Copenhagen
+Amman---Flying Fish Cove
+Malé---Brussels
+Yamoussoukro---Papeete
+Washington, D.C.---Tirana
+Hanga Roa---West Island
+Bandar Seri Begawan---Yamoussoukro
+Algiers---San Marino
+Bogotá---Stockholm
+Hanoi---Astana
+53
+San Salvador
+Papeete
+Addis Ababa
+St. Peter Port
+Pristina
+Athens
+Copenhagen
+Harare
+Stockholm
+Roseau
+Prague
+Freetown
+Yamoussoukro
+Georgetown
+Phnom Penh
+Nicosia
+Luxembourg
+San Marino
+Zagreb
+New Delhi
+Djibouti
+Lomé
+Belgrade
+Asunción
+Wellington
+Douglas
+Flying Fish Cove
+Marigot
+Astana
+Hanoi
+Jamestown
+West Island
+Asmara
+Bangui
+Beijing
+Majuro
+Panama City
+Moscow
+Santo Domingo
+San Juan
+Brussels
+Bissau
+Tirana
+Amman
+Kingston
+Bogotá
+Malé
+Washington, D.C.
+Hanga Roa
+Suva
+Bandar Seri Begawan
+Algiers
+Edmonton

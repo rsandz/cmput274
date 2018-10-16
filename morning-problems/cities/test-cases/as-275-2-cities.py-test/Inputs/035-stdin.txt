@@ -1,0 +1,73 @@
+35
+Nouméa---Paramaribo
+Dakar---Abuja
+Basseterre---Moscow
+Paramaribo---Dakar
+Canberra---Washington, D.C.
+Oslo---Santo Domingo
+Plymouth---Ouagadougou
+West Island---Windhoek
+Port Vila---Paramaribo
+Vatican City---Moscow
+Windhoek---Skopje
+Ouagadougou---Moscow
+Abuja---Stockholm
+Stockholm---Lilongwe
+Nairobi---Oslo
+Madrid---Plymouth
+Cardiff---Canberra
+Riga---Basseterre
+Sarajevo---Riga
+Asmara---Edinburgh
+New Delhi---Moscow
+Edinburgh---Nouméa
+Sucre---Stockholm
+Santo Domingo---Madrid
+Washington, D.C.---New Delhi
+Andorra la Vella---Stockholm
+Jerusalem---Edinburgh
+La Paz---Edmonton
+Beirut---Vatican City
+Minsk---Cardiff
+Tegucigalpa---Asmara
+Moscow---Port Vila
+Stanley---Windhoek
+Skopje---Washington, D.C.
+Lilongwe---Edmonton
+36
+Nouméa
+Dakar
+West Island
+Oslo
+Port Vila
+Vatican City
+New Delhi
+Ouagadougou
+Windhoek
+Abuja
+Stockholm
+Edmonton
+Madrid
+Cardiff
+Sarajevo
+Edinburgh
+Sucre
+Washington, D.C.
+Jerusalem
+Beirut
+Minsk
+Stanley
+Lilongwe
+Basseterre
+Paramaribo
+Andorra la Vella
+Plymouth
+La Paz
+Nairobi
+Riga
+Asmara
+Canberra
+Santo Domingo
+Tegucigalpa
+Moscow
+Skopje

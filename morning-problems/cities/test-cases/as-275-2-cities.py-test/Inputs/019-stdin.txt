@@ -1,0 +1,39 @@
+18
+San Juan---El Aaiún
+Rabat---Luxembourg
+Willemstad---Rabat
+Beijing---Astana
+Luxembourg---Sarajevo
+Brasília---Sarajevo
+Astana---Rabat
+Muscat---San Juan
+N'Djamena---Astana
+Lomé---Monaco
+Porto-Novo---Kuala Lumpur
+Sarajevo---Edmonton
+Monaco---Luxembourg
+Santo Domingo---Porto-Novo
+Kigali---Edmonton
+El Aaiún---Brasília
+Brussels---San Juan
+Kuala Lumpur---Edmonton
+19
+San Juan
+Rabat
+Sarajevo
+Luxembourg
+Beijing
+Willemstad
+Muscat
+N'Djamena
+Monaco
+Astana
+Lomé
+Brasília
+Porto-Novo
+Edmonton
+Kigali
+Kuala Lumpur
+Santo Domingo
+El Aaiún
+Brussels

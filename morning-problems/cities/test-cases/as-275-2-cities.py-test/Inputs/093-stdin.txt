@@ -1,0 +1,193 @@
+95
+Tbilisi---Niamey
+Hargeisa---Edmonton
+Wellington---Lisbon
+Gibraltar---Charlotte Amalie
+Taipei---Dublin
+Jerusalem---Bissau
+Santiago---Santo Domingo
+Abu Dhabi---Pristina
+Washington, D.C.---Oslo
+Bishkek---Victoria
+Paramaribo---Quito
+Kathmandu---Mogadishu
+Panama City---Phnom Penh
+Gaborone---Hargeisa
+Dakar---Niamey
+St. Peter Port---Santiago
+Ulaanbaatar---Mbabane
+Sarajevo---Mexico City
+Charlotte Amalie---Gaborone
+Budapest---Bogotá
+Bangui---Hargeisa
+Bogotá---Asmara
+Astana---Basseterre
+Bissau---Beirut
+Seoul---Wellington
+Malabo---Naypyidaw
+Victoria---Ashgabat
+Dili---Sanaá
+Baghdad---Maputo
+Mbabane---Lisbon
+Nouméa---Kigali
+Baku---Tbilisi
+Hamilton---Taipei
+Brasília---Vilnius
+Helsinki---Maputo
+Caracas---St. Helier
+Rome---Kingston
+Adamstown---Baku
+Tórshavn---Guatemala City
+Maputo---Bishkek
+Djibouti---Taipei
+Lilongwe---Ottawa
+N'Djamena---Gibraltar
+Avarua---Jakarta
+Ngerulmud---Kingston
+Banjul---Jakarta
+Phnom Penh---Asunción
+Kigali---Kingston
+Tegucigalpa---Seoul
+Ottawa---Bern
+Nassau---Tbilisi
+Porto-Novo---N'Djamena
+Asunción---Caracas
+Hanoi---Ngerulmud
+Libreville---Kigali
+Quito---Bangui
+St. Pierre---Abu Dhabi
+Jakarta---Astana
+Lisbon---Mexico City
+Mata-Utu---Rome
+Mexico City---Paramaribo
+Bamako---Libreville
+Mogadishu---Vienna
+Oslo---Malé
+Dublin---Bamako
+Beirut---Basseterre
+Kingston---Bangui
+Pristina---Ashgabat
+Niamey---Asunción
+Managua---Asunción
+Monrovia---Jerusalem
+Tokyo---Paramaribo
+Monaco---Pristina
+Marigot---Mbabane
+Guatemala City---Pristina
+Vilnius---Asmara
+Bern---Panama City
+Antananarivo---Porto-Novo
+Zagreb---Dublin
+St. Helier---Mogadishu
+Vienna---Tegucigalpa
+Malé---Brasília
+Manila---Panama City
+Muscat---Kathmandu
+Basseterre---Malé
+Dhaka---Mogadishu
+Papeete---Gibraltar
+Warsaw---Gibraltar
+Sanaá---Nassau
+Douglas---Bern
+Santo Domingo---Adamstown
+Suva---Hargeisa
+Asmara---Mexico City
+Ashgabat---Mogadishu
+Naypyidaw---Beirut
+96
+Tbilisi
+Hargeisa
+Wellington
+Santiago
+Abu Dhabi
+Washington, D.C.
+Paramaribo
+Hanoi
+Panama City
+Dakar
+Ulaanbaatar
+Warsaw
+Charlotte Amalie
+Bogotá
+Mexico City
+Baghdad
+Nouméa
+Hamilton
+Brasília
+Asunción
+Rome
+Tórshavn
+Djibouti
+Vienna
+Porto-Novo
+Libreville
+Lisbon
+Mata-Utu
+Oslo
+Bishkek
+Beirut
+Gaborone
+Pristina
+Niamey
+Managua
+Monrovia
+Marigot
+Vilnius
+Antananarivo
+St. Helier
+Malé
+Manila
+Papeete
+Sanaá
+Douglas
+Suva
+Asmara
+Ashgabat
+Naypyidaw
+Quito
+Gibraltar
+Taipei
+Jerusalem
+Lilongwe
+Avarua
+Kathmandu
+St. Peter Port
+Sarajevo
+Edmonton
+Victoria
+Bangui
+Maputo
+Seoul
+Malabo
+Dili
+Mbabane
+Baku
+Helsinki
+Caracas
+Astana
+Budapest
+Tokyo
+Adamstown
+N'Djamena
+Ngerulmud
+Banjul
+Phnom Penh
+Kigali
+Tegucigalpa
+Ottawa
+Nassau
+Bissau
+St. Pierre
+Jakarta
+Bamako
+Mogadishu
+Dublin
+Kingston
+Monaco
+Guatemala City
+Bern
+Zagreb
+Muscat
+Dhaka
+Santo Domingo
+Basseterre

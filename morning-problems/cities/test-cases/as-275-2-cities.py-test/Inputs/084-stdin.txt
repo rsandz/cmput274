@@ -1,0 +1,179 @@
+88
+Kingstown---St. John's
+Ankara---Honiara
+Tórshavn---Yerevan
+Riga---Alofi
+Malé---Budapest
+Tashkent---Tegucigalpa
+Tarawa---Honiara
+Palikir---Nouakchott
+Kinshasa---Tórshavn
+Reykjavík---Brasília
+Hanga Roa---Libreville
+Sucre---Manama
+Alofi---Gaborone
+Vaduz---Algiers
+Astana---Tarawa
+Chisinau---Tarawa
+Brasília---Palikir
+Budapest---Mexico City
+Cairo---Majuro
+Honiara---Accra
+Tirana---Warsaw
+Niamey---Suva
+Juba---Accra
+Islamabad---Naypyidaw
+St. George's---Nouakchott
+Mexico City---Dhaka
+Brazzaville---Yaoundé
+Suva---Helsinki
+Abu Dhabi---Bamako
+Papeete---Edmonton
+Manama---Tegucigalpa
+Lima---Abu Dhabi
+Oslo---Philipsburg
+Lilongwe---Abu Dhabi
+Accra---St. George's
+Port Louis---Phnom Penh
+Algiers---Alofi
+Paramaribo---Oranjestad
+Maseru---Tarawa
+Havana---Bamako
+Prague---Tarawa
+Buenos Aires---Port Louis
+Abuja---Ankara
+Libreville---Pago Pago
+Tegucigalpa---Lilongwe
+Bamako---Hanga Roa
+Funafuti---Wellington
+Beijing---Funafuti
+Moscow---St. George's
+Vatican City---Islamabad
+Mbabane---Tarawa
+Nouméa---Bamako
+Harare---Accra
+Majuro---Brasília
+Tehran---Vaduz
+Dili---Kinshasa
+Managua---Honiara
+Addis Ababa---Philipsburg
+Kampala---Santo Domingo
+Helsinki---Brasília
+Pago Pago---Edmonton
+Jerusalem---Vaduz
+St. John's---Warsaw
+Yerevan---Abu Dhabi
+Lomé---Funafuti
+Dhaka---Moscow
+Oranjestad---Stanley
+Stockholm---Libreville
+Phnom Penh---Addis Ababa
+Port of Spain---Sucre
+Philipsburg---Oranjestad
+Muscat---Hanga Roa
+Wellington---Lima
+Bangui---St. George's
+Gaborone---Bangui
+Caracas---Malabo
+Vienna---Muscat
+Jakarta---Budapest
+Willemstad---Accra
+Nouakchott---Funafuti
+Naypyidaw---Kampala
+Yaoundé---Jerusalem
+Warsaw---Phnom Penh
+Malabo---Edmonton
+Santo Domingo---Port of Spain
+Tskhinvali---Port of Spain
+St. Helier---Malabo
+Stanley---Bangui
+89
+Kingstown
+Ankara
+Tórshavn
+Riga
+Tarawa
+Palikir
+Kinshasa
+Sucre
+Vaduz
+Brasília
+Budapest
+Honiara
+Mexico City
+Brazzaville
+Suva
+Philipsburg
+Papeete
+Lima
+Lilongwe
+Paramaribo
+Maseru
+Prague
+Buenos Aires
+Abuja
+Helsinki
+Libreville
+Tegucigalpa
+Wellington
+Jakarta
+Vatican City
+Majuro
+Algiers
+Kampala
+Pago Pago
+Jerusalem
+Yerevan
+Reykjavík
+Chisinau
+Oranjestad
+Port of Spain
+Bangui
+Havana
+Vienna
+Tirana
+Willemstad
+Phnom Penh
+Santo Domingo
+Tskhinvali
+Malé
+Tashkent
+Edmonton
+Bamako
+Hanga Roa
+Managua
+Alofi
+Nouakchott
+Astana
+Cairo
+Niamey
+Juba
+Islamabad
+Addis Ababa
+Abu Dhabi
+St. George's
+Manama
+Oslo
+Malabo
+Accra
+Port Louis
+Moscow
+Funafuti
+Beijing
+Mbabane
+Nouméa
+Harare
+Tehran
+Dili
+St. John's
+Lomé
+Dhaka
+Stockholm
+Muscat
+Gaborone
+Caracas
+Naypyidaw
+Yaoundé
+Warsaw
+St. Helier
+Stanley

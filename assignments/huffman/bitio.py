@@ -11,6 +11,7 @@ class BitWriter:
         self.out = f
 
     def __del__(self):
+        # Finallizer
         try:
             self.flush()
         except ValueError:  # I/O operation on closed file
@@ -50,14 +51,14 @@ class BitReader:
     def readbit(self):
         '''Reads one bit and returns as 1 or 0.'''
         if self.bcount == 0:
-            a = self.input.read(1)
+            a = self.input.read(1) # Reads a byte
             if a:
                 self.accumulator = a[0]
                 self.bcount = 8
             else:
                 raise EOFError('End of file while reading bits')
         self.bcount -= 1
-        return (self.accumulator >> self.bcount) & 1
+        return (self.accumulator >> self.bcount) & 1 # Gets only 1 bit!
 
     def readbits(self, n):
         '''Reads n bits and returns them packed into an integer.

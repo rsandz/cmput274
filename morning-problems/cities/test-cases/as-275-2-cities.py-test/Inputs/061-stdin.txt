@@ -1,0 +1,129 @@
+63
+Basseterre---Paris
+Bucharest---Edmonton
+Bangkok---Port Louis
+Paris---Kuwait City
+Berlin---Amsterdam
+Vaduz---Sofia
+Amman---Bujumbura
+Nassau---Valletta
+Cardiff---Bangkok
+Riyadh---Flying Fish Cove
+Hargeisa---Podgorica
+Monaco---Plymouth
+Beirut---Bucharest
+Vilnius---Muscat
+Dhaka---Muscat
+Bogotá---Bangui
+Brussels---Avarua
+Amsterdam---Vilnius
+Nouméa---Beirut
+Douglas---Amsterdam
+Port Louis---Asmara
+Mbabane---Vienna
+St. John's---Vienna
+Accra---Bangui
+Mata-Utu---Adamstown
+Podgorica---Abuja
+Chisinau---Avarua
+Juba---Kuwait City
+São Tomé---Dhaka
+La Paz---Thimphu
+Bangui---Bucharest
+Quito---St. Helier
+Flying Fish Cove---Yaoundé
+N'Djamena---Dhaka
+Ouagadougou---Bangui
+Adamstown---Ouagadougou
+Mexico City---Thimphu
+The Valley---Amman
+Sarajevo---Vaduz
+Willemstad---Kuwait City
+Muscat---Podgorica
+Asmara---Yaoundé
+Bujumbura---Bucharest
+Yaoundé---Wellington
+Kingston---Wellington
+St. Helier---Cairo
+Dublin---Wellington
+Plymouth---Avarua
+Kingstown---Douglas
+Nouakchott---Abuja
+Kuwait City---Quito
+Tunis---Hargeisa
+Wellington---Bucharest
+Cairo---Nouakchott
+Valletta---Accra
+Ankara---Vienna
+Belmopan---Basseterre
+Thimphu---St. Helier
+Seoul---Vaduz
+Avarua---Vienna
+Vienna---Bujumbura
+Sofia---Quito
+Abuja---Yaoundé
+64
+Basseterre
+Bucharest
+Bangkok
+Yaoundé
+Paris
+Hargeisa
+Vaduz
+Plymouth
+Kingstown
+Amman
+Riyadh
+Cardiff
+Monaco
+Beirut
+Juba
+Vilnius
+St. Helier
+Dhaka
+Bogotá
+Amsterdam
+Nouméa
+Port Louis
+Chisinau
+Mbabane
+St. John's
+Accra
+Mata-Utu
+Adamstown
+Podgorica
+Douglas
+São Tomé
+La Paz
+Bangui
+Quito
+Berlin
+Flying Fish Cove
+Ouagadougou
+Mexico City
+The Valley
+Sarajevo
+N'Djamena
+Willemstad
+Muscat
+Ankara
+Asmara
+Bujumbura
+Kingston
+Nassau
+Dublin
+Nouakchott
+Kuwait City
+Tunis
+Wellington
+Cairo
+Valletta
+Seoul
+Belmopan
+Thimphu
+Edmonton
+Avarua
+Vienna
+Brussels
+Sofia
+Abuja

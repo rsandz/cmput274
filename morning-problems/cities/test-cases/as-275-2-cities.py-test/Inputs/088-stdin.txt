@@ -1,0 +1,177 @@
+87
+Kingstown---Brussels
+Taipei---Kingstown
+Gaborone---Moscow
+Moscow---Edmonton
+Ottawa---Kuwait City
+Lusaka---Amman
+Athens---Kuala Lumpur
+Kiev---Edmonton
+Mbabane---Harare
+Minsk---Tripoli
+Nukuʻalofa---Port of Spain
+Hagåtña---Port Moresby
+Bridgetown---Yerevan
+Lisbon---Nassau
+Flying Fish Cove---Douglas
+Stanley---Cardiff
+N'Djamena---Tirana
+Episkopi Cantonment---Basseterre
+Malé---Douglas
+Papeete---Gaborone
+Amsterdam---Sanaá
+Guatemala City---Sanaá
+Tallinn---Port of Spain
+Rabat---Tskhinvali
+Nassau---London
+Brussels---St. Pierre
+Port Moresby---Nassau
+Khartoum---Tripoli
+Kingston---Port Louis
+Islamabad---Flying Fish Cove
+Mogadishu---Yamoussoukro
+Porto-Novo---Managua
+Pretoria---Nukuʻalofa
+San José---Rome
+Tunis---Praia
+St. Pierre---Muscat
+Muscat---Bangkok
+Rome---Berlin
+Dili---Praia
+Port of Spain---Bissau
+Tripoli---Yamoussoukro
+Georgetown---Nairobi
+Yerevan---Kathmandu
+Edinburgh---Episkopi Cantonment
+Basseterre---Kuwait City
+Port Louis---Pretoria
+Managua---Douglas
+Bangkok---Papeete
+Tskhinvali---Bangkok
+Yaren---St. Pierre
+Yamoussoukro---San José
+Berlin---Tallinn
+Cardiff---Cayenne
+La Paz---Berlin
+Cockburn Town---Pretoria
+Amman---Amsterdam
+Zagreb---Hanga Roa
+Stockholm---Sanaá
+Yaoundé---Tashkent
+Moroni---Flying Fish Cove
+Praia---Lusaka
+Apia---Georgetown
+London---Cayenne
+Sarajevo---Managua
+Kinshasa---Hagåtña
+Bissau---Port Vila
+Nairobi---Panama City
+Kuwait City---Malé
+Douglas---Yaren
+Port Vila---Sanaá
+Tashkent---Khartoum
+Kathmandu---Georgetown
+Hanoi---Gaborone
+Harare---Cayenne
+Banjul---Berlin
+Tirana---Basseterre
+Plymouth---Stockholm
+Kuala Lumpur---Baghdad
+Majuro---Yerevan
+Cayenne---Taipei
+São Tomé---Majuro
+Sanaá---Muscat
+Hanga Roa---St. Pierre
+Freetown---Papeete
+Baghdad---Harare
+Panama City---Yaoundé
+Port-au-Prince---Banjul
+88
+Kingstown
+Taipei
+Ottawa
+Athens
+Kiev
+Minsk
+Bridgetown
+Lisbon
+N'Djamena
+Episkopi Cantonment
+Malé
+Tskhinvali
+Guatemala City
+Brussels
+Khartoum
+Kingston
+Mogadishu
+Pretoria
+Tunis
+Port of Spain
+Georgetown
+Edinburgh
+Port Louis
+Managua
+Yaren
+Yamoussoukro
+Cardiff
+La Paz
+Cockburn Town
+Amman
+Zagreb
+Stockholm
+Apia
+London
+Sarajevo
+Kinshasa
+Port Vila
+Papeete
+Harare
+Kuwait City
+Cayenne
+Sanaá
+Hanga Roa
+Freetown
+Baghdad
+Gaborone
+Moscow
+Kathmandu
+Mbabane
+Nukuʻalofa
+Hagåtña
+Flying Fish Cove
+Stanley
+Edmonton
+Praia
+Amsterdam
+Lusaka
+Nassau
+Rabat
+Port Moresby
+Islamabad
+Porto-Novo
+San José
+St. Pierre
+Muscat
+Dili
+Tripoli
+Yerevan
+Basseterre
+Bangkok
+Berlin
+Yaoundé
+Bissau
+Nairobi
+Douglas
+Tallinn
+Tashkent
+Hanoi
+Banjul
+Tirana
+Plymouth
+Kuala Lumpur
+Majuro
+São Tomé
+Rome
+Moroni
+Panama City
+Port-au-Prince

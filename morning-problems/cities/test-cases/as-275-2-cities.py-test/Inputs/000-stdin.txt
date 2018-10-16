@@ -1,0 +1,11 @@
+4
+Vaduz---Tehran
+St. John’s---Edmonton
+Tehran---St. John’s
+Doha---Tehran
+5
+Vaduz
+Doha
+Edmonton
+St. John’s
+Tehran

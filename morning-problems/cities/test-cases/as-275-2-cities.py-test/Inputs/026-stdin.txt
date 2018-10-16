@@ -1,0 +1,59 @@
+28
+Dakar---Ouagadougou
+Rome---Vaduz
+London---Dakar
+Nouakchott---Islamabad
+Douglas---Managua
+Gaborone---Islamabad
+Kinshasa---Edmonton
+Roseau---Paris
+Riyadh---Saipan
+Ouagadougou---Douglas
+Muscat---Kinshasa
+Kingston---St. John's
+Honiara---Muscat
+Willemstad---Grytviken
+Grytviken---Vienna
+Paris---St. John's
+Saipan---Muscat
+Vienna---Douglas
+Maseru---Gaborone
+Sarajevo---Edmonton
+Managua---Riyadh
+Prague---Paris
+Abu Dhabi---Willemstad
+Majuro---St. John's
+St. John's---Douglas
+Vaduz---Kingston
+Brasília---Managua
+Islamabad---Dakar
+29
+Dakar
+Rome
+Vienna
+St. John's
+Gaborone
+Kingston
+Honiara
+Grytviken
+Paris
+Roseau
+Saipan
+Edmonton
+Managua
+Sarajevo
+Majuro
+Maseru
+Brasília
+Nouakchott
+Douglas
+Vaduz
+London
+Riyadh
+Ouagadougou
+Muscat
+Abu Dhabi
+Willemstad
+Prague
+Kinshasa
+Islamabad

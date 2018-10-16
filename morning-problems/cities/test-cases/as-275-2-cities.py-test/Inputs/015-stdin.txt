@@ -1,0 +1,27 @@
+12
+Basseterre---Nouakchott
+Beijing---Tashkent
+Sri Jayawardenapura Kotte---Phnom Penh
+San Marino---Edmonton
+Jakarta---Nouakchott
+Tashkent---Nouakchott
+Nouakchott---Edmonton
+Phnom Penh---Basseterre
+Bangkok---Tripoli
+Tripoli---Basseterre
+Addis Ababa---Jakarta
+Mbabane---Phnom Penh
+13
+Beijing
+San Marino
+Edmonton
+Tripoli
+Jakarta
+Tashkent
+Sri Jayawardenapura Kotte
+Nouakchott
+Basseterre
+Mbabane
+Phnom Penh
+Bangkok
+Addis Ababa

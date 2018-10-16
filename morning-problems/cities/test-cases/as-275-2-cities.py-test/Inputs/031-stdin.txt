@@ -1,0 +1,61 @@
+29
+Bujumbura---Nukuʻalofa
+Belgrade---Bucharest
+Douglas---Kuala Lumpur
+Windhoek---Edmonton
+New Delhi---Helsinki
+Nouakchott---New Delhi
+Sucre---Windhoek
+Ankara---Bishkek
+Panama City---Douglas
+Nukuʻalofa---Tirana
+Tegucigalpa---Edinburgh
+Bucharest---Kuala Lumpur
+Helsinki---Bishkek
+Vatican City---Jamestown
+Bissau---Ankara
+St. Helier---Nukuʻalofa
+Copenhagen---Edmonton
+Kiev---Road Town
+Kuala Lumpur---Nouakchott
+Jamestown---Road Town
+Harare---Tirana
+Edinburgh---Bucharest
+Road Town---Taipei
+Guatemala City---Harare
+Tirana---Belgrade
+São Tomé---Harare
+Honiara---Edmonton
+Bishkek---Windhoek
+Taipei---Tirana
+30
+Bujumbura
+Douglas
+New Delhi
+Nouakchott
+Windhoek
+Helsinki
+Vatican City
+Kiev
+Sucre
+Harare
+Road Town
+Guatemala City
+São Tomé
+Honiara
+Bishkek
+Belgrade
+Jamestown
+Ankara
+Panama City
+Nukuʻalofa
+St. Helier
+Tegucigalpa
+Bucharest
+Bissau
+Copenhagen
+Kuala Lumpur
+Edinburgh
+Tirana
+Taipei
+Edmonton

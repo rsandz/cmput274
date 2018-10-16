@@ -1,0 +1,7 @@
+2
+La Paz---Edmonton
+Madrid---Edmonton
+3
+La Paz
+Madrid
+Edmonton

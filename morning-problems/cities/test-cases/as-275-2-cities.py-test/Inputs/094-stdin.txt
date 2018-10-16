@@ -1,0 +1,183 @@
+90
+Port Moresby---Sanaá
+Sanaá---Mbabane
+Pristina---Naypyidaw
+Lomé---Quito
+Luxembourg---Lilongwe
+Manila---Naypyidaw
+Luanda---Yamoussoukro
+Bissau---Douglas
+Mbabane---Accra
+Skopje---Bissau
+Port Vila---Bridgetown
+Maputo---Stanley
+Asunción---Ulaanbaatar
+Wellington---Episkopi Cantonment
+Stockholm---Freetown
+Jerusalem---Accra
+Kingston---Wellington
+Cayenne---Vienna
+Dhaka---Edmonton
+Tiraspol---Edmonton
+Andorra la Vella---Bangui
+Belfast---Bissau
+Port of Spain---Belfast
+Khartoum---Yerevan
+Episkopi Cantonment---Maseru
+Accra---Copenhagen
+Vaduz---Yamoussoukro
+Zagreb---Port Moresby
+Bangui---Yerevan
+Mata-Utu---New Delhi
+Belgrade---Astana
+Oranjestad---Rome
+Freetown---Baghdad
+Tskhinvali---Skopje
+Tirana---Luanda
+Lilongwe---Sarajevo
+Bujumbura---Manila
+Ottawa---Helsinki
+Maseru---Belgrade
+Palikir---Dhaka
+Amsterdam---Sucre
+Taipei---Juba
+Dakar---Mbabane
+Stanley---Tiraspol
+Tarawa---Tiraspol
+Yamoussoukro---Wellington
+Quito---Port Vila
+Ouagadougou---Andorra la Vella
+Manama---Luxembourg
+Juba---Bridgetown
+Guatemala City---Rome
+Helsinki---Taipei
+Sucre---Hagåtña
+Seoul---Maputo
+St. Helier---Quito
+Paris---Kingston
+Astana---Skopje
+Sarajevo---New Delhi
+Amman---Skopje
+Grytviken---Maputo
+Baghdad---Rome
+Flying Fish Cove---Oranjestad
+Belmopan---George Town
+Naypyidaw---Palikir
+Niamey---Baghdad
+Port Louis---Jamestown
+Papeete---Stanley
+Douglas---Flying Fish Cove
+St. Pierre---Mexico City
+Sri Jayawardenapura Kotte---Georgetown
+Bridgetown---Mata-Utu
+Valletta---Bujumbura
+Tehran---Port Moresby
+Sukhumi---St. John's
+Ulaanbaatar---Stockholm
+Jamestown---Luxembourg
+Hagåtña---Mogadishu
+Vienna---Belmopan
+San Salvador---Sanaá
+Copenhagen---Valletta
+Mexico City---Amman
+Georgetown---Bridgetown
+St. John's---Amsterdam
+Thimphu---Ouagadougou
+Pretoria---Tarawa
+New Delhi---Grytviken
+Rome---Naypyidaw
+George Town---Naypyidaw
+Mogadishu---Port Moresby
+Yerevan---Stanley
+91
+Sanaá
+Pristina
+Bissau
+Mbabane
+Maputo
+San Salvador
+Jerusalem
+Belfast
+Accra
+Vaduz
+Zagreb
+Mata-Utu
+Douglas
+Manila
+Ottawa
+Taipei
+Dakar
+Stanley
+Tarawa
+Ouagadougou
+Manama
+Sri Jayawardenapura Kotte
+Juba
+Seoul
+St. Helier
+Palikir
+Lilongwe
+Belmopan
+Luxembourg
+Port Louis
+St. Pierre
+Tehran
+Sukhumi
+Ulaanbaatar
+Edmonton
+Jamestown
+Copenhagen
+Mexico City
+Georgetown
+St. John's
+Pretoria
+New Delhi
+George Town
+Port Moresby
+Tirana
+Lomé
+Bangui
+Luanda
+Skopje
+Asunción
+Wellington
+Stockholm
+Kingston
+Port Vila
+Dhaka
+Cayenne
+Tiraspol
+Quito
+Andorra la Vella
+Port of Spain
+Khartoum
+Yamoussoukro
+Belgrade
+Oranjestad
+Freetown
+Bujumbura
+Amsterdam
+Tskhinvali
+Astana
+Guatemala City
+Helsinki
+Sucre
+Paris
+Episkopi Cantonment
+Sarajevo
+Valletta
+Amman
+Maseru
+Baghdad
+Grytviken
+Flying Fish Cove
+Naypyidaw
+Niamey
+Papeete
+Bridgetown
+Hagåtña
+Vienna
+Thimphu
+Rome
+Mogadishu
+Yerevan

@@ -1,0 +1,25 @@
+11
+Hargeisa---Pyongyang
+Hagåtña---Kuala Lumpur
+Lima---Kuala Lumpur
+Libreville---Avarua
+Brasília---Edmonton
+Pyongyang---Lima
+Kuala Lumpur---Edmonton
+Managua---Edmonton
+Cayenne---Brasília
+Maseru---Lima
+Avarua---Managua
+12
+Hargeisa
+Hagåtña
+Managua
+Pyongyang
+Cayenne
+Lima
+Libreville
+Brasília
+Edmonton
+Kuala Lumpur
+Maseru
+Avarua

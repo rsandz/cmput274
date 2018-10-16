@@ -25,16 +25,16 @@ def tree_1():
     # =============================
 
     # Lowest level of tree
-    n_01 = huffman.TreeBranch(l_x, l_r)
+    i_xr = huffman.TreeBranch(l_x, l_r)
 
     # 2nd Level of the Tree
-    n_11 = huffman.TreeBranch(l_o, l_n)
-    n_12 = huffman.TreeBranch(n_01, l_e)
+    i_on = huffman.TreeBranch(l_o, l_n)
+    i_xre = huffman.TreeBranch(i_xr, l_e)
 
     # Root Node
-    root = huffman.TreeBranch(n_11, n_12)
+    root = huffman.TreeBranch(i_on, i_xre)
 
-    nodes = [n_01, n_11, n_12, root]
+    nodes = [i_xr, i_on, i_xre, root]
 
     # Lets make the tree!
     # ===================
@@ -44,4 +44,4 @@ def tree_1():
 if __name__ == "__main__":
     # Run when in called from CLI
     myTree = tree_1()
-    
+    print(myTree.root.left.left.value)

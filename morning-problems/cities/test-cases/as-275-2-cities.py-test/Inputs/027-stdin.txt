@@ -1,0 +1,57 @@
+27
+Episkopi Cantonment---Plymouth
+Nouméa---Hanga Roa
+Vilnius---Cairo
+Islamabad---Tunis
+Tehran---Edmonton
+Road Town---Malabo
+Rabat---Kinshasa
+Malabo---Brasília
+Kathmandu---Asunción
+Kinshasa---Kathmandu
+Rome---Tunis
+West Island---Kinshasa
+Valletta---Brasília
+La Paz---Kinshasa
+Bogotá---Islamabad
+Cairo---Khartoum
+Libreville---Kathmandu
+Andorra la Vella---Islamabad
+Pristina---Algiers
+Algiers---Malabo
+Tunis---Libreville
+Khartoum---Edmonton
+Hanga Roa---La Paz
+Plymouth---Hanga Roa
+Asunción---Malabo
+Brasília---Edmonton
+Sarajevo---Asunción
+28
+Nouméa
+Tehran
+Vilnius
+Kinshasa
+Bogotá
+Asunción
+Algiers
+Tunis
+Khartoum
+Episkopi Cantonment
+Islamabad
+Road Town
+Rabat
+Malabo
+Kathmandu
+Edmonton
+Rome
+West Island
+Valletta
+La Paz
+Libreville
+Andorra la Vella
+Pristina
+Hanga Roa
+Plymouth
+Brasília
+Cairo
+Sarajevo

@@ -140,5 +140,5 @@ if __name__ == "__main__":
     # when the program is called directly from the terminal
     # using "python3 unfairDice.py". This can be useful for
     # testing your implementations.
-
+    draw_histogram(2, [], 5)
     pass

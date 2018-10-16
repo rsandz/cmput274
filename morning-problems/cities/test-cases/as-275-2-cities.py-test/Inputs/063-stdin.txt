@@ -1,0 +1,121 @@
+59
+Lima---Conakry
+Episkopi Cantonment---Doha
+Road Town---Jamestown
+Gibraltar---Dublin
+Vienna---Gibraltar
+Amman---Tunis
+Freetown---Dublin
+Rome---Ljubljana
+Moscow---Paramaribo
+Port Vila---Tegucigalpa
+Yaoundé---Nicosia
+La Paz---Valletta
+Caracas---Episkopi Cantonment
+Buenos Aires---Roseau
+Abu Dhabi---Avarua
+San José---Abu Dhabi
+Paramaribo---Chisinau
+Avarua---Edmonton
+Hagåtña---Edmonton
+Sri Jayawardenapura Kotte---Nuuk
+Nicosia---Conakry
+Amsterdam---Episkopi Cantonment
+St. Pierre---Majuro
+Plymouth---Edmonton
+Georgetown---Tunis
+Ljubljana---Papeete
+Podgorica---Freetown
+Abuja---Rabat
+Doha---Hagåtña
+Jamestown---St. Pierre
+Accra---Canberra
+Asmara---San José
+Roseau---Nicosia
+Athens---Lima
+Rabat---Georgetown
+Valletta---Vienna
+Nuuk---Podgorica
+Majuro---Yaoundé
+Gaborone---Accra
+Canberra---Conakry
+Bridgetown---San José
+Port Louis---Yaoundé
+Tunis---Washington, D.C.
+Conakry---Tashkent
+Edinburgh of the Seven Seas---Asmara
+Chisinau---Conakry
+Washington, D.C.---Athens
+Kampala---Plymouth
+Mogadishu---Abuja
+Tegucigalpa---Paramaribo
+Papeete---Edmonton
+Kathmandu---Conakry
+Mexico City---Nuuk
+Dublin---Washington, D.C.
+Pristina---Ljubljana
+Tashkent---Pristina
+Lusaka---Dublin
+Wellington---Roseau
+Tarawa---Chisinau
+60
+Lima
+Episkopi Cantonment
+Road Town
+Gibraltar
+Vienna
+Paramaribo
+Amman
+Plymouth
+Freetown
+Rome
+Moscow
+Wellington
+Tarawa
+Port Vila
+Yaoundé
+La Paz
+Caracas
+Buenos Aires
+Abu Dhabi
+San José
+Avarua
+Tashkent
+Hagåtña
+Edmonton
+Nicosia
+St. Pierre
+Georgetown
+Ljubljana
+Podgorica
+Abuja
+Doha
+Jamestown
+Asmara
+Roseau
+Athens
+Rabat
+Majuro
+Gaborone
+Canberra
+Bridgetown
+Port Louis
+Tunis
+Nuuk
+Conakry
+Edinburgh of the Seven Seas
+Valletta
+Chisinau
+Washington, D.C.
+Kampala
+Mogadishu
+Tegucigalpa
+Papeete
+Kathmandu
+Sri Jayawardenapura Kotte
+Mexico City
+Amsterdam
+Dublin
+Pristina
+Accra
+Lusaka

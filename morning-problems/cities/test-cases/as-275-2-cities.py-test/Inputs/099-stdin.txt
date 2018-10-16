@@ -1,0 +1,197 @@
+97
+Asunción---Brazzaville
+Luanda---Kuwait City
+Ashgabat---Astana
+Moscow---El Aaiún
+Santiago---Luxembourg
+Berlin---Ottawa
+Chisinau---Minsk
+Willemstad---Asmara
+Freetown---Bamako
+Bridgetown---Niamey
+Astana---Bamako
+Bratislava---Avarua
+Athens---Caracas
+Djibouti---Asunción
+Charlotte Amalie---Tarawa
+Dushanbe---Nairobi
+Islamabad---Mexico City
+Paris---Khartoum
+Copenhagen---Kampala
+Oslo---Palikir
+Nukuʻalofa---Amman
+Bissau---Bamako
+Libreville---Edinburgh
+Victoria---Skopje
+Andorra la Vella---Yaoundé
+Bangui---Santiago
+Helsinki---Lima
+Skopje---Roseau
+Caracas---Bridgetown
+Hanga Roa---Sucre
+Tarawa---Bissau
+Lisbon---Sucre
+Managua---Yaoundé
+Stockholm---Edmonton
+Nassau---Lusaka
+Dili---Dhaka
+Tiraspol---Warsaw
+Baghdad---Andorra la Vella
+Asmara---Nicosia
+Monaco---San Juan
+Khartoum---Luxembourg
+Quito---Islamabad
+Lima---Skopje
+Dakar---Yaoundé
+Kingstown---Buenos Aires
+São Tomé---Mbabane
+Roseau---Andorra la Vella
+El Aaiún---Libreville
+Guatemala City---Wellington
+Doha---Kampala
+Buenos Aires---Ulaanbaatar
+Port of Spain---Kingstown
+Episkopi Cantonment---Yaoundé
+Jerusalem---Athens
+Kampala---Moscow
+Bamako---Lisbon
+Minsk---Ulaanbaatar
+Podgorica---Episkopi Cantonment
+Georgetown---Asmara
+Port Moresby---Dili
+Nairobi---Nicosia
+Tirana---Managua
+Avarua---Warsaw
+Kuwait City---Skopje
+Lusaka---Dushanbe
+Reykjavík---Sucre
+Washington, D.C.---Libreville
+George Town---Freetown
+Funafuti---Bridgetown
+Luxembourg---Port of Spain
+Brazzaville---Dakar
+Stepanakert---Bissau
+Cardiff---Reykjavík
+Conakry---Paramaribo
+Kabul---Astana
+Mbabane---Yaoundé
+Nicosia---Ulaanbaatar
+Sucre---Stockholm
+San Juan---Mbabane
+Warsaw---Mexico City
+Ottawa---Mexico City
+Wellington---Ottawa
+Bern---Stockholm
+Antananarivo---Washington, D.C.
+Kigali---Avarua
+Niamey---Chisinau
+Palikir---Georgetown
+Ulaanbaatar---Monaco
+Mexico City---Cardiff
+Paramaribo---Lusaka
+Amman---Bangui
+Dhaka---Santiago
+Gibraltar---Kigali
+Yaoundé---Lisbon
+The Valley---Islamabad
+Ljubljana---Gibraltar
+Edinburgh---Kingstown
+98
+Luanda
+Willemstad
+Freetown
+Bridgetown
+Port Moresby
+Bratislava
+Athens
+Edmonton
+Nukuʻalofa
+Bissau
+Libreville
+Andorra la Vella
+El Aaiún
+Skopje
+Managua
+Dili
+Tiraspol
+Asmara
+Quito
+Kingstown
+Roseau
+Episkopi Cantonment
+Kampala
+Bamako
+Podgorica
+Georgetown
+Washington, D.C.
+Nairobi
+Avarua
+Luxembourg
+Khartoum
+Mbabane
+Nicosia
+Sucre
+Warsaw
+Ottawa
+Bern
+Antananarivo
+Niamey
+Palikir
+Stockholm
+Lisbon
+Dhaka
+Gibraltar
+The Valley
+Ljubljana
+Asunción
+Ashgabat
+Moscow
+Santiago
+Chisinau
+Astana
+Djibouti
+Charlotte Amalie
+Islamabad
+Ulaanbaatar
+Paris
+Copenhagen
+Dushanbe
+Caracas
+Bangui
+Lima
+Helsinki
+Hanga Roa
+Tarawa
+Baghdad
+Monaco
+Dakar
+Berlin
+São Tomé
+Guatemala City
+Doha
+Buenos Aires
+Port of Spain
+Jerusalem
+Tirana
+Minsk
+Funafuti
+Kuwait City
+Lusaka
+Reykjavík
+Nassau
+George Town
+Brazzaville
+Stepanakert
+Cardiff
+Conakry
+Kabul
+Victoria
+Wellington
+Oslo
+Kigali
+Mexico City
+Paramaribo
+Amman
+Yaoundé
+San Juan
+Edinburgh

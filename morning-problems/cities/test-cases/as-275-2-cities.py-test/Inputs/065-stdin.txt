@@ -1,0 +1,133 @@
+65
+Kingstown---Beijing
+Yamoussoukro---Astana
+St. Peter Port---Kuala Lumpur
+Helsinki---Warsaw
+Stepanakert---Palikir
+San Salvador---Athens
+Wellington---Paramaribo
+Yerevan---Edinburgh
+Ngerulmud---La Paz
+Pyongyang---Tripoli
+Moroni---Kingstown
+El Aaiún---Yamoussoukro
+Kuala Lumpur---Edmonton
+Kigali---Rabat
+Damascus---Kuala Lumpur
+Abu Dhabi---Islamabad
+Georgetown---Abu Dhabi
+Palikir---Nassau
+Santiago---El Aaiún
+Port Moresby---Conakry
+Seoul---Buenos Aires
+Berlin---Skopje
+Conakry---Paramaribo
+La Paz---Tashkent
+Rabat---San Salvador
+Buenos Aires---Yerevan
+Budapest---Tegucigalpa
+Libreville---Kuala Lumpur
+Montevideo---Athens
+Mbabane---Harare
+Tegucigalpa---Nicosia
+Paramaribo---Banjul
+Jerusalem---Budapest
+Nassau---Taipei
+Taipei---El Aaiún
+Madrid---Tegucigalpa
+Accra---Mogadishu
+Islamabad---Addis Ababa
+Astana---Banjul
+Tiraspol---St. Peter Port
+Tripoli---Tiraspol
+Managua---Athens
+Amman---Banjul
+Nicosia---Athens
+Edinburgh---Edmonton
+Ashgabat---Mogadishu
+St. Helier---Tegucigalpa
+Hamilton---Harare
+Warsaw---Conakry
+Plymouth---Stepanakert
+Philipsburg---Berlin
+Vilnius---St. Peter Port
+Chisinau---Dakar
+Canberra---Ashgabat
+Dakar---Skopje
+Tashkent---Conakry
+Mogadishu---Helsinki
+Beijing---Skopje
+Addis Ababa---Tegucigalpa
+Banjul---Libreville
+Gibraltar---St. Peter Port
+Athens---Edmonton
+Harare---Yamoussoukro
+Vientiane---Santiago
+Skopje---Kigali
+66
+Kingstown
+Yamoussoukro
+Stepanakert
+Ngerulmud
+San Salvador
+Tegucigalpa
+Wellington
+Libreville
+Yerevan
+Pyongyang
+Moroni
+Kuala Lumpur
+Kigali
+Damascus
+Abu Dhabi
+Madrid
+Palikir
+Gibraltar
+Edmonton
+Plymouth
+Edinburgh
+Port Moresby
+Berlin
+Conakry
+Skopje
+Dakar
+St. Peter Port
+Mogadishu
+Buenos Aires
+Seoul
+Rabat
+La Paz
+Montevideo
+Mbabane
+Nicosia
+Budapest
+Paramaribo
+El Aaiún
+Georgetown
+Banjul
+Taipei
+Islamabad
+Nassau
+Astana
+Tiraspol
+Jerusalem
+Ashgabat
+Managua
+Tripoli
+Amman
+St. Helier
+Hamilton
+Helsinki
+Santiago
+Warsaw
+Vilnius
+Accra
+Philipsburg
+Chisinau
+Canberra
+Tashkent
+Beijing
+Addis Ababa
+Athens
+Harare
+Vientiane

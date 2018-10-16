@@ -1,0 +1,11 @@
+4
+Copenhagen---N'Djamena
+Castries---N'Djamena
+Port Moresby---Castries
+N'Djamena---Edmonton
+5
+Copenhagen
+Castries
+Edmonton
+Port Moresby
+N'Djamena

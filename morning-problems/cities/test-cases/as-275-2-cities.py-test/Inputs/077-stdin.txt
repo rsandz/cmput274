@@ -1,0 +1,157 @@
+77
+Minsk---Podgorica
+Castries---Monrovia
+Paris---Prague
+Pretoria---Mata-Utu
+Vatican City---Prague
+Bangkok---Naypyidaw
+Naypyidaw---Paramaribo
+Luxembourg---Moscow
+Baku---Tórshavn
+Tashkent---Jamestown
+Malé---Djibouti
+San Marino---Stepanakert
+Sarajevo---Amman
+Washington, D.C.---Port Louis
+Stepanakert---Berlin
+Moscow---Juba
+Havana---Sarajevo
+Hamilton---Tórshavn
+Singapore---Mata-Utu
+Bissau---Belmopan
+Jamestown---Manila
+Grytviken---Georgetown
+Podgorica---Paris
+Tórshavn---Sukhumi
+Cardiff---Baku
+Paramaribo---Moroni
+Dhaka---Georgetown
+Kuala Lumpur---Ljubljana
+Nicosia---Paramaribo
+Juba---Edmonton
+Tarawa---Hamilton
+Montevideo---Lima
+Santo Domingo---Cockburn Town
+Sukhumi---Bridgetown
+Jerusalem---Gaborone
+Tiraspol---Andorra la Vella
+Lima---Tarawa
+Flying Fish Cove---Lima
+Addis Ababa---Bangkok
+Andorra la Vella---Beijing
+Nouméa---Sarajevo
+Majuro---Port Louis
+Bujumbura---Sukhumi
+Berlin---Asmara
+Doha---Georgetown
+Baghdad---Djibouti
+Tallinn---Doha
+Kabul---Port Louis
+Santiago---Minsk
+El Aaiún---Amman
+Maseru---Belmopan
+Manila---Moscow
+Mbabane---Edmonton
+Port Louis---Grytviken
+Plymouth---Montevideo
+Asmara---Castries
+Moroni---Minsk
+Prague---Dhaka
+Georgetown---Mbabane
+Mata-Utu---Islamabad
+Islamabad---Baghdad
+Ljubljana---Podgorica
+Edinburgh---Santo Domingo
+Libreville---Nicosia
+Sofia---Bridgetown
+Banjul---Libreville
+Amman---Sukhumi
+Dublin---Belmopan
+Monrovia---Georgetown
+Djibouti---Berlin
+Belmopan---Andorra la Vella
+Gaborone---Dublin
+Beijing---Mata-Utu
+Bridgetown---Pretoria
+Yamoussoukro---Banjul
+Cockburn Town---Andorra la Vella
+Port-au-Prince---Mata-Utu
+78
+Minsk
+Vatican City
+Paris
+Pretoria
+Castries
+Tórshavn
+San Marino
+Bangkok
+Juba
+Naypyidaw
+Tashkent
+Sarajevo
+Washington, D.C.
+Port-au-Prince
+Beijing
+Stepanakert
+Lima
+Jamestown
+Hamilton
+Havana
+Paramaribo
+Moscow
+Bissau
+Grytviken
+Podgorica
+Gaborone
+Dublin
+Baku
+Dhaka
+Kuala Lumpur
+Montevideo
+Nicosia
+Cardiff
+Tallinn
+Tiraspol
+Santo Domingo
+Sukhumi
+Jerusalem
+Moroni
+Flying Fish Cove
+Andorra la Vella
+Majuro
+Bujumbura
+Berlin
+Cockburn Town
+Doha
+Baghdad
+Addis Ababa
+Santiago
+El Aaiún
+Kabul
+Maseru
+Manila
+Monrovia
+Prague
+Port Louis
+Edinburgh
+Mbabane
+Plymouth
+Asmara
+Georgetown
+Libreville
+Mata-Utu
+Islamabad
+Ljubljana
+Malé
+Sofia
+Singapore
+Amman
+Tarawa
+Djibouti
+Belmopan
+Nouméa
+Banjul
+Edmonton
+Bridgetown
+Yamoussoukro
+Luxembourg

@@ -1,0 +1,45 @@
+21
+New Delhi---Gustavia
+Gustavia---St. Peter Port
+Rome---Brasília
+Copenhagen---Bridgetown
+St. Peter Port---Brasília
+Edinburgh---Edmonton
+Valletta---Edinburgh
+Nukuʻalofa---Khartoum
+Lima---Nukuʻalofa
+El Aaiún---Edinburgh
+Vientiane---Edmonton
+Sukhumi---Brasília
+Bucharest---St. Peter Port
+Santo Domingo---Rome
+Port Moresby---Vientiane
+Lisbon---St. Peter Port
+Bridgetown---Lima
+Kuala Lumpur---Edinburgh
+Kigali---Valletta
+Brasília---Edinburgh
+Khartoum---Brasília
+22
+New Delhi
+Gustavia
+Rome
+Bucharest
+Valletta
+Khartoum
+Port Moresby
+St. Peter Port
+Copenhagen
+Edinburgh
+Lisbon
+Nukuʻalofa
+Edmonton
+Sukhumi
+Kigali
+Brasília
+El Aaiún
+Santo Domingo
+Vientiane
+Bridgetown
+Lima
+Kuala Lumpur

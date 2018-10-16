@@ -1,0 +1,97 @@
+47
+Baghdad---Islamabad
+N'Djamena---Kiev
+Oranjestad---Vaduz
+Port Moresby---Abu Dhabi
+Abu Dhabi---Pyongyang
+Algiers---Moroni
+Edinburgh---Wellington
+Moscow---New Delhi
+Buenos Aires---Quito
+Lilongwe---Mbabane
+Quito---Edmonton
+Rome---George Town
+George Town---Budapest
+Skopje---George Town
+Riga---Budapest
+Wellington---Copenhagen
+Dublin---Edinburgh
+Kathmandu---Baghdad
+San Salvador---Lilongwe
+Hargeisa---Tashkent
+Muscat---Abu Dhabi
+Santiago---Moroni
+Malabo---Kathmandu
+Vaduz---Edmonton
+Lusaka---Tehran
+Tashkent---Sofia
+New Delhi---Algiers
+Kiev---Wellington
+Budapest---Lusaka
+San José---Moscow
+Edinburgh of the Seven Seas---Pyongyang
+Doha---Lusaka
+Kampala---Sri Jayawardenapura Kotte
+Sanaá---Islamabad
+Dhaka---Mata-Utu
+Pyongyang---Santiago
+Cardiff---Copenhagen
+Tehran---New Delhi
+Moroni---Sri Jayawardenapura Kotte
+Islamabad---Doha
+Djibouti---Vaduz
+Sofia---Sanaá
+Sri Jayawardenapura Kotte---Buenos Aires
+Thimphu---Moscow
+Mbabane---Moscow
+Mata-Utu---Wellington
+Copenhagen---Thimphu
+48
+Baghdad
+N'Djamena
+Oranjestad
+Abu Dhabi
+Algiers
+Edinburgh
+Moscow
+Buenos Aires
+Islamabad
+Lilongwe
+Quito
+George Town
+Skopje
+Mbabane
+Wellington
+Riga
+Dublin
+Kathmandu
+Port Moresby
+Rome
+San Salvador
+Hargeisa
+San José
+Muscat
+Santiago
+Malabo
+Edmonton
+Vaduz
+Lusaka
+Tashkent
+New Delhi
+Kiev
+Budapest
+Edinburgh of the Seven Seas
+Kampala
+Sanaá
+Dhaka
+Pyongyang
+Cardiff
+Tehran
+Doha
+Moroni
+Djibouti
+Sofia
+Sri Jayawardenapura Kotte
+Thimphu
+Mata-Utu
+Copenhagen

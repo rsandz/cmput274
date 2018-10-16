@@ -1,0 +1,159 @@
+78
+Beirut---Maputo
+Montevideo---Edinburgh
+Singapore---Yaoundé
+Mexico City---Bridgetown
+Asunción---Asmara
+Damascus---Vatican City
+Castries---Riga
+Oranjestad---Edmonton
+Tallinn---Baghdad
+Tripoli---Montevideo
+San Juan---Singapore
+Caracas---Lisbon
+Honiara---Kingstown
+El Aaiún---Philipsburg
+George Town---Edmonton
+Abuja---Windhoek
+Riga---Asunción
+Sanaá---Gustavia
+Rome---Mexico City
+Guatemala City---Naypyidaw
+Kampala---Tripoli
+Tegucigalpa---Vilnius
+Copenhagen---Damascus
+Vatican City---Tarawa
+Nairobi---Monaco
+Yaoundé---Helsinki
+Belgrade---George Town
+Vienna---Hamilton
+Baghdad---Belgrade
+Prague---Abuja
+Hamilton---Damascus
+Skopje---San Salvador
+Naypyidaw---San Salvador
+Moscow---St. George's
+Edinburgh---Naypyidaw
+Lisbon---Tallinn
+Asmara---Majuro
+Gibraltar---St. Peter Port
+Victoria---San José
+Philipsburg---Kampala
+Dushanbe---Oranjestad
+Majuro---San José
+Jakarta---Bridgetown
+Ashgabat---Riga
+Kingstown---Mexico City
+Ottawa---Abuja
+St. Peter Port---Juba
+San Salvador---Juba
+Managua---Asmara
+Bridgetown---Sucre
+St. George's---El Aaiún
+Roseau---Sanaá
+Monaco---Canberra
+Bamako---Baghdad
+Sucre---St. George's
+Astana---Abuja
+Kabul---Oranjestad
+Port of Spain---Riga
+Canberra---San José
+Vilnius---Kingstown
+Helsinki---Ottawa
+Yamoussoukro---Jakarta
+Addis Ababa---St. Peter Port
+Phnom Penh---San Juan
+Pago Pago---Astana
+Grytviken---Skopje
+Porto-Novo---Abuja
+Khartoum---Prague
+Gustavia---Nairobi
+Tarawa---Riga
+Seoul---Hamilton
+San José---Belgrade
+Kigali---Guatemala City
+Maputo---Bridgetown
+Windhoek---Monrovia
+Monrovia---Castries
+Juba---Canberra
+The Valley---Gibraltar
+79
+Montevideo
+Mexico City
+Victoria
+Damascus
+Castries
+Oranjestad
+Monaco
+Kabul
+San Juan
+Porto-Novo
+Caracas
+Honiara
+Singapore
+George Town
+Abuja
+Riga
+Tripoli
+Rome
+Guatemala City
+Kampala
+Vatican City
+Nairobi
+Kigali
+Yaoundé
+The Valley
+Belgrade
+Asunción
+Baghdad
+Prague
+Tallinn
+Vienna
+Moscow
+Copenhagen
+Naypyidaw
+Skopje
+Hamilton
+Edinburgh
+Astana
+Asmara
+Gibraltar
+Gustavia
+Ottawa
+Philipsburg
+Dushanbe
+Majuro
+Jakarta
+Ashgabat
+Tegucigalpa
+Kingstown
+St. Peter Port
+San Salvador
+Managua
+Bridgetown
+St. George's
+Roseau
+San José
+El Aaiún
+Sucre
+Sanaá
+Port of Spain
+Canberra
+Vilnius
+Helsinki
+Bamako
+Yamoussoukro
+Addis Ababa
+Phnom Penh
+Pago Pago
+Grytviken
+Lisbon
+Seoul
+Khartoum
+Tarawa
+Beirut
+Maputo
+Edmonton
+Windhoek
+Monrovia
+Juba

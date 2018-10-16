@@ -1,0 +1,99 @@
+48
+Gustavia---Tegucigalpa
+Cayenne---Gustavia
+Windhoek---St. John's
+Tórshavn---Nassau
+Freetown---Ngerulmud
+Nassau---Dushanbe
+Minsk---Rome
+Dushanbe---Riyadh
+Canberra---Belfast
+Baku---Riyadh
+Bangui---Tarawa
+Nairobi---Edmonton
+Tarawa---Abuja
+Majuro---Baku
+Avarua---Minsk
+Mexico City---Tehran
+Riyadh---Cayenne
+Dili---Bamako
+Brasília---Ngerulmud
+Montevideo---Nouméa
+Pago Pago---Edmonton
+Budapest---Kingston
+Kingston---Baghdad
+Tegucigalpa---Edmonton
+Rome---Vilnius
+Basseterre---Windhoek
+Asunción---Sucre
+Muscat---Baghdad
+Abuja---Mexico City
+St. John's---Sucre
+Ngerulmud---Gustavia
+Baghdad---Ngerulmud
+Cardiff---Vilnius
+Belfast---Buenos Aires
+Nouméa---Majuro
+Jamestown---Windhoek
+Vilnius---Asunción
+Accra---Riyadh
+Damascus---Asunción
+Tehran---Pago Pago
+Buenos Aires---Athens
+Bamako---Windhoek
+Bucharest---Dili
+Sofia---Bern
+Athens---Sucre
+Bern---Freetown
+Dodoma---Baghdad
+Sucre---Gustavia
+49
+Cayenne
+Windhoek
+Tórshavn
+Freetown
+Nassau
+Kingston
+Minsk
+Dushanbe
+Canberra
+Baku
+Bangui
+Nairobi
+Tarawa
+Majuro
+Avarua
+Mexico City
+Bamako
+Riyadh
+Dili
+Brasília
+Montevideo
+Pago Pago
+Budapest
+Tegucigalpa
+Rome
+Basseterre
+Asunción
+Muscat
+Abuja
+St. John's
+Ngerulmud
+Baghdad
+Cardiff
+Belfast
+Nouméa
+Jamestown
+Vilnius
+Edmonton
+Accra
+Damascus
+Tehran
+Gustavia
+Buenos Aires
+Bucharest
+Sofia
+Athens
+Bern
+Dodoma
+Sucre

@@ -1,0 +1,33 @@
+15
+Phnom Penh---Caracas
+Flying Fish Cove---Manila
+Caracas---Manila
+Basseterre---Tunis
+Dakar---Paris
+Beirut---Basseterre
+Port of Spain---Yamoussoukro
+Addis Ababa---Phnom Penh
+Yamoussoukro---Phnom Penh
+Manila---Edmonton
+Paris---Addis Ababa
+Praia---Phnom Penh
+Riyadh---Edmonton
+Managua---Edmonton
+Tunis---Port of Spain
+16
+Phnom Penh
+Edmonton
+Flying Fish Cove
+Caracas
+Dakar
+Beirut
+Port of Spain
+Basseterre
+Addis Ababa
+Yamoussoukro
+Managua
+Paris
+Praia
+Riyadh
+Manila
+Tunis

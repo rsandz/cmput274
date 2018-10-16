@@ -1,0 +1,109 @@
+53
+Khartoum---Vientiane
+Algiers---Ulaanbaatar
+Muscat---Cockburn Town
+Pago Pago---Ouagadougou
+Victoria---Bangui
+Phnom Penh---Manila
+Reykjavík---Edmonton
+Vientiane---Manama
+Jakarta---Reykjavík
+Prague---Luxembourg
+Dili---Prague
+Sukhumi---Paramaribo
+Brussels---Praia
+Funafuti---Flying Fish Cove
+Kingston---Flying Fish Cove
+Tirana---Dushanbe
+Bangui---Funafuti
+Vaduz---Reykjavík
+Ulaanbaatar---Brazzaville
+Conakry---San Juan
+Manila---Praia
+Addis Ababa---Luxembourg
+Monrovia---Malabo
+Hanga Roa---Suva
+Flying Fish Cove---Pago Pago
+Podgorica---Jerusalem
+Bamako---Flying Fish Cove
+Accra---Cardiff
+Luxembourg---Jerusalem
+Dushanbe---Willemstad
+San Juan---Phnom Penh
+Paramaribo---Vaduz
+Nouméa---Reykjavík
+Praia---Skopje
+Berlin---Monaco
+Jerusalem---Conakry
+Port Vila---Dili
+Ouagadougou---Khartoum
+Maseru---Kingston
+Charlotte Amalie---Monrovia
+Malabo---Dushanbe
+Willemstad---Funafuti
+La Paz---Bangui
+Belfast---Willemstad
+San Marino---Vaduz
+Bangkok---Cardiff
+Cockburn Town---Willemstad
+Brazzaville---Dili
+Monaco---Ulaanbaatar
+Skopje---Jakarta
+Manama---Skopje
+Suva---Reykjavík
+Cardiff---Phnom Penh
+54
+Khartoum
+Edmonton
+Algiers
+Muscat
+Pago Pago
+Victoria
+Jerusalem
+Phnom Penh
+Vientiane
+Reykjavík
+Jakarta
+Prague
+Dili
+Sukhumi
+Brazzaville
+Funafuti
+Berlin
+Kingston
+Tirana
+Brussels
+Bangui
+Manama
+Vaduz
+Ulaanbaatar
+Conakry
+Manila
+Addis Ababa
+Cardiff
+Hanga Roa
+Flying Fish Cove
+Podgorica
+Bamako
+Accra
+Luxembourg
+Dushanbe
+Paramaribo
+Nouméa
+Praia
+Port Vila
+Ouagadougou
+Maseru
+Monrovia
+Charlotte Amalie
+Malabo
+San Juan
+Willemstad
+Belfast
+San Marino
+Bangkok
+Cockburn Town
+La Paz
+Monaco
+Skopje
+Suva

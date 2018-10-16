@@ -1,0 +1,123 @@
+60
+Road Town---Douglas
+Islamabad---Victoria
+St. George's---Basseterre
+Nairobi---Abu Dhabi
+Lilongwe---Willemstad
+Conakry---Santo Domingo
+Willemstad---St. George's
+Berlin---Amsterdam
+Phnom Penh---Cairo
+Thimphu---Santo Domingo
+Hamilton---Douglas
+Havana---Amsterdam
+Cardiff---Dodoma
+St. John's---Tegucigalpa
+Reykjavík---Tegucigalpa
+San José---Porto-Novo
+Bucharest---Cairo
+Asmara---Lilongwe
+Vilnius---Phnom Penh
+Amsterdam---Tehran
+Pago Pago---Astana
+Cayenne---Amsterdam
+Port-au-Prince---St. John's
+Belfast---Cardiff
+Douglas---Rabat
+Dodoma---Mbabane
+Tallinn---Bujumbura
+Tehran---Sukhumi
+Seoul---Rabat
+Abuja---Islamabad
+Bujumbura---Willemstad
+Dakar---Cayenne
+Porto-Novo---Douglas
+Sukhumi---Zagreb
+Buenos Aires---Bogotá
+Mbabane---Havana
+Freetown---Victoria
+Sarajevo---Conakry
+Bogotá---Nairobi
+Malabo---Port Moresby
+Papeete---Port-au-Prince
+Moscow---Islamabad
+Victoria---Basseterre
+Asunción---Road Town
+Cairo---Edmonton
+Nouméa---Cayenne
+Basseterre---Damascus
+Damascus---West Island
+Rabat---Abuja
+Zagreb---Port Moresby
+Belmopan---Asmara
+Beijing---St. John's
+West Island---Bucharest
+Abu Dhabi---Dhaka
+Port Moresby---Cairo
+Astana---Seoul
+Santo Domingo---St. John's
+Tegucigalpa---Berlin
+Dhaka---Rabat
+Chisinau---Port Moresby
+61
+Road Town
+Islamabad
+St. George's
+Lilongwe
+Conakry
+Nairobi
+Berlin
+Phnom Penh
+Belfast
+Amsterdam
+Thimphu
+Hamilton
+Havana
+Cardiff
+Belmopan
+Reykjavík
+San José
+Bucharest
+Asmara
+St. John's
+Vilnius
+Pago Pago
+Cayenne
+Port Moresby
+Freetown
+Douglas
+Dodoma
+Port-au-Prince
+Tallinn
+Tehran
+Cairo
+Seoul
+Abuja
+Dakar
+Porto-Novo
+Sukhumi
+Mbabane
+Sarajevo
+Astana
+Bogotá
+Malabo
+Papeete
+Moscow
+Victoria
+Willemstad
+Asunción
+Edmonton
+Nouméa
+Basseterre
+Damascus
+Buenos Aires
+Bujumbura
+Zagreb
+Chisinau
+Rabat
+West Island
+Beijing
+Abu Dhabi
+Santo Domingo
+Dhaka
+Tegucigalpa

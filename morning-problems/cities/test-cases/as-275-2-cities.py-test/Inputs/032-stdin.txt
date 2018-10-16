@@ -1,0 +1,63 @@
+30
+Avarua---Baku
+Pretoria---Chisinau
+St. George's---Bogotá
+Charlotte Amalie---Panama City
+Asunción---Jerusalem
+Willemstad---Mbabane
+Dhaka---Panama City
+Athens---Panama City
+Panama City---Oranjestad
+Chisinau---Islamabad
+Skopje---Ouagadougou
+San Marino---Baku
+Kingston---Willemstad
+Pago Pago---Gibraltar
+Lilongwe---Kingston
+Ouagadougou---Gibraltar
+Mbabane---Edmonton
+Sucre---Edmonton
+Bogotá---Willemstad
+Gibraltar---Jakarta
+Jakarta---Oranjestad
+Jerusalem---Charlotte Amalie
+Basseterre---Lilongwe
+Baku---Bogotá
+Taipei---Willemstad
+Oranjestad---Astana
+Islamabad---Avarua
+Amsterdam---Quito
+Astana---Mbabane
+Quito---St. George's
+31
+Avarua
+Charlotte Amalie
+Willemstad
+Panama City
+Kingston
+Pago Pago
+Lilongwe
+Ouagadougou
+Mbabane
+Bogotá
+Amsterdam
+Astana
+Edmonton
+St. George's
+Dhaka
+Skopje
+San Marino
+Pretoria
+Islamabad
+Sucre
+Gibraltar
+Jakarta
+Jerusalem
+Basseterre
+Athens
+Baku
+Chisinau
+Asunción
+Taipei
+Oranjestad
+Quito

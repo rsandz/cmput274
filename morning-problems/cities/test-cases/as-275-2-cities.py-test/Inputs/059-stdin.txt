@@ -1,0 +1,117 @@
+57
+Port-au-Prince---Edmonton
+Majuro---Kampala
+Helsinki---Jerusalem
+Charlotte Amalie---Podgorica
+San Juan---Reykjavík
+Roseau---Havana
+Port of Spain---Majuro
+Basseterre---Dushanbe
+Riga---Muscat
+Amman---Papeete
+Saipan---Hanga Roa
+Bishkek---Lusaka
+Porto-Novo---Roseau
+Abuja---Port-au-Prince
+Havana---Majuro
+Copenhagen---Amman
+Kigali---Lusaka
+La Paz---Edmonton
+Lusaka---Kuwait City
+Naypyidaw---Dakar
+Conakry---Vienna
+Stockholm---Bucharest
+Hanga Roa---Manila
+Philipsburg---Nairobi
+Ouagadougou---Podgorica
+Tórshavn---Port-au-Prince
+Lomé---Kigali
+Bandar Seri Begawan---Hanga Roa
+Grytviken---Bishkek
+Ottawa---Naypyidaw
+Dushanbe---Kampala
+Sanaá---Edmonton
+Reykjavík---Vienna
+Bucharest---Reykjavík
+Paris---Algiers
+Belmopan---Reykjavík
+Nairobi---Rabat
+Stanley---Gibraltar
+Gibraltar---Muscat
+Jamestown---Muscat
+Cayenne---Kuwait City
+Jerusalem---Jamestown
+London---Basseterre
+Papeete---Belmopan
+Manila---Tórshavn
+Vienna---Algiers
+Rabat---Hanga Roa
+Podgorica---Hanga Roa
+Guatemala City---Dushanbe
+Algiers---Bishkek
+Muscat---Bishkek
+Valletta---Sri Jayawardenapura Kotte
+Kampala---Tórshavn
+Tehran---Valletta
+Dakar---Majuro
+Kuwait City---Tehran
+Sri Jayawardenapura Kotte---Havana
+58
+Port-au-Prince
+Majuro
+Helsinki
+Charlotte Amalie
+San Juan
+Conakry
+Roseau
+Port of Spain
+Algiers
+Basseterre
+Riga
+Saipan
+Bishkek
+Porto-Novo
+Abuja
+Havana
+Copenhagen
+Kigali
+Lusaka
+Stockholm
+Stanley
+Hanga Roa
+Philipsburg
+Gibraltar
+Ouagadougou
+Tórshavn
+Lomé
+Bandar Seri Begawan
+Grytviken
+Ottawa
+Amman
+Sanaá
+Dushanbe
+Reykjavík
+Edmonton
+Bucharest
+Paris
+Belmopan
+Nairobi
+Tehran
+Jamestown
+Cayenne
+Jerusalem
+London
+Papeete
+Naypyidaw
+Vienna
+Rabat
+Manila
+La Paz
+Guatemala City
+Muscat
+Valletta
+Kampala
+Podgorica
+Dakar
+Kuwait City
+Sri Jayawardenapura Kotte

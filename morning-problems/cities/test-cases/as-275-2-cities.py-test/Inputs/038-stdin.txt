@@ -1,0 +1,83 @@
+40
+Doha---Quito
+Ljubljana---Bridgetown
+Warsaw---Ashgabat
+Caracas---Bratislava
+Manila---Freetown
+Jamestown---St. George's
+Episkopi Cantonment---Nouméa
+St. George's---Ashgabat
+Port of Spain---Conakry
+Yaren---Tirana
+Jerusalem---Tirana
+Wellington---Tallinn
+Monaco---Doha
+Bogotá---Jerusalem
+Dushanbe---Nairobi
+Victoria---Roseau
+Tirana---Port of Spain
+Phnom Penh---Amman
+Dublin---Astana
+La Paz---Abuja
+Tunis---Doha
+Bridgetown---Tirana
+Moroni---Yaren
+Nouméa---Doha
+Nairobi---Episkopi Cantonment
+Tallinn---Abuja
+Bratislava---St. George's
+Quito---Edinburgh
+Edinburgh---Tirana
+Astana---Moroni
+Ashgabat---Victoria
+Vilnius---Ashgabat
+Harare---Bogotá
+Nouakchott---Manila
+Amman---Tunis
+Freetown---Moroni
+Roseau---Abuja
+Prague---La Paz
+Abuja---Dublin
+Conakry---Edmonton
+41
+Doha
+Warsaw
+Port of Spain
+Jerusalem
+La Paz
+Victoria
+Dublin
+Moroni
+Nairobi
+Bratislava
+Quito
+Phnom Penh
+Astana
+Wellington
+Roseau
+St. George's
+Harare
+Ashgabat
+Amman
+Bogotá
+Dushanbe
+Abuja
+Prague
+Jamestown
+Episkopi Cantonment
+Yaren
+Monaco
+Manila
+Tirana
+Nouméa
+Conakry
+Edmonton
+Tunis
+Ljubljana
+Bridgetown
+Tallinn
+Edinburgh
+Freetown
+Vilnius
+Nouakchott
+Caracas

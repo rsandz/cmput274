@@ -1,0 +1,155 @@
+76
+Vientiane---Windhoek
+Singapore---Asmara
+San Juan---Islamabad
+Sarajevo---Vaduz
+Tashkent---Astana
+Honiara---Tarawa
+Bamako---Ouagadougou
+Tarawa---Mexico City
+Pago Pago---Gustavia
+Nicosia---Grytviken
+Naypyidaw---Kigali
+Amman---Kigali
+Flying Fish Cove---Oslo
+Baghdad---Edmonton
+Tirana---Flying Fish Cove
+Ljubljana---Hanga Roa
+Jamestown---Edmonton
+Ouagadougou---Cardiff
+San Marino---Tokyo
+Freetown---Moroni
+Nukuʻalofa---Oranjestad
+Moroni---Baghdad
+Lusaka---Nouakchott
+Nouakchott---Quito
+Washington, D.C.---Maputo
+Oranjestad---London
+Managua---Ngerulmud
+Bucharest---Asmara
+Budapest---Hanga Roa
+Quito---Honiara
+Gustavia---Singapore
+Nouméa---Quito
+Bern---Tashkent
+Brazzaville---Dushanbe
+Seoul---Quito
+Mexico City---Naypyidaw
+Ankara---Dushanbe
+Kinshasa---Edmonton
+Ngerulmud---Ljubljana
+Canberra---Gustavia
+Funafuti---Flying Fish Cove
+Cardiff---Ngerulmud
+Edinburgh---Vientiane
+Dushanbe---Ngerulmud
+Astana---Nukuʻalofa
+Victoria---Singapore
+Harare---San Marino
+Thimphu---Quito
+Montevideo---Thimphu
+Sukhumi---Ljubljana
+Douglas---Ankara
+Oslo---Edinburgh of the Seven Seas
+Kingstown---Pago Pago
+Windhoek---Ngerulmud
+London---Canberra
+St. John's---Bern
+Santo Domingo---Kigali
+Tokyo---Tórshavn
+Asmara---Sukhumi
+Hanga Roa---Freetown
+Kigali---Edinburgh
+Hamilton---Hanga Roa
+Tskhinvali---Flying Fish Cove
+Tórshavn---Nouméa
+Port Moresby---Tórshavn
+Muscat---Tashkent
+Kabul---Managua
+Buenos Aires---Budapest
+Amsterdam---Kingstown
+Islamabad---Kingstown
+Yaren---Douglas
+Plymouth---Edinburgh of the Seven Seas
+Vaduz---Funafuti
+Maputo---Nicosia
+Grytviken---Victoria
+Edinburgh of the Seven Seas---Bern
+77
+Singapore
+San Juan
+Pago Pago
+Sarajevo
+Tashkent
+Bern
+Budapest
+Honiara
+Montevideo
+Plymouth
+Nicosia
+Grytviken
+Vientiane
+Amman
+Naypyidaw
+Nukuʻalofa
+Baghdad
+Flying Fish Cove
+Ljubljana
+Edinburgh of the Seven Seas
+Tirana
+Bamako
+Jamestown
+Ouagadougou
+Oslo
+Freetown
+San Marino
+Lusaka
+Nouakchott
+Washington, D.C.
+Oranjestad
+Gustavia
+Nouméa
+Tarawa
+Brazzaville
+Seoul
+Moroni
+Douglas
+Mexico City
+Ankara
+Kinshasa
+Islamabad
+Canberra
+Ngerulmud
+Cardiff
+Kigali
+Port Moresby
+Astana
+Edinburgh
+Dushanbe
+Thimphu
+Harare
+Hamilton
+Funafuti
+Sukhumi
+Edmonton
+Kingstown
+London
+Santo Domingo
+Tokyo
+Asmara
+Quito
+Hanga Roa
+St. John's
+Managua
+Bucharest
+Tskhinvali
+Tórshavn
+Muscat
+Kabul
+Amsterdam
+Victoria
+Yaren
+Vaduz
+Maputo
+Buenos Aires
+Windhoek

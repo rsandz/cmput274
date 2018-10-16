@@ -1,0 +1,85 @@
+41
+Lima---Havana
+Ngerulmud---Port Vila
+Asunción---Canberra
+Riga---Prague
+Montevideo---St. Pierre
+Sri Jayawardenapura Kotte---Canberra
+Majuro---Stanley
+Bratislava---Lima
+Panama City---Rabat
+Suva---Tokyo
+Victoria---Pyongyang
+Tiraspol---Maseru
+London---Bratislava
+Port Moresby---Edmonton
+Pyongyang---Maseru
+Maseru---Lima
+Beijing---Edmonton
+Ouagadougou---Vatican City
+Port Vila---Havana
+Grytviken---Lima
+Mata-Utu---Tiraspol
+Canberra---Havana
+Vatican City---Bratislava
+Tokyo---Juba
+Prague---Sri Jayawardenapura Kotte
+Wellington---Stanley
+Belmopan---Athens
+Stanley---Edmonton
+Berlin---Sri Jayawardenapura Kotte
+The Valley---Caracas
+Quito---Belmopan
+Athens---Canberra
+Rabat---Maseru
+Juba---Sri Jayawardenapura Kotte
+Caracas---Ngerulmud
+Paramaribo---Juba
+St. Pierre---Sri Jayawardenapura Kotte
+Bishkek---Belmopan
+Antananarivo---Stanley
+Bern---Victoria
+Havana---Port Moresby
+42
+Lima
+Panama City
+Montevideo
+Port Moresby
+Berlin
+Majuro
+Suva
+Tiraspol
+Rabat
+Canberra
+Ouagadougou
+The Valley
+Grytviken
+Mata-Utu
+Bishkek
+Vatican City
+Tokyo
+Belmopan
+Wellington
+Juba
+St. Pierre
+Ngerulmud
+Prague
+Sri Jayawardenapura Kotte
+Bern
+Edmonton
+Athens
+Maseru
+Victoria
+Pyongyang
+Riga
+Beijing
+Port Vila
+Antananarivo
+London
+Stanley
+Asunción
+Bratislava
+Paramaribo
+Quito
+Caracas
+Havana

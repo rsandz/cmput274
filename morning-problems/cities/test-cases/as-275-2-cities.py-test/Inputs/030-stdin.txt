@@ -1,0 +1,51 @@
+24
+Banjul---San José
+Oslo---Jamestown
+Riga---Wellington
+Nukuʻalofa---Wellington
+Willemstad---San Juan
+Sri Jayawardenapura Kotte---San Marino
+Bamako---Port Louis
+Jerusalem---Riga
+Flying Fish Cove---San José
+Athens---Hagåtña
+Port Louis---Wellington
+San Marino---Willemstad
+Edinburgh of the Seven Seas---Sri Jayawardenapura Kotte
+Kuwait City---Wellington
+Hagåtña---San José
+Kingstown---Flying Fish Cove
+Jamestown---Edinburgh of the Seven Seas
+Wellington---Jamestown
+San Juan---Quito
+Belmopan---Libreville
+Libreville---Kingstown
+San José---Edinburgh of the Seven Seas
+Nuuk---Athens
+Quito---Edmonton
+25
+Riga
+Willemstad
+Sri Jayawardenapura Kotte
+Wellington
+Athens
+Kuwait City
+Nukuʻalofa
+Jerusalem
+Edmonton
+Kingstown
+Jamestown
+Libreville
+San José
+Nuuk
+Banjul
+Oslo
+Port Louis
+Bamako
+San Marino
+Edinburgh of the Seven Seas
+Hagåtña
+Flying Fish Cove
+San Juan
+Belmopan
+Quito

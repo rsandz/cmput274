@@ -1,0 +1,175 @@
+86
+Sucre---Jerusalem
+Warsaw---San Juan
+Riyadh---Wellington
+Port Moresby---Wellington
+Sarajevo---Bishkek
+Pyongyang---Algiers
+Berlin---Buenos Aires
+Vientiane---Tripoli
+Alofi---Minsk
+Montevideo---Warsaw
+Port Louis---Pago Pago
+Jerusalem---Montevideo
+Willemstad---St. Helier
+Madrid---Wellington
+Minsk---Tripoli
+La Paz---West Island
+Singapore---Port Louis
+Guatemala City---Dakar
+Charlotte Amalie---Bishkek
+Buenos Aires---Malabo
+Douglas---Guatemala City
+Kampala---Quito
+Lilongwe---Gibraltar
+Hanga Roa---Maseru
+Nuuk---Tripoli
+Brussels---Nouméa
+San Marino---Stepanakert
+Kinshasa---San Marino
+Porto-Novo---Buenos Aires
+Victoria---Road Town
+Andorra la Vella---Tripoli
+Tbilisi---Paramaribo
+Baghdad---West Island
+Stanley---Wellington
+Tripoli---Edmonton
+Caracas---Belfast
+Pago Pago---Port Vila
+Kiev---St. George's
+Belfast---Baghdad
+George Town---Zagreb
+Port Vila---Luxembourg
+Nouméa---Buenos Aires
+Algiers---St. George's
+West Island---Nuuk
+Zagreb---Brussels
+Vatican City---Ngerulmud
+Luxembourg---Nairobi
+Praia---Conakry
+Paramaribo---Berlin
+Monrovia---Sofia
+Dakar---Nuuk
+Maseru---Kampala
+St. Helier---Prague
+Muscat---Wellington
+Conakry---Adamstown
+Lusaka---Vatican City
+Quito---Monrovia
+Stepanakert---Nouméa
+Rome---Ngerulmud
+Cairo---Sarajevo
+Monaco---Sarajevo
+Niamey---Bangkok
+Abuja---St. Helier
+Wellington---Ljubljana
+Vilnius---West Island
+Nassau---Buenos Aires
+Jakarta---Vientiane
+Adamstown---Ljubljana
+Port-au-Prince---Port Vila
+Ngerulmud---Praia
+Manila---Victoria
+Gibraltar---Stepanakert
+Malabo---Warsaw
+Bishkek---Prague
+Ulaanbaatar---Dakar
+Hagåtña---Baghdad
+San Juan---Edmonton
+Prague---Monrovia
+Ljubljana---Caracas
+Nairobi---St. Helier
+St. George's---Riyadh
+Mbabane---Pago Pago
+Damascus---Abuja
+Sofia---Ljubljana
+Bangkok---Belfast
+Road Town---Sarajevo
+87
+Sucre
+Warsaw
+Port Moresby
+Berlin
+Alofi
+Manila
+Minsk
+La Paz
+Guatemala City
+Douglas
+Kampala
+Lilongwe
+San Marino
+Porto-Novo
+Victoria
+Baghdad
+Tripoli
+George Town
+Nouméa
+Luxembourg
+Monrovia
+Nuuk
+St. Helier
+Conakry
+Stepanakert
+Rome
+Cairo
+Niamey
+Abuja
+Wellington
+Vilnius
+Nassau
+Jakarta
+Lusaka
+Bangkok
+Gibraltar
+Ulaanbaatar
+Hagåtña
+Prague
+Nairobi
+Mbabane
+Damascus
+Sofia
+Road Town
+Riyadh
+Sarajevo
+Pyongyang
+Vientiane
+Montevideo
+Port Louis
+Jerusalem
+Willemstad
+Madrid
+Singapore
+Charlotte Amalie
+Buenos Aires
+Hanga Roa
+Brussels
+Kinshasa
+Andorra la Vella
+Tbilisi
+Stanley
+Quito
+Caracas
+Pago Pago
+Kiev
+Belfast
+Port Vila
+Algiers
+West Island
+Zagreb
+Vatican City
+Praia
+Paramaribo
+Dakar
+Maseru
+Muscat
+Adamstown
+Edmonton
+Ngerulmud
+Malabo
+Bishkek
+San Juan
+Ljubljana
+St. George's
+Monaco
+Port-au-Prince

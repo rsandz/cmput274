@@ -1,0 +1,141 @@
+69
+Bamako---Tashkent
+Edinburgh---Berlin
+Basseterre---La Paz
+Singapore---Sarajevo
+Luxembourg---Pretoria
+Tbilisi---Montevideo
+Skopje---Antananarivo
+Kigali---Montevideo
+Papeete---Pretoria
+Pretoria---Bamako
+Manama---Santo Domingo
+Lilongwe---Washington, D.C.
+Ngerulmud---Bratislava
+Apia---Hanga Roa
+San José---Lisbon
+Tirana---Sukhumi
+Bangui---Apia
+Palikir---Bangui
+El Aaiún---Montevideo
+Sarajevo---Ngerulmud
+Bern---Ouagadougou
+Antananarivo---Tirana
+Taipei---Philipsburg
+Phnom Penh---Cardiff
+Lisbon---Copenhagen
+Edinburgh of the Seven Seas---Nuuk
+Cardiff---Edinburgh of the Seven Seas
+Amsterdam---Honiara
+Berlin---Tbilisi
+Alofi---El Aaiún
+Kuwait City---Cayenne
+Philipsburg---West Island
+Panama City---Tbilisi
+Copenhagen---Tbilisi
+Bogotá---Mogadishu
+Belmopan---Luxembourg
+Dakar---Jerusalem
+Vilnius---St. Pierre
+West Island---Sukhumi
+St. Pierre---Nuuk
+Port Moresby---Pretoria
+Montevideo---Philipsburg
+Zagreb---Bern
+Stanley---West Island
+Seoul---Lilongwe
+San Juan---Jamestown
+Sukhumi---Sarajevo
+Madrid---Seoul
+Tashkent---West Island
+Jamestown---Luxembourg
+Honiara---Seoul
+Monrovia---Santo Domingo
+La Paz---Phnom Penh
+Thimphu---Zagreb
+Nuuk---Palikir
+Paris---Madrid
+Oslo---Ouagadougou
+St. George's---Monrovia
+Washington, D.C.---Kuwait City
+Bratislava---Edmonton
+Cayenne---Bogotá
+Ouagadougou---San José
+Wellington---Bogotá
+Prague---Edinburgh
+Tokyo---Prague
+Jerusalem---Ngerulmud
+Santo Domingo---Luxembourg
+Hanga Roa---West Island
+Mogadishu---Hanga Roa
+70
+Bamako
+Edinburgh
+Basseterre
+Singapore
+Luxembourg
+Tbilisi
+Edmonton
+Skopje
+Kigali
+Papeete
+Pretoria
+Manama
+Ngerulmud
+Apia
+San José
+Tirana
+El Aaiún
+Palikir
+Stanley
+Sarajevo
+Paris
+Bern
+Antananarivo
+Jerusalem
+Phnom Penh
+Wellington
+Lisbon
+Edinburgh of the Seven Seas
+Cardiff
+Amsterdam
+Kuwait City
+Panama City
+Copenhagen
+Alofi
+Bogotá
+Belmopan
+Dakar
+West Island
+St. Pierre
+Sukhumi
+Honiara
+Montevideo
+Zagreb
+Port Moresby
+Seoul
+Lilongwe
+San Juan
+Madrid
+Tashkent
+Berlin
+Jamestown
+Monrovia
+La Paz
+Thimphu
+Nuuk
+Oslo
+St. George's
+Washington, D.C.
+Bangui
+Bratislava
+Philipsburg
+Cayenne
+Taipei
+Vilnius
+Ouagadougou
+Prague
+Tokyo
+Hanga Roa
+Santo Domingo
+Mogadishu

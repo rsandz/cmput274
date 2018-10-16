@@ -1,0 +1,163 @@
+80
+Jamestown---Astana
+Skopje---Brasília
+Tskhinvali---Rome
+Sucre---Porto-Novo
+Dhaka---Caracas
+Managua---Prague
+Nicosia---Caracas
+Moroni---Ulaanbaatar
+Bujumbura---Moroni
+Paris---Caracas
+Canberra---Nuuk
+Astana---Lisbon
+Jerusalem---Thimphu
+Copenhagen---Singapore
+Funafuti---Maputo
+San Salvador---Amman
+Dublin---Belfast
+Lilongwe---Astana
+Stepanakert---Maputo
+Kigali---Caracas
+Port-au-Prince---Alofi
+Bucharest---Tskhinvali
+Basseterre---Taipei
+Ulaanbaatar---Singapore
+St. Pierre---Kampala
+Montevideo---Dublin
+Brasília---Tehran
+Kampala---Addis Ababa
+Prague---Helsinki
+Pristina---Sarajevo
+Belfast---Copenhagen
+São Tomé---Edmonton
+Sarajevo---Accra
+Ngerulmud---Prague
+Lisbon---Basseterre
+Yaoundé---Grytviken
+Caracas---Bujumbura
+Helsinki---Kampala
+Alofi---Beijing
+Malé---St. Pierre
+Bamako---Helsinki
+Moscow---Budapest
+Santo Domingo---San Salvador
+Porto-Novo---Managua
+Beijing---Moscow
+Havana---Caracas
+Reykjavík---Jerusalem
+Tórshavn---Grytviken
+Singapore---Sofia
+Vatican City---Malabo
+Tehran---Ngerulmud
+Rome---Sofia
+Malabo---Athens
+Budapest---St. Helier
+Sofia---Brasília
+St. Peter Port---Budapest
+Nuuk---St. Helier
+Addis Ababa---Edmonton
+Port Moresby---Naypyidaw
+Gustavia---Skopje
+Washington, D.C.---Mogadishu
+Hanoi---Brasília
+Thimphu---Bucharest
+Libreville---Nuuk
+Naypyidaw---Gibraltar
+Brazzaville---Jamestown
+St. Helier---Sarajevo
+Bissau---Kingston
+Athens---Lisbon
+Muscat---Brasília
+Mogadishu---Nuuk
+Kingston---Grytviken
+Amman---Managua
+Palikir---Caracas
+Grytviken---Porto-Novo
+Taipei---Tórshavn
+Gibraltar---Pristina
+Accra---São Tomé
+Maputo---Kampala
+Asunción---Rome
+81
+Skopje
+Jerusalem
+Sucre
+Dhaka
+Managua
+Nicosia
+Moroni
+Bujumbura
+Paris
+Canberra
+Jamestown
+Beijing
+Nuuk
+Funafuti
+Prague
+Malé
+San Salvador
+Dublin
+Stepanakert
+Kigali
+Bucharest
+Basseterre
+Ulaanbaatar
+St. Pierre
+Montevideo
+Accra
+Brasília
+Kampala
+Pristina
+Asunción
+Belfast
+São Tomé
+Sarajevo
+Ngerulmud
+Lisbon
+Havana
+Yaoundé
+Caracas
+Edmonton
+Helsinki
+Alofi
+Bamako
+Libreville
+Santo Domingo
+Moscow
+Porto-Novo
+Maputo
+Gibraltar
+Reykjavík
+Tórshavn
+Gustavia
+Vatican City
+Rome
+Tehran
+Amman
+Malabo
+Budapest
+Sofia
+Lilongwe
+Port-au-Prince
+St. Peter Port
+Addis Ababa
+Port Moresby
+Washington, D.C.
+Hanoi
+Thimphu
+Singapore
+Naypyidaw
+Tskhinvali
+Brazzaville
+Astana
+St. Helier
+Bissau
+Athens
+Copenhagen
+Mogadishu
+Kingston
+Muscat
+Palikir
+Grytviken
+Taipei

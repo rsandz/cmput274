@@ -1,0 +1,161 @@
+79
+Jakarta---Nassau
+Reykjavík---Chisinau
+Bamako---Pago Pago
+Sofia---Bangkok
+Praia---Islamabad
+West Island---Cockburn Town
+Algiers---Cockburn Town
+Antananarivo---Manama
+Pristina---Dili
+Maseru---Bamako
+Managua---Manama
+Thimphu---Asmara
+Mexico City---Road Town
+Nassau---Kinshasa
+Honiara---Ashgabat
+Porto-Novo---Kingston
+Singapore---Tegucigalpa
+Nouméa---Quito
+Brazzaville---Papeete
+Tiraspol---Edmonton
+Port-au-Prince---Singapore
+Tbilisi---Bandar Seri Begawan
+Charlotte Amalie---Port-au-Prince
+Victoria---Maseru
+Nairobi---Juba
+Cairo---Avarua
+Malabo---Addis Ababa
+Harare---Malabo
+Accra---Ashgabat
+Yaren---La Paz
+Quito---Valletta
+Dili---Managua
+St. John's---Yaren
+St. Peter Port---Malabo
+Valletta---Guatemala City
+Guatemala City---Reykjavík
+Tegucigalpa---Prague
+Sucre---Lilongwe
+Abu Dhabi---Hagåtña
+Wellington---São Tomé
+Avarua---Victoria
+Cockburn Town---Quito
+Ashgabat---Ulaanbaatar
+Caracas---Sucre
+Dhaka---Montevideo
+Vaduz---Kinshasa
+Mata-Utu---Antananarivo
+Kabul---Rabat
+Bangkok---Tegucigalpa
+Montevideo---Edmonton
+Yerevan---Singapore
+Kingston---N'Djamena
+São Tomé---Mata-Utu
+Papeete---Bratislava
+Bern---Caracas
+N'Djamena---Edmonton
+Juba---Caracas
+Baghdad---Ulaanbaatar
+Dushanbe---St. John's
+Islamabad---Caracas
+Addis Ababa---Bratislava
+Ulaanbaatar---Papeete
+Beirut---Pago Pago
+Asmara---Bangkok
+Hagåtña---Bangkok
+Chisinau---Pristina
+La Paz---Bandar Seri Begawan
+Nuuk---Charlotte Amalie
+Rabat---Wellington
+Kinshasa---Chisinau
+Tskhinvali---Bandar Seri Begawan
+Lilongwe---Charlotte Amalie
+Pago Pago---West Island
+Manila---Malabo
+Road Town---Manama
+Manama---Bangkok
+Bandar Seri Begawan---Bamako
+Bratislava---Prague
+Prague---Edmonton
+80
+Malabo
+Reykjavík
+West Island
+Antananarivo
+Pristina
+Managua
+Mexico City
+Jakarta
+Sofia
+Algiers
+Nassau
+Porto-Novo
+Honiara
+Nouméa
+Edmonton
+Tiraspol
+São Tomé
+Tbilisi
+Charlotte Amalie
+Victoria
+Nairobi
+Thimphu
+Yerevan
+Cairo
+Dushanbe
+Harare
+Accra
+Singapore
+Yaren
+Quito
+Juba
+Dili
+St. Peter Port
+Valletta
+Guatemala City
+Tegucigalpa
+St. John's
+Sucre
+Abu Dhabi
+Wellington
+Avarua
+Bamako
+Cockburn Town
+Caracas
+Dhaka
+Pago Pago
+Mata-Utu
+Ashgabat
+Kabul
+Bangkok
+Montevideo
+Lilongwe
+Kingston
+Papeete
+Bern
+Maseru
+Nuuk
+N'Djamena
+Islamabad
+Brazzaville
+Port-au-Prince
+Baghdad
+Addis Ababa
+Ulaanbaatar
+Asmara
+Hagåtña
+Beirut
+Chisinau
+La Paz
+Bandar Seri Begawan
+Praia
+Tskhinvali
+Rabat
+Kinshasa
+Manila
+Road Town
+Manama
+Vaduz
+Bratislava
+Prague

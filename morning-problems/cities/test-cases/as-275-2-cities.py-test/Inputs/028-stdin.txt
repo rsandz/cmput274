@@ -1,0 +1,55 @@
+26
+Ljubljana---Plymouth
+Bridgetown---Sri Jayawardenapura Kotte
+Santiago---Ljubljana
+Porto-Novo---Port Vila
+Douglas---Bridgetown
+Astana---Dili
+Bujumbura---Amman
+Pretoria---Nuuk
+Ouagadougou---Sri Jayawardenapura Kotte
+Prague---Nukuʻalofa
+Nuuk---Edmonton
+Plymouth---Cairo
+Sri Jayawardenapura Kotte---Nuuk
+Cairo---Edmonton
+Port Vila---Santiago
+Amman---Ljubljana
+Belmopan---Montevideo
+Tunis---Bridgetown
+Bangui---Santiago
+Dodoma---Astana
+Cardiff---Edmonton
+Montevideo---Edmonton
+Brussels---Plymouth
+Brasília---Dodoma
+Dili---Sri Jayawardenapura Kotte
+Nukuʻalofa---Amman
+27
+Ljubljana
+Santiago
+Astana
+Bujumbura
+Bridgetown
+Dodoma
+Brasília
+Ouagadougou
+Sri Jayawardenapura Kotte
+Port Vila
+Tunis
+Montevideo
+Brussels
+Nukuʻalofa
+Porto-Novo
+Douglas
+Cardiff
+Pretoria
+Nuuk
+Plymouth
+Edmonton
+Cairo
+Amman
+Belmopan
+Bangui
+Prague
+Dili

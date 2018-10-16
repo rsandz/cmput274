@@ -1,0 +1,191 @@
+94
+St. Pierre---Antananarivo
+Sucre---Maputo
+Kinshasa---Dakar
+Dodoma---Bujumbura
+Georgetown---Porto-Novo
+Sukhumi---Belmopan
+Stockholm---Bujumbura
+Naypyidaw---Mbabane
+Tallinn---Kigali
+Algiers---Pyongyang
+Hanga Roa---Basseterre
+Maseru---Wellington
+Bamako---Mbabane
+Asunción---Bamako
+Valletta---Roseau
+Nuuk---Basseterre
+Kampala---Stanley
+Bissau---Suva
+Helsinki---Gibraltar
+Dili---Santiago
+Yaoundé---Buenos Aires
+Vientiane---Islamabad
+Honiara---Tarawa
+Bujumbura---Sucre
+Wellington---Bujumbura
+San Salvador---Wellington
+Malé---Buenos Aires
+Mbabane---Riyadh
+Bridgetown---Kabul
+Roseau---Algiers
+Belmopan---Algiers
+Nouméa---Dakar
+Gibraltar---Alofi
+Pristina---Wellington
+Kigali---Bridgetown
+Dublin---Grytviken
+Lilongwe---Tallinn
+Pyongyang---Edmonton
+Palikir---Hargeisa
+Muscat---Tirana
+Buenos Aires---Bangkok
+Suva---Prague
+Kingstown---Valletta
+São Tomé---Algiers
+Hamilton---Sucre
+Dakar---Sarajevo
+Avarua---Doha
+Doha---Monrovia
+Grytviken---Road Town
+Abuja---Bangkok
+Alofi---Praia
+Funafuti---Edmonton
+Road Town---Sarajevo
+Kuwait City---Porto-Novo
+Prague---Sukhumi
+Islamabad---Tskhinvali
+Riga---Algiers
+Moscow---Asunción
+Tskhinvali---Bujumbura
+Kuala Lumpur---Yaoundé
+Tarawa---El Aaiún
+Santiago---Edmonton
+Jerusalem---Santiago
+Moroni---Kinshasa
+El Aaiún---Kampala
+Bern---Prague
+Kabul---Prague
+Tirana---Ouagadougou
+Riyadh---Roseau
+Bangkok---Road Town
+Ngerulmud---Georgetown
+Podgorica---Mexico City
+Hargeisa---Algiers
+Sofia---Jerusalem
+Praia---San Salvador
+Basseterre---Belmopan
+Tehran---Dakar
+Berlin---Sarajevo
+Maputo---Tórshavn
+Monrovia---Sucre
+Porto-Novo---Dodoma
+Madrid---Riyadh
+Sarajevo---Kingstown
+Phnom Penh---Sucre
+Tórshavn---Tarawa
+Mexico City---Grytviken
+Stanley---Dublin
+Thimphu---Jerusalem
+Yaren---Maseru
+Stepanakert---Bissau
+Antananarivo---Mbabane
+Beijing---Maputo
+Ouagadougou---Tallinn
+Malabo---Kampala
+95
+St. Pierre
+Naypyidaw
+Sucre
+Kinshasa
+Dodoma
+Georgetown
+Sukhumi
+Algiers
+Hanga Roa
+Maseru
+Bamako
+Yaren
+Valletta
+Kampala
+Bissau
+Malé
+Helsinki
+Honiara
+Wellington
+Bridgetown
+Podgorica
+Gibraltar
+Kigali
+Dublin
+Pristina
+Pyongyang
+Palikir
+São Tomé
+Grytviken
+Funafuti
+Kuwait City
+Ngerulmud
+Prague
+Islamabad
+Moscow
+Santiago
+Moroni
+Tirana
+Hargeisa
+Praia
+Porto-Novo
+Madrid
+Sarajevo
+Mexico City
+Thimphu
+Antananarivo
+Beijing
+Malabo
+Sofia
+Stockholm
+Muscat
+Tallinn
+Monrovia
+Edmonton
+Asunción
+Phnom Penh
+Nuuk
+Dili
+Bujumbura
+San Salvador
+Mbabane
+Roseau
+Belmopan
+Nouméa
+Yaoundé
+Hamilton
+Buenos Aires
+Jerusalem
+Kingstown
+Dakar
+Avarua
+Abuja
+Road Town
+Riga
+Tskhinvali
+Tarawa
+El Aaiún
+Bern
+Kabul
+Suva
+Riyadh
+Bangkok
+Tehran
+Basseterre
+Berlin
+Maputo
+Lilongwe
+Doha
+Vientiane
+Alofi
+Kuala Lumpur
+Tórshavn
+Stanley
+Stepanakert
+Ouagadougou

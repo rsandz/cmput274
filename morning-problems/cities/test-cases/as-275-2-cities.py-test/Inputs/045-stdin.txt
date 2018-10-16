@@ -1,0 +1,93 @@
+45
+Freetown---Kingston
+Port Vila---Sofia
+Manila---Brasília
+Paramaribo---Warsaw
+Honiara---Port-au-Prince
+Riyadh---Malé
+Islamabad---Moroni
+Rome---Edmonton
+Luanda---Port Vila
+Maputo---Rome
+San Salvador---Kingston
+Addis Ababa---Malé
+Tegucigalpa---San Salvador
+St. Pierre---Tegucigalpa
+Hanoi---Manila
+Hagåtña---Cardiff
+Philipsburg---Avarua
+Adamstown---Philipsburg
+Belgrade---Edmonton
+Brasília---Port-au-Prince
+Praia---Avarua
+Malé---Paramaribo
+Kuwait City---Brasília
+Warsaw---Adamstown
+Abuja---N'Djamena
+Roseau---Abuja
+Windhoek---St. Pierre
+Avarua---Roseau
+London---Brasília
+Kingston---Malé
+Dili---Philipsburg
+N'Djamena---Maputo
+Alofi---Adamstown
+El Aaiún---Kuwait City
+Dodoma---Gaborone
+Nairobi---Manila
+Suva---Riyadh
+Stanley---Port-au-Prince
+Sofia---Dodoma
+Cardiff---Luanda
+Port-au-Prince---Warsaw
+Gaborone---Praia
+Valletta---N'Djamena
+Yamoussoukro---Cardiff
+Moroni---Adamstown
+46
+Freetown
+Honiara
+Port Vila
+Manila
+Paramaribo
+Riyadh
+Dili
+Rome
+Luanda
+Maputo
+San Salvador
+Addis Ababa
+Tegucigalpa
+St. Pierre
+Edmonton
+Hanoi
+Hagåtña
+Philipsburg
+Islamabad
+Praia
+Belgrade
+Brasília
+Malé
+Kuwait City
+Warsaw
+Abuja
+Roseau
+Windhoek
+Avarua
+London
+Kingston
+N'Djamena
+Alofi
+El Aaiún
+Dodoma
+Nairobi
+Suva
+Adamstown
+Stanley
+Sofia
+Cardiff
+Port-au-Prince
+Gaborone
+Valletta
+Yamoussoukro
+Moroni
