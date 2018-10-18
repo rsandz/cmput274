@@ -5,8 +5,6 @@ class Tree:
 
     The root of the tree is redefined for easy access to the start
     of the tree.
-        - The root node could be a leaf node, if there is only
-            one leaf!!
     """
     def __init__(self, nodes, root):
         self.nodes = nodes
@@ -94,7 +92,6 @@ def make_encoding_table(huffman_tree):
         """
         Traces out all paths in the Huffman tree and adds each
         corresponding leaf value and its associated path to the table.
-        We walk the tree!
         """
         if isinstance(tree, TreeLeaf):
             # note, if this is the special end message entry then
@@ -125,7 +122,7 @@ def make_freq_table(stream):
     buff = bytearray(512)
     while True:
         count = stream.readinto(buff)
-        print(count)
+
         for b in buff:
             if b not in freq_dict:
                 freq_dict[b] = 1

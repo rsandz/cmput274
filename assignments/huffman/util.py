@@ -1,6 +1,7 @@
 import bitio
 import huffman
 import pickle
+import sys
 
 
 def read_tree(tree_stream):
@@ -14,16 +15,9 @@ def read_tree(tree_stream):
     Returns:
       A Huffman tree root constructed according to the given description.
     '''
-    # Get the entire tree's binary representation
-    tree_byte_array = bytearray()
-    while True:
-        try:
-            tree_byte_array += tree_stream.readbits(tree_stream)
-        except EOFError:
-            break
-
+    
     # Unserialize and return the node
-    tree_root = pickle.loads(tree_byte_array)
+    tree_root = pickle.load(tree_stream)
     return tree_root
 
 
@@ -33,6 +27,7 @@ def decode_byte(tree, bitreader):
     the root to a leaf. Once a leaf is reached, bits are no longer read
     and the value of that leaf is returned.
 
+    EOF Error is raised when bitreader has reached EOF
     Args:
       bitreader: An instance of bitio.BitReader to read the tree from.
       tree: A Huffman tree.
@@ -41,19 +36,24 @@ def decode_byte(tree, bitreader):
       Next byte of the compressed bit stream.
     """
     # Read from bitreader until done
-    currentNode = tree.root
+    current_node = tree.root
+    
     while True:
-        bit = bitreader.readbit()
+        try:
+            bit = int(bitreader.readbit())
+        except EOFError:
+            raise RuntimeError("Partial Encoding/Bits in compressed file")
+
         if bit == 0:
-            currentNode = currentNode.left
+            current_node = current_node.left
         elif bit == 1:
-            currentNode = currentNode.right
+            current_node = current_node.right
         else:
             raise TypeError("Bitreader returned non-binary")
 
         # Check if done
-        if isinstance(currentNode, huffman.TreeLeaf):
-            return currentNode.value
+        if isinstance(current_node, huffman.TreeLeaf):
+            return current_node.value
     
     # TODO: Check for if byte not in tree
 
@@ -69,9 +69,25 @@ def decompress(compressed, uncompressed):
       uncompressed: A writable file stream to which the uncompressed
           output is written.
     '''
+    # Init
+    tree = read_tree(compressed)
+    comp_reader = bitio.BitReader(compressed)
+    uncomp_writer = bitio.BitWriter(uncompressed)
     
+    # Uncompress the compressed stream
+    while True:
+        uncomp_byte = decode_byte(tree, comp_reader)
 
+        # Check if EOF marker
+        if uncomp_byte is None:
+            break
 
+        uncomp_writer.writebits(uncomp_byte, 8)
+
+    # Flush and then we're done
+    uncomp_writer.flush()
+    
+    
 def write_tree(tree, tree_stream):
     '''Write the specified Huffman tree to the given tree_stream
     using pickle.
@@ -80,7 +96,7 @@ def write_tree(tree, tree_stream):
       tree: A Huffman tree.
       tree_stream: The binary file to write the tree to.
     '''
-    pass
+    pickle.dump(tree, tree_stream)
 
 
 def compress(tree, uncompressed, compressed):
@@ -97,6 +113,23 @@ def compress(tree, uncompressed, compressed):
       uncompressed: A file stream from which you can read the input.
       compressed: A file stream that will receive the tree description
           and the coded input data.
-      tree_stream: A file stream where the tree data should be dumped.
     '''
-    pass
+    # Init
+    write_tree(tree, compressed)
+    encoding_table = huffman.make_encoding_table(tree.root)
+
+    comp_writer = bitio.BitWriter(compressed)
+    uncomp_reader = bitio.BitReader(uncompressed)
+
+    try:
+        while True:
+            byte = uncomp_reader.readbits(8)
+            to_write = encoding_table[byte]
+
+            # The above is in a format of True or False
+            for bool in to_write:
+                comp_writer.writebit(bool)
+    
+    except EOFError:
+        # Flush and we're done
+        comp_writer.flush()

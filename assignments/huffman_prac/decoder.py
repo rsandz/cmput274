@@ -1,1 +1,0 @@
-# Turns binary into string
