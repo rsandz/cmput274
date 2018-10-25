@@ -1,17 +1,67 @@
-HUFFMAN ASSIGNMENT: NEW VERSION FOR FALL 2018
+Name: Ryan Sandoval
+ID: 1529017
+Course: CMPUT 274, FALL 2018
 
-STUDENTS SHOULD REPLACE THIS README WITH THEIR OWN
+# Assignment 1: Huffman Compression #
 
-Included Files:
-- bitio.py: Contains the classs BitWriter and BitReader
-- compress.py: Runs the code to compress a file.
-- huffman.py: Used to create huffman trees as well as encode and decode messages. To be written in class.
-- webserver.py: The file that allows viewing of the compressed files as they are being sent to the web browser
-- wwwroot directory: contains compressed versions of the webpage (index.html.huf) and the image of Huffman (huffman.bmp.huf)
-Modified Files:
-- util.py: Contains the five functions read_tree(), decode_byte(), write_tree(), compress(), and decompress() which students must implement.
+## Included Files: ##
+- util.py
+    - Utility python file to decompress and compress other files
 
-Running the code:
-Go to the wwwroot directory. Open a bash terminal and open the web server using "python3 ../webserver.py". You can then go to the url "http://localhost:8000" to view the webpage and image of Huffman that will appear if the decompressor is functioning properly. Note that the port can be changed by modifying the variable port in webserver.py.
 
-To compress a file, first copy that file over to the wwwroot directory and then move to that directory and type "python3 ../compress.py somefile.ext" where somefile is the name of the file you wish to compress and ext is the extension. Then go to the url "http://localhost:8000/somefile.ext" to view and/or download the decompressed file.
+## Accessories: ##
+    - None
+
+
+## Wiring Instructions: ## 
+    - None
+
+
+## Running Instructions: ##
+
+Import util.py first
+
+To decompress, call:
+    util.decompress(compressed, uncompressed)
+        - compressed: The file stream compressed via huffman Compression
+        - uncompressed: Output file stream to dump the decompressed file
+
+To compress, call:    
+    util.compress(tree, compressed, decompressed)
+        - tree: The tree to pickle and insert into the compressed file
+        - compressed: The file stream to dump the tree and the compressed file
+        - uncompressed: The file stream to compress
+
+## Notes and Assumptions ##
+
+### Exceptions and Exception Handling ###
+    - If an error occured, an exit value of -1 is returned
+    - Setting GRACEFUL_EXIT to True will make the program print out the
+        problem and then sys.exit(-1), rather than raising the error
+        (Originally, I raised errors, but the rubric required that I print them instead.
+        So, I created this to switch between the two.)
+    - Util.py requires that *.huf files have an EOF encoding at the end.
+        If it does not, a Runtime Error error stating the lack of 
+        an EOF encoding will be raised when bitreader
+        reaches the end of file. 
+        The file is still outputed, but may contain null characters.
+        The error is more of a warning, really.
+    - Several other error checking are also present:
+        - Raise TypeError if bitreader returns non-binary
+
+
+### The following modules are required: ###
+    - huffman
+    - bitio
+    - sys
+    - pickle
+
+### MISC ###
+The compreser was tested on an image, pdf, various text files.
+Assumes a well made tree is provided during compression.
+Also assumes that parameters compressed and uncompressed are files streams
+
+Happy Grading!
+
+
+
