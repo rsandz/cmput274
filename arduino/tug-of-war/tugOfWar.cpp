@@ -44,7 +44,7 @@ void setup() {
 
     // config LED pins to be a digital OUTPUT
     pinMode(P1LEDHighPin, OUTPUT);
-    pinMode(P1LEDLowPin, OUTPUT);
+    pinMode(P1LEDLowPin, OUTPUT); 
     pinMode(LEDEvenPin, OUTPUT);    
     pinMode(P2LEDLowPin, OUTPUT);
     pinMode(P2LEDHighPin, OUTPUT);
@@ -55,15 +55,13 @@ void setup() {
     digitalWrite(P1ButtonPin, HIGH);
     pinMode(P2ButtonPin, INPUT);
     digitalWrite(P2ButtonPin, HIGH);
-
 }
 
-void blink(pin) {
-    digitalWrite(pin, High);
-    delay(500);
-    digitalWrite(pin, Low);
+void blink(int pin, int dly = 100) {
+    digitalWrite(pin, HIGH);
+    delay(dly);
+    digitalWrite(pin, LOW);
 }
-
 
 int main() {
 	setup(); // our first act should be to initialize everything
@@ -81,12 +79,15 @@ int main() {
 	int Threshold = 5;
     int HighThreshold = 10;
 
-    for (int i = 0; i < 3; i++) {
+    for (int i = 0; i < 10; i++) {
         blink(P1LEDHighPin);
         blink(P1LEDLowPin);
         blink(LEDEvenPin);
         blink(P2LEDLowPin);
         blink(P2LEDHighPin);
+        blink(P2LEDLowPin);
+        blink(LEDEvenPin);
+        blink(P1LEDLowPin);
 
     }
 

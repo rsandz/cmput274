@@ -1,0 +1,58 @@
+Name: Ryan Sandoval
+ID: 1529017
+Course: CMPUT 274, FALL 2018
+
+# Exercise 5: Counting Lights #
+
+## Description ##
+Binary Counter using LEDs
+
+## Included Files: ##
+- counting.cpp
+    - Cotains the functionality required by assignment
+- Makefile
+- README
+
+
+## Accessories: ##
+    - Arduino Mega Board (Recomended: With Breadboard)
+    - 4x Red LED
+    - 1x Green LEDs
+    - 5x 560 Ohm Resistor (Green Blue Brown)
+    - 2x Push Buttons
+
+
+## Wiring Instructions: ## 
+Note: "+ LEAD" is the loger lead on the LED. "- LEAD" is the shorter lead on the LED.
+"Pin" refer to digital pins, unless otherwise stated.
+
+### LEDS ###
+1. Arduino Pin 9 <--> + LEAD | RED LED | - LEAD <--> 560 Ohm Resistor <--> Arduino GND
+2. Arduino Pin 10 <--> + LEAD | RED LED | - LEAD <--> 560 Ohm Resistor <--> Arduino GND
+3. Arduino Pin 11 <--> + LEAD | GREEN LED | - LEAD <--> 560 Ohm Resistor <--> Arduino GND
+4. Arduino Pin 12 <--> + LEAD | RED LED | - LEAD <--> 560 Ohm Resistor <--> Arduino GND
+5. Arduino Pin 13 <--> + LEAD | RED LED | - LEAD <--> 560 Ohm Resistor <--> Arduino GND
+
+### Push Buttons ###
+1. Arduino Pin 6 <--> Push Button (Increment) <--> Arduino GND
+2. Arduino Pin 7 <--> Push Button (Decrement) <--> Arduino GND
+
+
+## Running Instructions: ##
+    - Wire up according to above and run the Makefile to upload to Arduino
+    - Use push buttons to increment or decrement the counter
+
+
+## Notes and Assumptions ##
+Solution uses a variable to track the increments and decrements due to button presses.
+The binary representation of this count is used to define the on/off states of 
+their respective LEDs.
+
+There is a serial.print in the main function. Uncomment this to print the count after a button press.
+
+The lights initially start of at count 0 - All LEDs are off.
+
+Happy Grading!
+
+
+

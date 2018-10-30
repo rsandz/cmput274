@@ -1,0 +1,3 @@
+Too many command line arguments
+Usage: python3 preprocess.py <mode>
+<mode> : keep-digits, keep-stops, keep-symbols
