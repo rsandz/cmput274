@@ -1,0 +1,1 @@
+gcc input.cpp -o output -Wall
