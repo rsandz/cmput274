@@ -61,6 +61,29 @@ uint32_t powModFastOld(uint32_t a, uint32_t b, uint32_t m) {
 	return result;
 }
 
+int multMod(uint32_t a, uint32_t b, uint32_t m)
+{
+	uint32_t result, term;
+
+	a = a % m;
+	b = b % m;
+	result = 0;
+	term = b;
+
+	while (a != 0)
+	{
+		if (a & 1)
+		{
+			result = (result + term) % m;
+		}
+
+		term = ( term * 2) % m;
+		a >>= 1;
+	}
+
+	return result;
+}
+
 
 /*
 	Compute and return (a to the power of b) mod m.
@@ -85,9 +108,9 @@ uint32_t powModFast(uint32_t a, uint32_t b, uint32_t m) {
 	//               newB = b >> i
 	while (newB > 0) {
 		if (newB&1) { // evalutates to true iff i'th bit of b is 1
-			result = (result*sqrVal)%m;
+			result = multMod(result, sqrVal, m);
 		}
-		sqrVal = (sqrVal*sqrVal) % m;
+		sqrVal = multMod(sqrVal, sqrVal, m);
 		newB = (newB>>1);
 	}
 
