@@ -1,0 +1,50 @@
+===========================
+| Exercise 7 - Money Bags |
+===========================
+Name: Ryan Sandoval
+Id: 1529017
+Course: CMPUT 274, Fall 2018
+ 
+# Included Files:
+    - README
+    - Makefile - Included for your convenience
+    - moneybags.cpp
+ 
+ 
+# Required Components:
+    - None
+ 
+
+# Wiring Instructions:
+    - None
+ 
+
+# Description:
+    - Use to calculate Dr. Moneybag's club threshold as per the 
+        assignment instructions located on eclass.
+
+
+# Running Instructions:
+    Note: Anything located within `...` means to run it in the terminal.
+
+    Standalone Use:
+    - Extract files into a directory and open a terminal in that directory.
+    - Run `make` to compile the source into the executable `moneybags.out`
+    - Run `./moneybags.out` or `make run` to start the program
+    - Run `make clean` to remove the executable
+
+    During Program Runtime:
+    - Enter an integer defining the number of applicants.
+    - Enter each of the aplicants net worth as an integer in millions,
+        delimited by a space or a new line. (e.g `1` = 1 million, `10` = 10 million)
+    - The threshold 'N' should be outputed last and the program should stop.
+
+    The program can also be systematically tested if the method is similar to 
+    that of the test center provided on eclass.
+ 
+Assumptions and Notes:
+    - Only Integers are entered. Unexpected behaviour will occur otherwise
+    - All applicants must be entered or the program will not continue
+    - Value of inputs do not exceed ranges provided in assignment instructions 
+        provided in eclass. No overflow testing was done as a result.
+    - Assumes similar testing as in test center. (i.e. Don't import it)
